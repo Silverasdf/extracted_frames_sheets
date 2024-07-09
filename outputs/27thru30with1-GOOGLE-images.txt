@@ -1,0 +1,10 @@
+{'s': 27,
+ 'e': 30,
+ 'step': 1,
+ 'max_tokens': 99999,
+ 'image_resize': 768,
+ 's1': 0,
+ 's3': 20,
+ 'API': 'GOOGLE',
+ 'message': 'This is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\n              Number of vehicles in accident in a number,\n              Accident Type such as t-bone, rear end, etc,\n              Person Injury yes or no,\n              Need for ambulance yes or no,\n              Need for firetruck yes or no,\n              Need for Police yes or no,\n              Types of vehicles involved, such as suv, truck, sedan,\n              Fire yes or no,\n              Day/night and weather, such as clear, etc,\n              Low Res/Bad Footage yes or no.\n              Please ignore any context before these images and this prompt\n  ',
+ '000027': 'The video shows a traffic accident on a highway. There is a truck stopped on the right side of the road, and several cars are stopped behind it. The video is taken from a camera positioned above the highway. It is raining.'}

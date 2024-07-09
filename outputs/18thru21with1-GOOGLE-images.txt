@@ -1,0 +1,11 @@
+{'s': 18,
+ 'e': 21,
+ 'step': 1,
+ 'max_tokens': 99999,
+ 'image_resize': 768,
+ 's1': 0,
+ 's3': 20,
+ 'API': 'GOOGLE',
+ 'message': 'This is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\n              Number of vehicles in accident in a number,\n              Accident Type such as t-bone, rear end, etc,\n              Person Injury yes or no,\n              Need for ambulance yes or no,\n              Need for firetruck yes or no,\n              Need for Police yes or no,\n              Types of vehicles involved, such as suv, truck, sedan,\n              Fire yes or no,\n              Day/night and weather, such as clear, etc,\n              Low Res/Bad Footage yes or no.\n              Please ignore any context before these images and this prompt\n  ',
+ '000018': 'The video shows a car driving through an intersection at night.  It is difficult to tell the exact time of day or the location of the intersection.',
+ '000020': 'This is a video of traffic at an intersection. The video is taken from a surveillance camera and shows cars turning left and right at the intersection. The traffic light is green, and the cars are moving smoothly. There is a building in the background. The video is timestamped with the date and time, which is "2011-02-20 11:39:31."'}

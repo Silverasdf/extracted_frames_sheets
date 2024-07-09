@@ -1,0 +1,11 @@
+{'s': 52,
+ 'e': 55,
+ 'step': 1,
+ 'max_tokens': 99999,
+ 'image_resize': 768,
+ 's1': 0,
+ 's3': 20,
+ 'API': 'GOOGLE',
+ 'message': 'This is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\n              Number of vehicles in accident in a number,\n              Accident Type such as t-bone, rear end, etc,\n              Person Injury yes or no,\n              Need for ambulance yes or no,\n              Need for firetruck yes or no,\n              Need for Police yes or no,\n              Types of vehicles involved, such as suv, truck, sedan,\n              Fire yes or no,\n              Day/night and weather, such as clear, etc,\n              Low Res/Bad Footage yes or no.\n              Please ignore any context before these images and this prompt\n  ',
+ '000052': 'The video shows a car accident at a crosswalk. The driver of a car was not paying attention and ran a red light, causing an accident with another car.  The driver who ran the red light is at fault for the accident.',
+ '000054': "The video shows a car spinning out of control at an intersection. It appears to be raining and the car may have lost traction due to the wet road.  The driver of the car should have been driving more cautiously in the wet conditions. It is also possible that the driver was speeding. It's hard to tell from this video alone. Regardless, driving safely in wet conditions is crucial.  The other cars in the intersection are not able to avoid the spinning car, but they all manage to avoid colliding with each other. The car that spins out of control eventually comes to a stop. It is not clear from the video if there is any damage to the vehicle or if the driver was injured. This is a reminder to always drive carefully, especially in bad weather.  "}

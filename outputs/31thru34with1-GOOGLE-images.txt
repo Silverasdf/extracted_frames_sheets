@@ -1,0 +1,12 @@
+{'s': 31,
+ 'e': 34,
+ 'step': 1,
+ 'max_tokens': 99999,
+ 'image_resize': 768,
+ 's1': 0,
+ 's3': 20,
+ 'API': 'GOOGLE',
+ 'message': 'This is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\n              Number of vehicles in accident in a number,\n              Accident Type such as t-bone, rear end, etc,\n              Person Injury yes or no,\n              Need for ambulance yes or no,\n              Need for firetruck yes or no,\n              Need for Police yes or no,\n              Types of vehicles involved, such as suv, truck, sedan,\n              Fire yes or no,\n              Day/night and weather, such as clear, etc,\n              Low Res/Bad Footage yes or no.\n              Please ignore any context before these images and this prompt\n  ',
+ '000031': 'This appears to be a video of traffic going around a roundabout in a city.  It is hard to tell what happened in the video because it is only a short clip.  If you have a question about the video, please provide more context. \n',
+ '000032': "This appears to be a surveillance video from a security camera.  It shows a car driving past the camera and a pedestrian walking toward the camera.  It's impossible to tell what is happening, what the context is, or what the purpose of the video is.  It is not appropriate to make assumptions or draw conclusions from this video without more information.",
+ '000034': 'This appears to be a video of a car driving through a wet intersection at night. The video is shaky and blurry, likely recorded from a dashboard camera.  There is a watermark in the bottom right corner that says "kemalist2008." There is no clear indication of anything unusual or noteworthy happening in the video. \n\nIt is difficult to provide more context or analysis without knowing the source or purpose of the video. \n'}

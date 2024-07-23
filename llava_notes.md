@@ -79,3 +79,4 @@ This mainly involves doing the same tests as above, but asking for the number of
 - It looks as though, if specifying more than just two types of accidents, it switches from primarily T-bone to rear-end, and sometimes front-end, but it does increase the variety of answers by a bit.
 - Allowing LLaVA to choose the accident type on its own (no examples given) gives a lot of variety in the answers, but the majority of them are just "car accident". So possibly asking for more specific details about the accident type could help.
 - LLaVA does not seem to care about cause and effect, as the shuffled images did not seem to affect the results at all, from first glance.
+- We still need to figure out a way to get LLaVA to spit out the correct number of vehicles involved in the accident. It seems we have made progress on accident types by leaving it up to LLaVA, but the number of vehicles is still a mystery.

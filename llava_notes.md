@@ -90,53 +90,79 @@ Conclusion: Same as above, meaning that doing the same test again did not affect
 
 Prompt: Horizontal images, accident types asked.
 
+Conclusion: There is no significant difference between this and the accident types, meaning that the horizontal images did not affect the results significantly.
+
 ### Horizontal, Number Vehicles
 
 Prompt: Horizontal images, number of vehicles asked.
+
+Conclusion: It seems that, overall, the number of vehicles involved in the accident was overestimated, but a lot less than before, meaning that showing less images in the horizontal format did seem to moderately affect the results (or, at least, asking the question individually did).
 
 ### Horizontal, Shuffled
 
 Prompt: Horizontal images, images are shuffled, full test done.
 
+Conclusion: The results seem to fit the control group.
+
 ### Horizontal, Shuffled, Number Vehicles
 
 Prompt: Horizontal images, images are shuffled, number of vehicles asked.
+
+Conclusion: The results are around the same as the horizontal number vehicles test, meaning that the shuffling of the images did not affect the results significantly.
 
 ### Number Vehicles, Shuffled
 
 Prompt: Grid-like format, number of vehicles asked, images are shuffled.
 
+Conclusion: It looks like there are slightly more vehicles involved in this test than the one that is like this but horizontal, meaning that, when doing this test in the future, we should use less images in a horizontal formation.
+
 ### Image Quality
 
 Prompt: Just like the control group, except only the image quality is asked. LLaVA is asked to describe the image quality from giving a scale of 1 to 10. This is to help see if the image quality affects the results at all.
+
+Conclusion: None went below 5, and the low-res images given in the ground truth do not match the low ratings of the conclusion.
 
 ### One Image, Image Quality
 
 Prompt: Same as Image Quality, but only one image is shown.
 
+Conclusion: Same as above, meaning using one image does not seem to significantly affect the results.
+
 ### New Prompt, Accident Types
 
 Prompt: Accident types asked with the new prompt.
+
+Conclusion: The new prompt seems to, indeed, get more detail. However, the detail from this new prompt seems to just be the positions of each vehicle, rather than the detail in the type of car accident ("car accident" is still seen).
 
 ### No Accident Types (New prompt without "be specific"), Horizontal, Shuffled
 
 Prompt: No accident types asked, horizontal image formation, images are shuffled.
 
+Conclusion: Same as the normal accident types test.
+
 ### One Image, Accident Types
 
 Prompt: Accident types asked, only one image shown. These one image tests are to see if LLaVA will say that no accident occurred, as the first image is not enough to determine that an accident occurred.
+
+Conclusion: LLaVA assumes that an accident occurred, which means that there needs to be a prompt change.
 
 ### One Image, Full Test
 
 Prompt: Same as above, but the full test is given.
 
+Conclusion: Same as above, but the full test seems to perform worse than the control group as there seems to be more confusion in the answers (random "no"'s in the answer).
+
 ### One Image, Number Vehicles 1
 
 Prompt: Same as above, but the number of vehicles is asked.
 
+Conclusion: LLaVA still overestimates the number of vehicles involved in the accident, but less so than the control group.
+
 ### One Image, Number Vehicles 2
 
 Prompt: Same as above. I wanted to try this test again, since there were a few trials that were not answered, and I wanted to see if LLaVA would give me an answer this time.
+
+Conclusion: The number of vehicles do not seem to be very consistent among trials (different numbers used sometimes). This may mean that tests like this may need to be done multiple times to get the most accurate results.
 
 ## Test ideas
 
@@ -150,3 +176,8 @@ This mainly involves doing the same tests as above, but asking for the number of
 - Allowing LLaVA to choose the accident type on its own (no examples given) gives a lot of variety in the answers, but the majority of them are just "car accident". So possibly asking for more specific details about the accident type could help.
 - LLaVA does not seem to care about cause and effect, as the shuffled images did not seem to affect the results at all, from first glance.
 - We still need to figure out a way to get LLaVA to spit out the correct number of vehicles involved in the accident. It seems we have made progress on accident types by leaving it up to LLaVA, but the number of vehicles is still a mystery.
+- I believe that we should ask each of the questions separately, since it seems that asking for the number of vehicles involved in the accident does a little better when asked on its own.
+- Perhaps using less images in a horizontal formation could help with the number of vehicles involved in the accident.
+- LLaVA has a hard time figuring out what an SUV is. It will call an SUV anything from a car to a truck or bus. This is something that needs to be fixed (perhaps in fine-tuning)
+- Shuffling does not seem to affect the results at all.
+- Outright asking for image quality will not help (or if it does, there needs to be more work done to figure out how to make it work).

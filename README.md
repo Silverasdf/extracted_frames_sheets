@@ -9,6 +9,7 @@ For those who are confused by some of the files, here is a brief explanation of 
 - outputs/accuracy_matrices/* - These "accuracy matrices" show whether or not each image in each test in outputs/new_llava_trials/ matched the ground truth in accident_ground_truths.xlsx. 1 means that the particular question in the image matched the ground truth, 0 means that it did not.
 - outputs/old_trials/* - Combination of OpenAI, Gemini, and LLaVA tests.
 - outputs/new_llava_trials/* - Only the new LLaVA tests that I did after testing LLaVA initially. See llava_notes.md for more information. Most of these tests are for improving the prompt used.
+- outputs/images/* - I only have one graph so far, and I've used it in my presentation.
 - 00000*.xlsx - A few trials I answered questions to frame by frame, rather than by each sequence of frames.
 - accident_ground_truths.xlsx - The ground truth for the accident questions in the LLaVA tests. It includes 100 sequences of images and answers to multiple questions about each sequence.
 - Accident_Tests.ipynb - This was the first file I used to test the accuracy of OpenAI/Gemini tests. API key needed in order for it to work

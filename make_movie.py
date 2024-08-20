@@ -33,9 +33,10 @@ def images_to_video(image_folder, video_name, fps):
 
     cv2.destroyAllWindows()
     video.release()
-for i in range(99, 102, 1):
-    image_folder = '000'+str(i+1)+'/'
-    video_name = 'output_video'+str(i+1)+'.mp4'
+for i in range(100, 115, 1):
+    print("Processing sequence: ", i)
+    image_folder = 'sequences/000'+str(i+1)+'/'
+    video_name = 'outputs/tmp/output_video'+str(i+1)+'.mp4'
     fps = 30
     try:
         images_to_video(image_folder, video_name, fps)

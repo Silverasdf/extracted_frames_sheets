@@ -1,2 +1,4 @@
 *.mp4
 .history/
+sequences/
+outputs/tmp/

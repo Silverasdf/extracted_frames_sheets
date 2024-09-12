@@ -1,0 +1,113 @@
+﻿,Number of vehicles in accident,Accident Type,Person Injury? ,Need for ambulance?,Need for firetruck?,Need for Police?,Types of vehicles involved,Fire?,Weather,Low Res/Bad Footage?,Other
+0,0,N/A,No,No,No,No,N/A,No,"Night, Clear",No,No accident occurred
+1,3,"Rear-end, spin-out",Yes,No,No,Yes,"Sedan x2, SUV",No,"Snow, Day, Clear",No,Snow appears to have made the road difficult to drive on
+2,6,T-Bone,Yes,Yes,Yes,Yes,"Sedan, Truck x2, SUV x3",Yes,"Day, Clear",No,"Debris is visible, sedan catches fire, very violent accident"
+3,2,T-bone,Yes,Yes,No,Yes,"sedan, suv",No,"Day, Clear",No,"Although no one is visible, it is likely that there are injuries. Accident happened on intersection"
+4,2,T-Bone,Yes,Yes,No,Yes,"suv, truck",No,Night,No,Night conditions make it hard to see the second vehicle
+5,2,T-bone,Yes,Yes,No,Yes,"sedan, suv",No,Night,No,"Severe damage to both vehicles, and, over time, one could possible catch fire"
+6,4,T-bone x2,Yes,Yes,No,Yes,"suv, sedan and sedan, suv",No,Night,No,"Two accidents occurred in this video, both of which of similar severity"
+7,2,T-bone,No,No,No,Yes,"Bus, suv",No,Night,No,Bus barely t-bones sedan. Doesn't look like there was much of an impact
+8,2,Light t-bone,No,No,No,Yes,Sedan x2,No,"Day, clear",No,Sedan barely scrapes other sedan. Doesn't look like there was much of an impact
+9,3,T-bone,Yes,Yes,No,Yes,"truck x2, van",No,Day? Perhaps cloudy,No,Two vehicles impacted while one seems to be almost impacted.
+10,2,T-bone,Yes,Yes,No,Yes,"Truck, suv",No,Day,No,
+11,2,Light tap?,No,No,No,No,"Truck, suv",No,Day,No,Truck lightly taps suv and enters median. This could possibly lead to other impacts with oncoming traffic
+12,2,T-bone,Yes,Yes,No,Yes,"sedan, suv",No,"Night, hard to see",No,"One sedan was a taxi, happened at a traffic light"
+13,2,side-on-side collision,No,No,No,Yes,"sedan, suv",No,Day,No,"Looks to be a busy intersection, and does not look like too serious a collision compared to most accidents"
+14,2,front-to-front-side collision,No,No,No,Yes,sedan x2,No,"Day, cloudy, possible rain?",No,"One sedan caused the other to spin out a little, debris was shown"
+15,2,T-bone,Yes,Yes,No,Yes,sedan x2,No,Night,No,One sedan ran a red light and got hit
+16,2,T-bone,Yes,Yes,No,Yes,"sedan, suv",No,"Day, cloudy",No,Sedan ran a red light
+17,2,Slight tap to motorbike,Yes,Yes,No,Yes,"suv, motorbike",No,"Day, cloudy",No,"SUV seemed to hit the motorcyclist, toppling him over. No damage to the vehicles seemed to have been dealt, but the motorcyclist may need medical attention"
+18,2,T-bone,Yes,Yes,Yes,Yes,"suv, sedan",No,Night,No,One vehicle spun out and engine seen smoking - could lead to a fire in the future
+19,2,T-bone,Yes,Yes,No,Yes,sedan x2,No,Night,No,"Impact intensity is hard to determine, but definite t-bone collision happened"
+20,2,side-on-side collision,No,No,No,Yes,"suv, sedan",No,"Day, close to sunrise/sunset",No,"suv ran a red light and got hit, but it seems that both parties braked enough to not do serious damage"
+21,2,T-bone,Yes,Yes,No,Yes,"van, sedan",No,Night,No,
+22,2,T-bone,Yes,Yes,No,Yes,sedan x2,No,Day,No,The side of the car hit was near the rear
+23,2,T-bone,Yes,Yes,No,Yes,"sedan, 18-wheeler",No,Night,No,sedan hits the rear of 18-wheeler
+24,2,T-bone,Yes,Yes,No,Yes,"suv, sedan",No,Day,No,Impact intensity seemed very high - both parties are probably injured
+25,2,T-bone,Yes,Yes,No,Yes,sedan x2,No,Day,No,happened at mildly busy intersection
+26,2,No clear impact,Yes,Yes,No,No,"motorbike, van",No,Day,No,"Motorcyclist reacted to van and fell off bike. However, no impact seemed to have been made"
+27,2 (possibly more?),"Rear-end, spin-out",Yes,Yes,No,Yes,"police sedan, truck",No,"Day, possibly rainy?",No,"Truck rear ends police car and spins on interstate, potentially affecting many other vehicles"
+28,3,T-bone,Yes,Yes,No,Yes,"suv x2, sedan",No,Day,No,suv runs red light and gets hit by other two vehicles - light impact
+29,2,Rear-end,Possibly,Yes,No,yes,"Sedan, Truck",No,Day,No,truck was stopped and sedan was going too fast into a stop
+30,2,Rear-end,yes,yes,No,Yes,"sedan, bus",No,"Night, possibly hard to see",No,sedan crashes into bus that was not moving
+31,2,Light tap into spin-out,No,No,No,Yes,"sedan, truck",No,Day,No,truck lightly taps sedan on roundabout into spinning out
+32,1 (possibly more?),spin-out,No,No,No,No,suv?,No,Night,Yes,"suv seems to spin out, but unclear if any other impact happened in the footage"
+33,2,Front-end,Yes,Yes,No,Yes,"sedan, 18-wheeler?",No,Day,No,sedan seemed to be on wrong side of the road
+34,2,T-bone into spin-out,Yes,Yes,No,Yes,"suv, truck",No,Night,No,sedan runs into truck and spins the truck out in the intersection
+35,2,t-bone,Yes,Yes,No,Yes,sedan x2?,No,Day,No,happened at a busy intersection
+36,2,t-bone,Yes,yes,No,Yes,"Sedan, truck",No,Day,No,Sedan t-bones truck
+37,1,topple,No,No,No,Yes,truck,No,Day,No,"Truck seems to topple over, cause unknown, debris present"
+38,7 (possibly more),t-bone,Yes,Yes,No,Yes,"bus, sedan x4, suv x2",no,Day,No,"bus crashes into sedan, resulting in snowball effect of collisions"
+39,2,T-bone into spin-out,Yes,Yes,Yes,Yes,"van, 18-wheeler",yes,Day,No,"Both vehicles spin out, and one vehicle is seen smoking from the engine"
+40,1,Topple,Yes,Yes,No,Yes,truck,No,Day,No,"truck seemed to have spun out and toppled over, but the cause is unknown. Debris present"
+41,2,T-bone,Yes,Yes,Yes,yes,"18-wheeler, sedan",Yes,Night,No,"18-wheeler hits sedan at intersection, smoke is present"
+42,2,front-end,Yes,Yes,No,Yes,"suv, sedan",No,"day, cloudy?",No,Collision looks to have happened at an intersection
+43,3,Front-end,yes,Yes,No,Yes,"bus, 18-wheeler, sedan",No,Day,No,Bus hits 18-wheeler and sedan slightly at a left turn
+44,2,light t-bone,Yes,Yes,No,Yes,"truck, bike",No,"Day, clear",No,"truck lightly hits cyclist, toppling him over"
+45,2,t-bone,Yes,Yes,No,Yes,"suv, motorcycle",No,"Day, clear",No,"Suv crashes into motorcyclist, leading to debris. Motorcyclist needs medical attention"
+46,1 (possibly more?),cause unknown,Possibly,Yes,No,Yes,"sedan, ??",No,"Day, clear",Yes,"footage cannot determine what happened, but sedan's bumper and front seemed damaged at intersection"
+47,2,side-on-side collision,Yes,Yes,No,Yes,"suv, sedan",No,"Day, clear",No,"Although a side collision, impact still seemed great. A sign was destroyed in the process, and debris is present"
+48,2,T-bone,Yes,Yes,No,Yes,"suv, police sedan",No,Day,No,suv crashes into police sedan (that was stopped) at an intersection
+49,2,Front-end,Yes,Yes,No,Yes,"Suv, bike",No,Day,No,"Suv and bicyclist crash. Although cyclist was seem walking, medical attention is needed. Happened at busy area"
+50,2,"Light tap, front side on front side",No,No,No,Yes,suv x2,No,"Day, possibly cloudy",No,Both suvs seemed to lightly tap each other on the intersection
+51,2,light tap into side,No,No,No,No,"sedan, bike",No,Day,No,Cyclist hits the sedan at an intersection lightly
+52,2,t-bone,Yes,Yes,No,Yes,"suv, sedan",No,"Day, cloudy",No,Happened at an intersection
+53,2,t-bone (angled),No,No,No,Yes,industrial truck x2,No,"Day, cloudy",No,Happened at an intersection
+54,2,t-bone (angled),Yes,Yes,Yes,Yes,"18-wheeler, suv",Yes,"Day, cloudy",No,"Truck is seen smoking, happened at vacant intersection"
+55,2,light t-bone,No,No,No,Yes,sedan x2,No,"Day, clear",No,Light tap in intersection
+56,2,light t-bone,Possibly,Yes,No,Yes,"van, motorbike",No,Day,No,"Light tap from van to motorcyclist, toppling motorcyclist"
+57,2,light tap,No,No,No,No,"truck, sedan",No,Night,No,"Light tap from truck, accident did not seem very serious"
+58,2,t-bone (angled),Yes,Yes,No,Yes,"taxi sedan, sedan",No,Night,No,Strong hit at busy intersection
+59,2,T-bone,Yes,Yes,No,Yes,sedan x2,No,Night,No,Happened at an intersection
+60,2,T-bone,Yes,yes,No,Yes,sedan x2,No,Night,No,"Multiple passengers were in one vehicle, accident was clearly shown to stop a lot of traffic immediately"
+61,2,T-bone,Yes,Yes,Yes,Yes,"sedan, truck",No,Cloudy day?,No,Truck hits sedan and drags the sedan off the road - serious damage occurred
+62,2,T-bone (high speed),Yes,yes,No,Yes,sedan x2,No,Night,No,Sedan that was at fault was definitely speeding here - high impact
+63,2,T-bone,Yes,Yes,No,Yes,"sedan, police sedan",No,Night,No,Police car had lights on and hit sedan that seemed to be unaware of this
+64,2,rear-end,Yes,Yes,No,Yes,"sedan, van",No,Night,No,sedan hits van strongly at a light
+65,2,t-bone (light tap),Yes,Yes,No,Yes,van x2,No,"Day, snowy",No,"it looks that one van lost control and went straight thru the intersection, resulting in the other van hitting it"
+66,2,Front-end,Yes,Yes,No,Yes,suv x2,No,"Night, snowy",No,probably was caused by lack of control
+67,1,car against pedestrian,Yes,Yes,No,Yes,suv,No,Night,No,Car hits pedestrian extremely hard - medical attention is vital
+68,4,rear-end,Yes,Yes,No,Yes,"18-wheeler x2, sedan x2",No,"day, clear",No,One rear end collision leads to domino effect
+69,2,t-bone,No,No,No,Yes,"18-wheeler, train",No,"Day, clear",No,"Train hits 18-wheeler's trailer, so no person injuries but lots of debris"
+70,1 (maybe more?),spin-out?,No,No,No,Yes,truck,No,"Day, clear",No,Truck loses control and crashes into a parking lot - unclear whether or not other vehicles were hit
+71,2,angled t-bone?,Yes,Yes,No,Yes,"van, buggy?",No,"Day, clear",No,"Van crashes into small ""buggy"" and topples it over"
+72,2,t-bone,Yes,Yes,No,Yes,"van, bus",No,"Day, clear",No,Bus t-bones van at intersection that is mildly busy
+73,2,rear-end,Possibly,Yes,No,Yes,bus x2,No,"Day, clear",No,Bus rear-ends anotheer bus at large straightaway
+74,2,t-bone?,Yes,Yes,No,Yes,"sedan, bike?",No,Night,No,"It's hard to tell from the footage, but it seems that a sedan either hit a bike or a pedestrian at an intersection"
+75,2,cause unknown,No,No,No,No,"sedan, bike?",No,"Day, clear",Yes,"It looks like a sedan hit a bike, but footage is too grainy to tell"
+76,2,side-on-side collision,Yes,Yes,No,Yes,sedan x2,No,"Day, clear",No,Person seemed to have ejected from one of the vehicles in the midst of the collision
+77,1,topple,Yes,Yes,No,Yes,truck,No,Night,No,Truck topples over whilst crossing an intersection
+78,2,side-on-side collision,Yes,Yes,No,Yes,"sedan, bike",No,Night,No,Sedan topples over cyclist
+79,2,t-bone,Yes,Yes,No,Yes,"bus, bike",No,"Day, clear",No,Bus hits biker and topples the biker - it is likely that medical attention is needed
+80,1,topple,No,No,No,No,scooter,No,"Day, clear",No,Scooter topples over in intersection. It seems that the user can just pick up and carry on. Nothing should be necessary
+81,1,cause unknown,No,No,No,No,bike,No,"day, clear",No,"bike seemed to have toppled over before the time of the footage, but this small accident was cleaned up before anything serious happened"
+82,1,cause unknown,No,No,No,No,scooter,No,"Day, clear",No,"scooter seemed to topple over, but no harm seemed to have been done"
+83,2,t-bone (angled0,Possibly,Yes,No,Yes,"sedan, suv",No,Night,No,collision happened at 2 lane road
+84,2,rear-end,No,No,No,Yes,"bus, van",No,Day,No,"happened at congested area, so there could be more involved in the accident"
+85,1,cause unknown,No,No,No,No,scooter?,No,Day,Yes,"Although the cause is unknown, it seems that a bike toppled over at an intersection"
+86,2,T-bone,Yes,Yes,No,Yes,"bus, sedan",No,Night,No,"There don't seem to be many streetlights here, so it was hard to see specific vehicles"
+87,2,rear-end,No,No,No,Yes,"sedan, scooter",No,Day,No,Nobody seemed to be hurt by the end. Happened close to an intersection
+88,2,T-bone,Yes,Yes,No,Yes,suv x2,No,Day,No,"Happened at a busy intersection, mild impact"
+89,1,topple,No,No,No,No,motorbike,No,Day,No,"Simple topple at an intersection, nothing to be done"
+90,2,light t-bone,Yes,Yes,No,Yes,"bus, motorbike",No,Day,No,"Although light impact, motorcyclist probably needs medical attention"
+91,2,light t-bone,No,No,No,Yes,"buggy?, motorbike",No,Day,No,"It doesn't look like anyone was hurt, but send over police just in case"
+92,1,topple,Yes,Yes,No,Yes,18-wheeler,No,Day,No,18-wheeler took a sharp turn and toppled - debris present and damage to city inflicted
+93,1,rear-end,No,No,No,No,"bike, truck",No,Day,No,Bike hits truck lightly. Cyclist can like just get up and move on
+94,0,N/A,No,No,No,No,N/A,No,"Day, clear",No,No accident occurred
+95,2 (likely more),topple,Yes,Yes,Yes,Yes,"18-wheeler, sedan",No,"Day, cloudy",No,18-wheeler topples on interstate and hits other vehicles in the process. Debris present. Maximum assistance is needed
+96,2 (likely more),topple,Yes,Yes,Yes,Yes,"18-wheeler, sedan",No,"Day, cloudy",No,18-wheeler (again) topples on interstate and hits other vehicles in the process. Debris present. Maximum assistance is needed
+97,2,light t-bone,No,No,No,Yes,"18-wheeler, van",No,"Day, rainy",No,"happened at intersection, light impact"
+98,2,light t-bone,Possibly,Yes,No,Yes,"bike, suv",No,"Rainy, cloudy day",No,Suv hits cyclist - cyclist could be injured so medical assistance is necessary
+99,2,t-bone (angled),No,No,No,Yes,"suv, bus",No,Night,No,suv ran a red light and hit the bus lightly
+100,2,rear-end,No,No,No,Yes,suv x2,No,"Rainy, cloudy day",No,light/mild rear end collision near a traffic light
+101,2,t-bone,Yes,Yes,No,Yes,"bike, 18-wheeler?",No,Cloudy day?,No,"big vehicle looks to have run a red light and, as a result, the biker hits the vehicle"
+102,2,angled t-bone,Yes,Yes,No,Yes,"bus, sedan",No,Cloudy,No,super busy intersection
+103,2,rear-end,No,No,No,No,sedan x2,No,"Day, clear",No,super busy intersection
+104,2,angled t-bone,Yes,Yes,No,Yes,"suv, sedan",No,Night,Yes,extremely difficult to see
+105,2,t-bone,Yes,Yes,No,Yes,"bike, suv",No,Day,No,"bike runs into suv, only biker seems injured"
+106,2,t-bone,Yes,Yes,No,Yes,"bike, truck",No,Day,No,Truck runs into bike
+107,3,rear-end,Yes,Yes,No,Yes,"sedan x2, bus",No,Day,No,Bus runs into sedan which runs into other sedan
+108,1,loss of control,Yes,Yes,No,Yes,sedan,No,Day,No,car runs into median in city
+109,2,t-bone,Yes,Yes,No,Yes,"sedan, bus",No,Night,No,sedan runs into bus at non-busy intersection
+110,1,topple,Yes,Yes,No,Yes,bike,No,Day,No,"Bike topples over, injury seems minor, unknown if any other vehicle was involved"
+111,2,t-bone,Yes,Yes,No,Yes,van x2,No,Night,Yes,The glare makes it difficult to tell what exactly happened

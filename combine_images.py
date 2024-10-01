@@ -2,37 +2,107 @@
 #This is useful for comparing multiple images side by side
 
 import os
-import cv2
+from PIL import Image
+from math import ceil, sqrt
 import numpy as np
 from math import sqrt, floor
+
+import argparse
+
+import requests
+from io import BytesIO
 
 s = 0
 step = 20
 sequence_num = 101
 
+def load_image(image_file):
+    if image_file.startswith('http://') or image_file.startswith('https://'):
+        response = requests.get(image_file)
+        image = Image.open(BytesIO(response.content)).convert('RGB')
+    else:
+        image = Image.open(image_file).convert('RGB')
+    return image
+
+def parse_resolution(resolution_str):
+    # try to parse a string into a resolution tuple for the grid output
+    try:
+        width, height = map(int, resolution_str.split(','))
+        return width, height
+    except Exception as e:
+        raise argparse.ArgumentTypeError("Resolution must be w,h.") from e
+
 # Combine images into single image, grid-like format, and allow row and column size to be variable
 
-def combine_images(image_folder, output_name):
-    images = [img for img in os.listdir(image_folder) if img.endswith(".jpg") or img.endswith(".png")]
-    images = images[s::step]
-    #Rows and cols numbers should depend on number of images
-    rows = images.__len__()
-    cols = 1
+def expand_image_range_paths(paths):
+    expanded_paths = []
+    # check if specified --images is range of imgs
+    for path in paths:
+        if "{" in path and "}" in path:
+            pre, post = path.split("{", 1)
+            range_part, post = post.split("}", 1)
+            start, end = map(int, range_part.split("-"))
 
-    frame = cv2.imread(os.path.join(image_folder, images[0]))
-    height, width, layers = frame.shape
-    combined_image = np.zeros((height*rows, width*cols, 3), dtype=np.uint8)
+            for i in range(start, end + 1):
+                expanded_paths.append(f"{pre}{i}{post}")
+        else:
+            expanded_paths.append(path)
 
-    for i, image in enumerate(images):
-        row = i // cols
-        col = i % cols
-        img = cv2.imread(os.path.join(image_folder, image))
-        combined_image[row*height:(row+1)*height, col*width:(col+1)*width] = img
+    return expanded_paths
 
-    cv2.imwrite(output_name, combined_image)
+def concatenate_images_grid(images, dist_images, output_size):
+    num_images = len(images)
+    # calc grid size based on amount of input imgs
+    grid_size = max(2, ceil(sqrt(num_images)))
 
-# Example usage
-image_folder = f'sequences/000{str(sequence_num)}/'
-output_name = f'outputs/tmp/combined_image_{str(sequence_num)}.jpg'
+    cell_width = (output_size[0] - dist_images * (grid_size - 1)) // grid_size
+    cell_height = (output_size[1] - dist_images * (grid_size - 1)) // grid_size
 
-combine_images(image_folder, output_name)
+    # create new img with output_size, black bg
+    new_img = Image.new('RGB', output_size, (0, 0, 0))
+
+    for index, img in enumerate(images):
+        # calc img aspect ratio
+        img_ratio = img.width / img.height
+        # calc target aspect ratio per cell
+        target_ratio = cell_width / cell_height
+
+        # resize img to fit in cell
+        if img_ratio > target_ratio:
+            new_width = cell_width
+            new_height = int(cell_width / img_ratio)
+        else:
+            new_width = int(cell_height * img_ratio)
+            new_height = cell_height
+
+        # resize img using lanczos filter
+        resized_img = img.resize((new_width, new_height), Image.LANCZOS)
+
+        row = index // grid_size
+        col = index % grid_size
+
+        # calc x, y offsets for img positioning
+        x_offset = col * (cell_width + dist_images) + (cell_width - new_width) // 2
+        y_offset = row * (cell_height + dist_images) + (cell_height - new_height) // 2
+
+        # paste resized img in calc pos
+        new_img.paste(resized_img, (x_offset, y_offset))
+
+    return new_img
+
+def concatenate_images(images, strategy, dist_images, grid_resolution):
+    if strategy == 'grid':
+        return concatenate_images_grid(images, dist_images, grid_resolution)
+    else:
+        raise ValueError("Invalid concatenation strategy specified")
+
+for sequence_num in range(101, 126):
+    image_folder = f'sequences/{sequence_num:06d}/'
+    print(f"Processing {image_folder}")
+
+    image_files = expand_image_range_paths([os.path.join(image_folder, f) for f in os.listdir(image_folder) if f.endswith(('.jpg', '.png'))])
+
+    images = [load_image(img_file) for img_file in image_files]
+    print(f"Loaded {len(images)} images")
+    image = concatenate_images(images, "grid", 20, parse_resolution('2560,1440')) if len(images) > 1 else images[0]
+    image.save(f"outputs/tmp/{sequence_num:06d}.jpg")

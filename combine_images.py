@@ -14,7 +14,9 @@ from io import BytesIO
 
 s = 0
 step = 20
-sequence_num = 101
+
+sequence_start = 169
+sequence_end = 200
 
 def load_image(image_file):
     if image_file.startswith('http://') or image_file.startswith('https://'):
@@ -50,8 +52,11 @@ def expand_image_range_paths(paths):
 
     return expanded_paths
 
-def concatenate_images_grid(images, dist_images, output_size):
+def concatenate_images_grid(images, dist_images, output_size, s1, s3):
+    images = images[s1::s3]
+
     num_images = len(images)
+    print(f"With slicing, there are now {num_images} images")
     # calc grid size based on amount of input imgs
     grid_size = max(2, ceil(sqrt(num_images)))
 
@@ -90,13 +95,13 @@ def concatenate_images_grid(images, dist_images, output_size):
 
     return new_img
 
-def concatenate_images(images, strategy, dist_images, grid_resolution):
+def concatenate_images(images, strategy, dist_images, grid_resolution, s1, s3):
     if strategy == 'grid':
-        return concatenate_images_grid(images, dist_images, grid_resolution)
+        return concatenate_images_grid(images, dist_images, grid_resolution, s1, s3)
     else:
         raise ValueError("Invalid concatenation strategy specified")
 
-for sequence_num in range(101, 126):
+for sequence_num in range(sequence_start, sequence_end + 1):
     image_folder = f'sequences/{sequence_num:06d}/'
     print(f"Processing {image_folder}")
 
@@ -104,5 +109,5 @@ for sequence_num in range(101, 126):
 
     images = [load_image(img_file) for img_file in image_files]
     print(f"Loaded {len(images)} images")
-    image = concatenate_images(images, "grid", 20, parse_resolution('2560,1440')) if len(images) > 1 else images[0]
+    image = concatenate_images(images, "grid", 20, parse_resolution('2560,1440'), s, step) if len(images) > 1 else images[0]
     image.save(f"outputs/tmp/{sequence_num:06d}.jpg")

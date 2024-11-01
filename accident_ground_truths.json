@@ -9,7 +9,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 0\nAccident Type: N/A\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: N/A\nFire: No\nTime of Day and weather: Night, Clear\nLow Res/Bad Footage: No\nOther Information: No accident occurred"
+				"value": "Number of vehicles in accident: 0\nAccident Type: N/A\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: N/A\nFire: No\nTime of Day and weather: Night, Clear\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -23,7 +23,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 3\nAccident Type: Rear-end, spin-out\nPerson Injury: Yes\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: Sedan x2, SUV\nFire: No\nTime of Day and weather: Snow, Day, Clear\nLow Res/Bad Footage: No\nOther Information: Snow appears to have made the road difficult to drive on"
+				"value": "Number of vehicles in accident: 3\nAccident Type: Rear-end, spin-out\nPerson Injury: Yes\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: Sedan x2, SUV\nFire: No\nTime of Day and weather: Snow, Day, Clear\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -37,7 +37,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 6\nAccident Type: T-Bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: Yes\nNeed for Police: Yes\nTypes of vehicles involved: Sedan, Truck x2, SUV x3\nFire: Yes\nTime of Day and weather: Day, Clear\nLow Res/Bad Footage: No\nOther Information: Debris is visible, sedan catches fire, very violent accident"
+				"value": "Number of vehicles in accident: 6\nAccident Type: T-Bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: Yes\nNeed for Police: Yes\nTypes of vehicles involved: Sedan, Truck x2, SUV x3\nFire: Yes\nTime of Day and weather: Day, Clear\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -51,7 +51,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, suv\nFire: No\nTime of Day and weather: Day, Clear\nLow Res/Bad Footage: No\nOther Information: Although no one is visible, it is likely that there are injuries. Accident happened on intersection"
+				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, suv\nFire: No\nTime of Day and weather: Day, Clear\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -65,7 +65,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: T-Bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv, truck\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\nOther Information: Night conditions make it hard to see the second vehicle"
+				"value": "Number of vehicles in accident: 2\nAccident Type: T-Bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv, truck\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -79,7 +79,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, suv\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\nOther Information: Severe damage to both vehicles, and, over time, one could possible catch fire"
+				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, suv\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -93,7 +93,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 4\nAccident Type: T-bone x2\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv, sedan and sedan, suv\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\nOther Information: Two accidents occurred in this video, both of which of similar severity"
+				"value": "Number of vehicles in accident: 4\nAccident Type: T-bone x2\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv, sedan and sedan, suv\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -107,7 +107,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: Bus, suv\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\nOther Information: Bus barely t-bones sedan. Doesn't look like there was much of an impact"
+				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: Bus, suv\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -121,7 +121,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: Light t-bone\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: Sedan x2\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\nOther Information: Sedan barely scrapes other sedan. Doesn't look like there was much of an impact"
+				"value": "Number of vehicles in accident: 2\nAccident Type: Light t-bone\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: Sedan x2\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -135,7 +135,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 3\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: truck x2, van\nFire: No\nTime of Day and weather: Day? Perhaps cloudy\nLow Res/Bad Footage: No\nOther Information: Two vehicles impacted while one seems to be almost impacted."
+				"value": "Number of vehicles in accident: 3\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: truck x2, van\nFire: No\nTime of Day and weather: Day? Perhaps cloudy\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -149,7 +149,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: Truck, suv\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\nOther Information: N/A"
+				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: Truck, suv\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -163,7 +163,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: Light tap?\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: Truck, suv\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\nOther Information: Truck lightly taps suv and enters median. This could possibly lead to other impacts with oncoming traffic"
+				"value": "Number of vehicles in accident: 2\nAccident Type: Light tap?\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: Truck, suv\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -177,7 +177,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, suv\nFire: No\nTime of Day and weather: Night, hard to see\nLow Res/Bad Footage: No\nOther Information: One sedan was a taxi, happened at a traffic light"
+				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, suv\nFire: No\nTime of Day and weather: Night, hard to see\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -191,7 +191,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: side-on-side collision\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, suv\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\nOther Information: Looks to be a busy intersection, and does not look like too serious a collision compared to most accidents"
+				"value": "Number of vehicles in accident: 2\nAccident Type: side-on-side collision\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, suv\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -205,7 +205,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: front-to-front-side collision\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Day, cloudy, possible rain?\nLow Res/Bad Footage: No\nOther Information: One sedan caused the other to spin out a little, debris was shown"
+				"value": "Number of vehicles in accident: 2\nAccident Type: front-to-front-side collision\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Day, cloudy, possible rain?\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -219,7 +219,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\nOther Information: One sedan ran a red light and got hit"
+				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -233,7 +233,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, suv\nFire: No\nTime of Day and weather: Day, cloudy\nLow Res/Bad Footage: No\nOther Information: Sedan ran a red light"
+				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, suv\nFire: No\nTime of Day and weather: Day, cloudy\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -247,7 +247,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: Slight tap to motorbike\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv, motorbike\nFire: No\nTime of Day and weather: Day, cloudy\nLow Res/Bad Footage: No\nOther Information: SUV seemed to hit the motorcyclist, toppling him over. No damage to the vehicles seemed to have been dealt, but the motorcyclist may need medical attention"
+				"value": "Number of vehicles in accident: 2\nAccident Type: Slight tap to motorbike\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv, motorbike\nFire: No\nTime of Day and weather: Day, cloudy\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -261,7 +261,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: Yes\nNeed for Police: Yes\nTypes of vehicles involved: suv, sedan\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\nOther Information: One vehicle spun out and engine seen smoking - could lead to a fire in the future"
+				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: Yes\nNeed for Police: Yes\nTypes of vehicles involved: suv, sedan\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -275,7 +275,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\nOther Information: Impact intensity is hard to determine, but definite t-bone collision happened"
+				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -289,7 +289,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: side-on-side collision\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv, sedan\nFire: No\nTime of Day and weather: Day, close to sunrise/sunset\nLow Res/Bad Footage: No\nOther Information: suv ran a red light and got hit, but it seems that both parties braked enough to not do serious damage"
+				"value": "Number of vehicles in accident: 2\nAccident Type: side-on-side collision\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv, sedan\nFire: No\nTime of Day and weather: Day, close to sunrise/sunset\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -303,7 +303,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: van, sedan\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\nOther Information: N/A"
+				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: van, sedan\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -317,7 +317,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\nOther Information: The side of the car hit was near the rear"
+				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -331,7 +331,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, 18-wheeler\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\nOther Information: sedan hits the rear of 18-wheeler"
+				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, 18-wheeler\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -345,7 +345,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv, sedan\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\nOther Information: Impact intensity seemed very high - both parties are probably injured"
+				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv, sedan\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -359,7 +359,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\nOther Information: happened at mildly busy intersection"
+				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -373,7 +373,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: No clear impact\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: motorbike, van\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\nOther Information: Motorcyclist reacted to van and fell off bike. However, no impact seemed to have been made"
+				"value": "Number of vehicles in accident: 2\nAccident Type: No clear impact\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: motorbike, van\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -387,7 +387,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2 (possibly more?)\nAccident Type: Rear-end, spin-out\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: police sedan, truck\nFire: No\nTime of Day and weather: Day, possibly rainy?\nLow Res/Bad Footage: No\nOther Information: Truck rear ends police car and spins on interstate, potentially affecting many other vehicles"
+				"value": "Number of vehicles in accident: 2 (possibly more?)\nAccident Type: Rear-end, spin-out\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: police sedan, truck\nFire: No\nTime of Day and weather: Day, possibly rainy?\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -401,7 +401,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 3\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv x2, sedan\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\nOther Information: suv runs red light and gets hit by other two vehicles - light impact"
+				"value": "Number of vehicles in accident: 3\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv x2, sedan\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -415,7 +415,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: Rear-end\nPerson Injury: Possibly\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: yes\nTypes of vehicles involved: Sedan, Truck\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\nOther Information: truck was stopped and sedan was going too fast into a stop"
+				"value": "Number of vehicles in accident: 2\nAccident Type: Rear-end\nPerson Injury: Possibly\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: yes\nTypes of vehicles involved: Sedan, Truck\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -429,7 +429,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: Rear-end\nPerson Injury: yes\nNeed for ambulance: yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, bus\nFire: No\nTime of Day and weather: Night, possibly hard to see\nLow Res/Bad Footage: No\nOther Information: sedan crashes into bus that was not moving"
+				"value": "Number of vehicles in accident: 2\nAccident Type: Rear-end\nPerson Injury: yes\nNeed for ambulance: yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, bus\nFire: No\nTime of Day and weather: Night, possibly hard to see\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -443,7 +443,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: Light tap into spin-out\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, truck\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\nOther Information: truck lightly taps sedan on roundabout into spinning out"
+				"value": "Number of vehicles in accident: 2\nAccident Type: Light tap into spin-out\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, truck\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -457,7 +457,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 1 (possibly more?)\nAccident Type: spin-out\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: suv?\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: Yes\nOther Information: suv seems to spin out, but unclear if any other impact happened in the footage"
+				"value": "Number of vehicles in accident: 1 (possibly more?)\nAccident Type: spin-out\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: suv?\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: Yes\n"
 			}
 		]
 	},
@@ -471,7 +471,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: Front-end\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, 18-wheeler?\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\nOther Information: sedan seemed to be on wrong side of the road"
+				"value": "Number of vehicles in accident: 2\nAccident Type: Front-end\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, 18-wheeler?\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -485,7 +485,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone into spin-out\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv, truck\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\nOther Information: sedan runs into truck and spins the truck out in the intersection"
+				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone into spin-out\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv, truck\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -499,7 +499,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2?\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\nOther Information: happened at a busy intersection"
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2?\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -513,7 +513,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: Sedan, truck\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\nOther Information: Sedan t-bones truck"
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: Sedan, truck\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -527,7 +527,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 1\nAccident Type: topple\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: truck\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\nOther Information: Truck seems to topple over, cause unknown, debris present"
+				"value": "Number of vehicles in accident: 1\nAccident Type: topple\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: truck\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -541,7 +541,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 7 (possibly more)\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: bus, sedan x4, suv x2\nFire: no\nTime of Day and weather: Day\nLow Res/Bad Footage: No\nOther Information: bus crashes into sedan, resulting in snowball effect of collisions"
+				"value": "Number of vehicles in accident: 7 (possibly more)\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: bus, sedan x4, suv x2\nFire: no\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -555,7 +555,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone into spin-out\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: Yes\nNeed for Police: Yes\nTypes of vehicles involved: van, 18-wheeler\nFire: yes\nTime of Day and weather: Day\nLow Res/Bad Footage: No\nOther Information: Both vehicles spin out, and one vehicle is seen smoking from the engine"
+				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone into spin-out\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: Yes\nNeed for Police: Yes\nTypes of vehicles involved: van, 18-wheeler\nFire: yes\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -569,7 +569,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 1\nAccident Type: Topple\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: truck\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\nOther Information: truck seemed to have spun out and toppled over, but the cause is unknown. Debris present"
+				"value": "Number of vehicles in accident: 1\nAccident Type: Topple\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: truck\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -583,7 +583,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: Yes\nNeed for Police: yes\nTypes of vehicles involved: 18-wheeler, sedan\nFire: Yes\nTime of Day and weather: Night\nLow Res/Bad Footage: No\nOther Information: 18-wheeler hits sedan at intersection, smoke is present"
+				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: Yes\nNeed for Police: yes\nTypes of vehicles involved: 18-wheeler, sedan\nFire: Yes\nTime of Day and weather: Night\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -597,7 +597,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: front-end\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv, sedan\nFire: No\nTime of Day and weather: day, cloudy?\nLow Res/Bad Footage: No\nOther Information: Collision looks to have happened at an intersection"
+				"value": "Number of vehicles in accident: 2\nAccident Type: front-end\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv, sedan\nFire: No\nTime of Day and weather: day, cloudy?\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -611,7 +611,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 3\nAccident Type: Front-end\nPerson Injury: yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: bus, 18-wheeler, sedan\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\nOther Information: Bus hits 18-wheeler and sedan slightly at a left turn"
+				"value": "Number of vehicles in accident: 3\nAccident Type: Front-end\nPerson Injury: yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: bus, 18-wheeler, sedan\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -625,7 +625,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: light t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: truck, bike\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\nOther Information: truck lightly hits cyclist, toppling him over"
+				"value": "Number of vehicles in accident: 2\nAccident Type: light t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: truck, bike\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -639,7 +639,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv, motorcycle\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\nOther Information: Suv crashes into motorcyclist, leading to debris. Motorcyclist needs medical attention"
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv, motorcycle\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -653,7 +653,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 1 (possibly more?)\nAccident Type: cause unknown\nPerson Injury: Possibly\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, ??\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: Yes\nOther Information: footage cannot determine what happened, but sedan's bumper and front seemed damaged at intersection"
+				"value": "Number of vehicles in accident: 1 (possibly more?)\nAccident Type: cause unknown\nPerson Injury: Possibly\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, ??\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: Yes\n"
 			}
 		]
 	},
@@ -667,7 +667,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: side-on-side collision\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv, sedan\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\nOther Information: Although a side collision, impact still seemed great. A sign was destroyed in the process, and debris is present"
+				"value": "Number of vehicles in accident: 2\nAccident Type: side-on-side collision\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv, sedan\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -681,7 +681,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv, police sedan\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\nOther Information: suv crashes into police sedan (that was stopped) at an intersection"
+				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv, police sedan\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -695,7 +695,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: Front-end\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: Suv, bike\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\nOther Information: Suv and bicyclist crash. Although cyclist was seem walking, medical attention is needed. Happened at busy area"
+				"value": "Number of vehicles in accident: 2\nAccident Type: Front-end\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: Suv, bike\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -709,7 +709,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: Light tap, front side on front side\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv x2\nFire: No\nTime of Day and weather: Day, possibly cloudy\nLow Res/Bad Footage: No\nOther Information: Both suvs seemed to lightly tap each other on the intersection"
+				"value": "Number of vehicles in accident: 2\nAccident Type: Light tap, front side on front side\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv x2\nFire: No\nTime of Day and weather: Day, possibly cloudy\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -723,7 +723,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: light tap into side\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: sedan, bike\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\nOther Information: Cyclist hits the sedan at an intersection lightly"
+				"value": "Number of vehicles in accident: 2\nAccident Type: light tap into side\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: sedan, bike\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -737,7 +737,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv, sedan\nFire: No\nTime of Day and weather: Day, cloudy\nLow Res/Bad Footage: No\nOther Information: Happened at an intersection"
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv, sedan\nFire: No\nTime of Day and weather: Day, cloudy\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -751,7 +751,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone (angled)\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: industrial truck x2\nFire: No\nTime of Day and weather: Day, cloudy\nLow Res/Bad Footage: No\nOther Information: Happened at an intersection"
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone (angled)\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: industrial truck x2\nFire: No\nTime of Day and weather: Day, cloudy\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -765,7 +765,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone (angled)\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: Yes\nNeed for Police: Yes\nTypes of vehicles involved: 18-wheeler, suv\nFire: Yes\nTime of Day and weather: Day, cloudy\nLow Res/Bad Footage: No\nOther Information: Truck is seen smoking, happened at vacant intersection"
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone (angled)\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: Yes\nNeed for Police: Yes\nTypes of vehicles involved: 18-wheeler, suv\nFire: Yes\nTime of Day and weather: Day, cloudy\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -779,7 +779,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: light t-bone\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\nOther Information: Light tap in intersection"
+				"value": "Number of vehicles in accident: 2\nAccident Type: light t-bone\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -793,7 +793,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: light t-bone\nPerson Injury: Possibly\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: van, motorbike\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\nOther Information: Light tap from van to motorcyclist, toppling motorcyclist"
+				"value": "Number of vehicles in accident: 2\nAccident Type: light t-bone\nPerson Injury: Possibly\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: van, motorbike\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -807,7 +807,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: light tap\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: truck, sedan\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\nOther Information: Light tap from truck, accident did not seem very serious"
+				"value": "Number of vehicles in accident: 2\nAccident Type: light tap\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: truck, sedan\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -821,7 +821,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone (angled)\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: taxi sedan, sedan\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\nOther Information: Strong hit at busy intersection"
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone (angled)\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: taxi sedan, sedan\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -835,7 +835,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\nOther Information: Happened at an intersection"
+				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -849,7 +849,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\nOther Information: Multiple passengers were in one vehicle, accident was clearly shown to stop a lot of traffic immediately"
+				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -863,7 +863,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: Yes\nNeed for Police: Yes\nTypes of vehicles involved: sedan, truck\nFire: No\nTime of Day and weather: Cloudy day?\nLow Res/Bad Footage: No\nOther Information: Truck hits sedan and drags the sedan off the road - serious damage occurred"
+				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: Yes\nNeed for Police: Yes\nTypes of vehicles involved: sedan, truck\nFire: No\nTime of Day and weather: Cloudy day?\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -877,7 +877,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone (high speed)\nPerson Injury: Yes\nNeed for ambulance: yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\nOther Information: Sedan that was at fault was definitely speeding here - high impact"
+				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone (high speed)\nPerson Injury: Yes\nNeed for ambulance: yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -891,7 +891,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, police sedan\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\nOther Information: Police car had lights on and hit sedan that seemed to be unaware of this"
+				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, police sedan\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -905,7 +905,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: rear-end\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, van\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\nOther Information: sedan hits van strongly at a light"
+				"value": "Number of vehicles in accident: 2\nAccident Type: rear-end\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, van\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -919,7 +919,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone (light tap)\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: van x2\nFire: No\nTime of Day and weather: Day, snowy\nLow Res/Bad Footage: No\nOther Information: it looks that one van lost control and went straight thru the intersection, resulting in the other van hitting it"
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone (light tap)\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: van x2\nFire: No\nTime of Day and weather: Day, snowy\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -933,7 +933,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: Front-end\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv x2\nFire: No\nTime of Day and weather: Night, snowy\nLow Res/Bad Footage: No\nOther Information: probably was caused by lack of control"
+				"value": "Number of vehicles in accident: 2\nAccident Type: Front-end\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv x2\nFire: No\nTime of Day and weather: Night, snowy\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -947,7 +947,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 1\nAccident Type: car against pedestrian\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\nOther Information: Car hits pedestrian extremely hard - medical attention is vital"
+				"value": "Number of vehicles in accident: 1\nAccident Type: car against pedestrian\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -961,7 +961,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 4\nAccident Type: rear-end\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: 18-wheeler x2, sedan x2\nFire: No\nTime of Day and weather: day, clear\nLow Res/Bad Footage: No\nOther Information: One rear end collision leads to domino effect"
+				"value": "Number of vehicles in accident: 4\nAccident Type: rear-end\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: 18-wheeler x2, sedan x2\nFire: No\nTime of Day and weather: day, clear\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -975,7 +975,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: 18-wheeler, train\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\nOther Information: Train hits 18-wheeler's trailer, so no person injuries but lots of debris"
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: 18-wheeler, train\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -989,7 +989,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 1 (maybe more?)\nAccident Type: spin-out?\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: truck\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\nOther Information: Truck loses control and crashes into a parking lot - unclear whether or not other vehicles were hit"
+				"value": "Number of vehicles in accident: 1 (maybe more?)\nAccident Type: spin-out?\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: truck\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1003,7 +1003,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: angled t-bone?\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: van, buggy?\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\nOther Information: Van crashes into small 'buggy' and topples it over"
+				"value": "Number of vehicles in accident: 2\nAccident Type: angled t-bone?\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: van, buggy?\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1017,7 +1017,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: van, bus\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\nOther Information: Bus t-bones van at intersection that is mildly busy"
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: van, bus\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1031,7 +1031,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: rear-end\nPerson Injury: Possibly\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: bus x2\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\nOther Information: Bus rear-ends anotheer bus at large straightaway"
+				"value": "Number of vehicles in accident: 2\nAccident Type: rear-end\nPerson Injury: Possibly\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: bus x2\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1045,7 +1045,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone?\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, bike?\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\nOther Information: It's hard to tell from the footage, but it seems that a sedan either hit a bike or a pedestrian at an intersection"
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone?\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, bike?\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1059,7 +1059,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: cause unknown\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: sedan, bike?\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: Yes\nOther Information: It looks like a sedan hit a bike, but footage is too grainy to tell"
+				"value": "Number of vehicles in accident: 2\nAccident Type: cause unknown\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: sedan, bike?\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: Yes\n"
 			}
 		]
 	},
@@ -1073,7 +1073,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: side-on-side collision\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\nOther Information: Person seemed to have ejected from one of the vehicles in the midst of the collision"
+				"value": "Number of vehicles in accident: 2\nAccident Type: side-on-side collision\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1087,7 +1087,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 1\nAccident Type: topple\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: truck\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\nOther Information: Truck topples over whilst crossing an intersection"
+				"value": "Number of vehicles in accident: 1\nAccident Type: topple\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: truck\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1101,7 +1101,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: side-on-side collision\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, bike\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\nOther Information: Sedan topples over cyclist"
+				"value": "Number of vehicles in accident: 2\nAccident Type: side-on-side collision\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, bike\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1115,7 +1115,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: bus, bike\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\nOther Information: Bus hits biker and topples the biker - it is likely that medical attention is needed"
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: bus, bike\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1129,7 +1129,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 1\nAccident Type: topple\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: scooter\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\nOther Information: Scooter topples over in intersection. It seems that the user can just pick up and carry on. Nothing should be necessary"
+				"value": "Number of vehicles in accident: 1\nAccident Type: topple\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: scooter\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1143,7 +1143,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 1\nAccident Type: cause unknown\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: bike\nFire: No\nTime of Day and weather: day, clear\nLow Res/Bad Footage: No\nOther Information: bike seemed to have toppled over before the time of the footage, but this small accident was cleaned up before anything serious happened"
+				"value": "Number of vehicles in accident: 1\nAccident Type: cause unknown\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: bike\nFire: No\nTime of Day and weather: day, clear\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1157,7 +1157,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 1\nAccident Type: cause unknown\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: scooter\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\nOther Information: scooter seemed to topple over, but no harm seemed to have been done"
+				"value": "Number of vehicles in accident: 1\nAccident Type: cause unknown\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: scooter\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1171,7 +1171,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone (angled0\nPerson Injury: Possibly\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, suv\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\nOther Information: collision happened at 2 lane road"
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone (angled0\nPerson Injury: Possibly\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, suv\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1185,7 +1185,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: rear-end\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: bus, van\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\nOther Information: happened at congested area, so there could be more involved in the accident"
+				"value": "Number of vehicles in accident: 2\nAccident Type: rear-end\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: bus, van\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1199,7 +1199,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 1\nAccident Type: cause unknown\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: scooter?\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: Yes\nOther Information: Although the cause is unknown, it seems that a bike toppled over at an intersection"
+				"value": "Number of vehicles in accident: 1\nAccident Type: cause unknown\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: scooter?\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: Yes\n"
 			}
 		]
 	},
@@ -1213,7 +1213,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: bus, sedan\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\nOther Information: There don't seem to be many streetlights here, so it was hard to see specific vehicles"
+				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: bus, sedan\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1227,7 +1227,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: rear-end\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, scooter\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\nOther Information: Nobody seemed to be hurt by the end. Happened close to an intersection"
+				"value": "Number of vehicles in accident: 2\nAccident Type: rear-end\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, scooter\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1241,7 +1241,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv x2\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\nOther Information: Happened at a busy intersection, mild impact"
+				"value": "Number of vehicles in accident: 2\nAccident Type: T-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv x2\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1255,7 +1255,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 1\nAccident Type: topple\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: motorbike\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\nOther Information: Simple topple at an intersection, nothing to be done"
+				"value": "Number of vehicles in accident: 1\nAccident Type: topple\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: motorbike\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1269,7 +1269,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: light t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: bus, motorbike\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\nOther Information: Although light impact, motorcyclist probably needs medical attention"
+				"value": "Number of vehicles in accident: 2\nAccident Type: light t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: bus, motorbike\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1283,7 +1283,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: light t-bone\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: buggy?, motorbike\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\nOther Information: It doesn't look like anyone was hurt, but send over police just in case"
+				"value": "Number of vehicles in accident: 2\nAccident Type: light t-bone\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: buggy?, motorbike\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1297,7 +1297,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 1\nAccident Type: topple\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: 18-wheeler\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\nOther Information: 18-wheeler took a sharp turn and toppled - debris present and damage to city inflicted"
+				"value": "Number of vehicles in accident: 1\nAccident Type: topple\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: 18-wheeler\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1311,7 +1311,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 1\nAccident Type: rear-end\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: bike, truck\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\nOther Information: Bike hits truck lightly. Cyclist can like just get up and move on"
+				"value": "Number of vehicles in accident: 1\nAccident Type: rear-end\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: bike, truck\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1325,7 +1325,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 0\nAccident Type: N/A\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: N/A\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\nOther Information: No accident occurred"
+				"value": "Number of vehicles in accident: 0\nAccident Type: N/A\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: N/A\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1339,7 +1339,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2 (likely more)\nAccident Type: topple\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: Yes\nNeed for Police: Yes\nTypes of vehicles involved: 18-wheeler, sedan\nFire: No\nTime of Day and weather: Day, cloudy\nLow Res/Bad Footage: No\nOther Information: 18-wheeler topples on interstate and hits other vehicles in the process. Debris present. Maximum assistance is needed"
+				"value": "Number of vehicles in accident: 2 (likely more)\nAccident Type: topple\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: Yes\nNeed for Police: Yes\nTypes of vehicles involved: 18-wheeler, sedan\nFire: No\nTime of Day and weather: Day, cloudy\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1353,7 +1353,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2 (likely more)\nAccident Type: topple\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: Yes\nNeed for Police: Yes\nTypes of vehicles involved: 18-wheeler, sedan\nFire: No\nTime of Day and weather: Day, cloudy\nLow Res/Bad Footage: No\nOther Information: 18-wheeler (again) topples on interstate and hits other vehicles in the process. Debris present. Maximum assistance is needed"
+				"value": "Number of vehicles in accident: 2 (likely more)\nAccident Type: topple\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: Yes\nNeed for Police: Yes\nTypes of vehicles involved: 18-wheeler, sedan\nFire: No\nTime of Day and weather: Day, cloudy\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1367,7 +1367,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: light t-bone\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: 18-wheeler, van\nFire: No\nTime of Day and weather: Day, rainy\nLow Res/Bad Footage: No\nOther Information: happened at intersection, light impact"
+				"value": "Number of vehicles in accident: 2\nAccident Type: light t-bone\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: 18-wheeler, van\nFire: No\nTime of Day and weather: Day, rainy\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1381,7 +1381,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: light t-bone\nPerson Injury: Possibly\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: bike, suv\nFire: No\nTime of Day and weather: Rainy, cloudy day\nLow Res/Bad Footage: No\nOther Information: Suv hits cyclist - cyclist could be injured so medical assistance is necessary"
+				"value": "Number of vehicles in accident: 2\nAccident Type: light t-bone\nPerson Injury: Possibly\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: bike, suv\nFire: No\nTime of Day and weather: Rainy, cloudy day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1395,7 +1395,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone (angled)\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv, bus\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\nOther Information: suv ran a red light and hit the bus lightly"
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone (angled)\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv, bus\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1409,7 +1409,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: rear-end\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv x2\nFire: No\nTime of Day and weather: Rainy, cloudy day\nLow Res/Bad Footage: No\nOther Information: light/mild rear end collision near a traffic light"
+				"value": "Number of vehicles in accident: 2\nAccident Type: rear-end\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv x2\nFire: No\nTime of Day and weather: Rainy, cloudy day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1423,7 +1423,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: bike, 18-wheeler?\nFire: No\nTime of Day and weather: Cloudy day?\nLow Res/Bad Footage: No\nOther Information: big vehicle looks to have run a red light and, as a result, the biker hits the vehicle"
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: bike, 18-wheeler?\nFire: No\nTime of Day and weather: Cloudy day?\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1437,7 +1437,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: angled t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: bus, sedan\nFire: No\nTime of Day and weather: Cloudy\nLow Res/Bad Footage: No\nOther Information: super busy intersection"
+				"value": "Number of vehicles in accident: 2\nAccident Type: angled t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: bus, sedan\nFire: No\nTime of Day and weather: Cloudy\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1451,7 +1451,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: rear-end\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\nOther Information: super busy intersection"
+				"value": "Number of vehicles in accident: 2\nAccident Type: rear-end\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1465,7 +1465,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: angled t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv, sedan\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: Yes\nOther Information: extremely difficult to see"
+				"value": "Number of vehicles in accident: 2\nAccident Type: angled t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv, sedan\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: Yes\n"
 			}
 		]
 	},
@@ -1479,7 +1479,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: bike, suv\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\nOther Information: bike runs into suv, only biker seems injured"
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: bike, suv\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1493,7 +1493,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: bike, truck\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\nOther Information: Truck runs into bike"
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: bike, truck\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1507,7 +1507,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 3\nAccident Type: rear-end\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2, bus\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\nOther Information: Bus runs into sedan which runs into other sedan"
+				"value": "Number of vehicles in accident: 3\nAccident Type: rear-end\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2, bus\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1521,7 +1521,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 1\nAccident Type: loss of control\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\nOther Information: car runs into median in city"
+				"value": "Number of vehicles in accident: 1\nAccident Type: loss of control\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1535,7 +1535,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, bus\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\nOther Information: sedan runs into bus at non-busy intersection"
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, bus\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1549,7 +1549,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 1\nAccident Type: topple\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: bike\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\nOther Information: Bike topples over, injury seems minor, unknown if any other vehicle was involved"
+				"value": "Number of vehicles in accident: 1\nAccident Type: topple\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: bike\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1563,7 +1563,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: van x2\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: Yes\nOther Information: The glare makes it difficult to tell what exactly happened"
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: van x2\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: Yes\n"
 			}
 		]
 	},
@@ -1577,7 +1577,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: N/A\nAccident Type: N/A\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: N/A\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\nOther Information: No accident occurred"
+				"value": "Number of vehicles in accident: N/A\nAccident Type: N/A\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: N/A\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1591,7 +1591,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: rear-end\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: sedan, suv\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\nOther Information: Fender Bender"
+				"value": "Number of vehicles in accident: 2\nAccident Type: rear-end\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: sedan, suv\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1605,7 +1605,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: rear-end\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: sedan, suv\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\nOther Information: Fender Bender"
+				"value": "Number of vehicles in accident: 2\nAccident Type: rear-end\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: sedan, suv\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1619,7 +1619,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: slight t-bone\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, van\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\nOther Information: Roundabout"
+				"value": "Number of vehicles in accident: 2\nAccident Type: slight t-bone\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, van\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1633,7 +1633,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: van x2\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\nOther Information: intersection"
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: van x2\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1647,7 +1647,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: slight t-bone\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\nOther Information: intersection"
+				"value": "Number of vehicles in accident: 2\nAccident Type: slight t-bone\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1661,7 +1661,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: rear-end\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: motorbike, suv\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\nOther Information: Motorcyclist runs into suv and falls off"
+				"value": "Number of vehicles in accident: 2\nAccident Type: rear-end\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: motorbike, suv\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1675,7 +1675,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Day, rainy\nLow Res/Bad Footage: No\nOther Information: intersection/roundabout"
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Day, rainy\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1689,7 +1689,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: van x2\nFire: No\nTime of Day and weather: Day, rainy\nLow Res/Bad Footage: No\nOther Information: intsection at a light"
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: van x2\nFire: No\nTime of Day and weather: Day, rainy\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1703,7 +1703,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv, sedan\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\nOther Information: intersection"
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv, sedan\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1717,7 +1717,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: Yes\nOther Information: intersection"
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: Yes\n"
 			}
 		]
 	},
@@ -1731,7 +1731,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: light side-on-side collision\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, bus\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\nOther Information: light tap"
+				"value": "Number of vehicles in accident: 2\nAccident Type: light side-on-side collision\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, bus\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1745,7 +1745,7 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv x2\nFire: No\nTime of Day and weather: Day, cloudy\nLow Res/Bad Footage: No\nOther Information: hit car spins out"
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv x2\nFire: No\nTime of Day and weather: Day, cloudy\nLow Res/Bad Footage: No\n"
 			}
 		]
 	},
@@ -1759,7 +1759,1057 @@
 			},
 			{
 				"from": "gpt",
-				"value": "Number of vehicles in accident: 2\nAccident Type: front-end collision\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: truck, bike\nFire: No\nTime of Day and weather: Day, cloudy\nLow Res/Bad Footage: No\nOther Information: tuck hits and topples bike"
+				"value": "Number of vehicles in accident: 2\nAccident Type: front-end collision\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: truck, bike\nFire: No\nTime of Day and weather: Day, cloudy\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "126",
+		"path": "combined_images/000126.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: rear-end collision\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: bus, bike\nFire: No\nTime of Day and weather: Day, cloudy\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "127",
+		"path": "combined_images/000127.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "128",
+		"path": "combined_images/000128.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: rear-end\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, van\nFire: No\nTime of Day and weather: Day, snowy\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "129",
+		"path": "combined_images/000129.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: truck,sedan\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "130",
+		"path": "combined_images/000130.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: light t-bone\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv x2\nFire: No\nTime of Day and weather: Day, snowy\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "131",
+		"path": "combined_images/000131.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 3\nAccident Type: light t-bone\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x3\nFire: No\nTime of Day and weather: Night, snowy\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "132",
+		"path": "combined_images/000132.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: light t-bone\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Night, snowy\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "133",
+		"path": "combined_images/000133.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 3\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2, bus\nFire: No\nTime of Day and weather: Night, snowy\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "134",
+		"path": "combined_images/000134.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: angled t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Day, snowy\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "135",
+		"path": "combined_images/000135.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 3\nAccident Type: angled t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x3\nFire: No\nTime of Day and weather: Night, snowy\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "136",
+		"path": "combined_images/000136.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 5\nAccident Type: spin out into front-end collision\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: Yes\nNeed for Police: Yes\nTypes of vehicles involved: suv x2, bike x2, bus\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "137",
+		"path": "combined_images/000137.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: N/A\nAccident Type: N/A\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: N/A\nFire: No\nTime of Day and weather: Day, rainy\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "138",
+		"path": "combined_images/000138.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 3\nAccident Type: front-end collision\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "139",
+		"path": "combined_images/000139.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: spin-out into light t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Day, rainy\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "140",
+		"path": "combined_images/000140.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 1\nAccident Type: front-end collision into object\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "141",
+		"path": "combined_images/000141.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: front-end collision\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "142",
+		"path": "combined_images/000142.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: angled t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Night, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "143",
+		"path": "combined_images/000143.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 1\nAccident Type: light pedestrian collision\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "144",
+		"path": "combined_images/000144.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 1\nAccident Type: pedestrian collision\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: truck\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: Yes\n"
+			}
+		]
+	},
+	{
+		"id": "145",
+		"path": "combined_images/000145.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: light t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: 18-wheeler, suv\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "146",
+		"path": "combined_images/000146.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 1\nAccident Type: top collision\nPerson Injury: No\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: commercial truck\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "147",
+		"path": "combined_images/000147.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 6\nAccident Type: topple\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: Yes\nNeed for Police: Yes\nTypes of vehicles involved: dump truck, sedan x4, van\nFire: No\nTime of Day and weather: Day\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "148",
+		"path": "combined_images/000148.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: angled t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "149",
+		"path": "combined_images/000149.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 9+\nAccident Type: cause unknown\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: Yes\nNeed for Police: Yes\nTypes of vehicles involved: sedans, suvs, truck\nFire: No\nTime of Day and weather: Day, snowy\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "150",
+		"path": "combined_images/000150.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 1\nAccident Type: spin-out\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: sedan\nFire: No\nTime of Day and weather: Night, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "151",
+		"path": "combined_images/000151.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 1\nAccident Type: pedestrian collision\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "152",
+		"path": "combined_images/000152.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: N/A\nAccident Type: N/A\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: N/A\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "153",
+		"path": "combined_images/000153.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 1\nAccident Type: spin-out\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: sedan\nFire: No\nTime of Day and weather: Night, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "154",
+		"path": "combined_images/000154.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv x2\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "155",
+		"path": "combined_images/000155.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 1\nAccident Type: spin-out\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan\nFire: No\nTime of Day and weather: Day, rainy\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "156",
+		"path": "combined_images/000156.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 1\nAccident Type: pedestrian collision\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: train\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "157",
+		"path": "combined_images/000157.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: side-on-side collision\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: motorbike, sedan\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "158",
+		"path": "combined_images/000158.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: side-on-side collision\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: motorbike, sedan\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "159",
+		"path": "combined_images/000159.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv x2\nFire: No\nTime of Day and weather: Night, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "160",
+		"path": "combined_images/000160.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: motorbike, sedan\nFire: No\nTime of Day and weather: Day, rainy\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "161",
+		"path": "combined_images/000161.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: motorbike, sedan\nFire: No\nTime of Day and weather: Day, rainy\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "162",
+		"path": "combined_images/000162.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: rear-end collision\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: motorbike, sedan\nFire: No\nTime of Day and weather: Day, rainy\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "163",
+		"path": "combined_images/000163.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Night\nLow Res/Bad Footage: Yes\n"
+			}
+		]
+	},
+	{
+		"id": "164",
+		"path": "combined_images/000164.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 4\nAccident Type: rear-end collision\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: Yes\nNeed for Police: Yes\nTypes of vehicles involved: sedan x4\nFire: No\nTime of Day and weather: Night, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "165",
+		"path": "combined_images/000165.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: rear-end collision\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, suv\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "166",
+		"path": "combined_images/000166.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 1\nAccident Type: pedestrian collision\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan\nFire: No\nTime of Day and weather: Night, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "167",
+		"path": "combined_images/000167.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 1\nAccident Type: light pedestrian collision\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: sedan\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "168",
+		"path": "combined_images/000168.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: motorbike, suv\nFire: No\nTime of Day and weather: Night, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "169",
+		"path": "combined_images/000169.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: van, truck\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "170",
+		"path": "combined_images/000170.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 3\nAccident Type: rear-end collision\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv x2, bike\nFire: No\nTime of Day and weather: Night, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "171",
+		"path": "combined_images/000171.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv x2\nFire: No\nTime of Day and weather: Night, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "172",
+		"path": "combined_images/000172.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: N/A\nAccident Type: N/A\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: N/A\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "173",
+		"path": "combined_images/000173.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: truck, sedan\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "174",
+		"path": "combined_images/000174.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Night, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "175",
+		"path": "combined_images/000175.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: angled t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Night, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "176",
+		"path": "combined_images/000176.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "177",
+		"path": "combined_images/000177.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, suv\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "178",
+		"path": "combined_images/000178.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: light t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "179",
+		"path": "combined_images/000179.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Night, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "180",
+		"path": "combined_images/000180.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: angled t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv, sedan\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "181",
+		"path": "combined_images/000181.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: angled t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv, sedan\nFire: No\nTime of Day and weather: Night, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "182",
+		"path": "combined_images/000182.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv x2\nFire: No\nTime of Day and weather: Night, clear\nLow Res/Bad Footage: Yes\n"
+			}
+		]
+	},
+	{
+		"id": "183",
+		"path": "combined_images/000183.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 1\nAccident Type: pedestrian collision\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: Yes\nNeed for Police: Yes\nTypes of vehicles involved: sedan\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "184",
+		"path": "combined_images/000184.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: angled t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: truck, 18-wheeler\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "185",
+		"path": "combined_images/000185.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: cause unknown\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: Yes\nNeed for Police: Yes\nTypes of vehicles involved: van, truck\nFire: No\nTime of Day and weather: Night, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "186",
+		"path": "combined_images/000186.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: rear-end collision\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: 18-wheeler x2\nFire: No\nTime of Day and weather: Night, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "187",
+		"path": "combined_images/000187.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: Yes\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Night, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "188",
+		"path": "combined_images/000188.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 1\nAccident Type: spin-out\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan\nFire: No\nTime of Day and weather: Night, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "189",
+		"path": "combined_images/000189.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, bike\nFire: No\nTime of Day and weather: Night, clear\nLow Res/Bad Footage: Yes\n"
+			}
+		]
+	},
+	{
+		"id": "190",
+		"path": "combined_images/000190.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 1\nAccident Type: object collision\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: suv\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "191",
+		"path": "combined_images/000191.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 3\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: bus , sedan x2\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "192",
+		"path": "combined_images/000192.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: rear-end collision\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan x2\nFire: No\nTime of Day and weather: Night, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "193",
+		"path": "combined_images/000193.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: pedestrian collision\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: bike, bus\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "194",
+		"path": "combined_images/000194.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: rear-end collision\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: bike x2\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "195",
+		"path": "combined_images/000195.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: side-on-side collision\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: van, bike\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "196",
+		"path": "combined_images/000196.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: bike, van\nFire: No\nTime of Day and weather: Day, snowy\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "197",
+		"path": "combined_images/000197.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: light t-bone\nPerson Injury: No\nNeed for ambulance: No\nNeed for firetruck: No\nNeed for Police: No\nTypes of vehicles involved: bike x2\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "198",
+		"path": "combined_images/000198.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: side-on-side collision\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, bike \nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "199",
+		"path": "combined_images/000199.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: t-bone\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, bike\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
+			}
+		]
+	},
+	{
+		"id": "200",
+		"path": "combined_images/000200.jpg",
+		"conversations": [
+			{
+				"from": "human",
+				"value": "<image>\nThis is demo only. not real. do your best. These frames are captured for a potential traffic incident. Give me quanitative information whenever possible. Give me the following and number each answer:\nNumber of vehicles in accident in a number,\nAccident Type such as t-bone, rear end, etc,\nPerson Injury yes or no,\nNeed for ambulance yes or no,\nNeed for firetruck yes or no,\nNeed for Police yes or no,\nTypes of vehicles involved, such as suv, truck, sedan,\nFire yes or no,\nDay/night and weather, such as clear, etc,\nLow Res/Bad Footage yes or no.\nPlease ignore any context before these images and this prompt"
+			},
+			{
+				"from": "gpt",
+				"value": "Number of vehicles in accident: 2\nAccident Type: side-on-side collision\nPerson Injury: Yes\nNeed for ambulance: Yes\nNeed for firetruck: No\nNeed for Police: Yes\nTypes of vehicles involved: sedan, bike\nFire: No\nTime of Day and weather: Day, clear\nLow Res/Bad Footage: No\n"
 			}
 		]
 	}

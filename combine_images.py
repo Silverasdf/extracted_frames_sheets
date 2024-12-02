@@ -15,7 +15,7 @@ from io import BytesIO
 s = 0
 step = 20
 
-sequence_start = 169
+sequence_start = 1
 sequence_end = 200
 
 def load_image(image_file):

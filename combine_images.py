@@ -1,6 +1,10 @@
 #Takes in a directory of images and combines them into a single image, grid-like format
 #This is useful for comparing multiple images side by side
 
+#Most of this is taken from functions from this repo: https://github.com/mapluisch/LLaVA-CLI-with-multiple-images
+
+# I needed just the combined images part, so I could feed them into LLaVA for fine-tuning, so this is modified just to do that
+
 import os
 from PIL import Image
 from math import ceil, sqrt
@@ -93,13 +97,15 @@ def concatenate_images_grid(images, dist_images, output_size, s1, s3):
         # paste resized img in calc pos
         new_img.paste(resized_img, (x_offset, y_offset))
 
-    return new_img
+    return new_img, num_images
 
 def concatenate_images(images, strategy, dist_images, grid_resolution, s1, s3):
     if strategy == 'grid':
         return concatenate_images_grid(images, dist_images, grid_resolution, s1, s3)
     else:
         raise ValueError("Invalid concatenation strategy specified")
+
+num_images = []
 
 for sequence_num in range(sequence_start, sequence_end + 1):
     image_folder = f'sequences/{sequence_num:06d}/'
@@ -109,5 +115,34 @@ for sequence_num in range(sequence_start, sequence_end + 1):
 
     images = [load_image(img_file) for img_file in image_files]
     print(f"Loaded {len(images)} images")
-    image = concatenate_images(images, "grid", 20, parse_resolution('2560,1440'), s, step) if len(images) > 1 else images[0]
+    image, num_image = concatenate_images(images, "grid", 20, parse_resolution('2560,1440'), s, step) if len(images) > 1 else images[0]
+    num_images.append(num_image)
     image.save(f"outputs/tmp/{sequence_num:06d}.jpg")
+
+#Save box and whisker plot of number of images per sequence
+import matplotlib.pyplot as plt
+import numpy as np
+
+# remove outliers using 1.5xIQR rule
+Q1 = np.percentile(list, 25)
+Q3 = np.percentile(list, 75)
+IQR = Q3 - Q1
+lower_bound = Q1 - 1.5 * IQR
+upper_bound = Q3 + 1.5 * IQR
+list = [x for x in list if x >= lower_bound and x <= upper_bound]
+
+# boxplot of data
+
+plt.boxplot(list)
+plt.title('Number of Images Concatenated per Sequence')
+plt.ylabel('Number of Images Concatenated')
+plt.xlabel('All 200 Sequences (outliers removed)')
+#plot the mean and the value of it
+
+mean = np.mean(list)
+plt.axhline(y=mean, color='r', linestyle='-', label='Mean')
+plt.text(1.1, mean+0.3, f'Mean = {mean:.1f} images', color = 'red')
+
+#Save
+plt.savefig('outputs/num_images_per_sequence.png')
+plt.show()

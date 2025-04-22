@@ -45,7 +45,7 @@ concatenated_images
 
 ### The Fine Tuning Process
 
-Note that I reference my GitHub page (https://github.com/Silverasdf/extracted_frames_sheets), LLaVA's GitHub page (https://github.com/haotian-liu/LLaVA), and the LLaVA multi-image CLI GitHub Page (https://github.com/mapluisch/LLaVA-CLI-with-multiple-images). I used Google Compute Engine with 4 NVIDIA L100 GPU's. I have provided the environment.yml file that I used. Of course, anaconda is required to use the environment, but that can be installed easily by going [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html).
+Note that I reference my GitHub page, [LLaVA's GitHub page](https://github.com/haotian-liu/LLaVA), and the [LLaVA multi-image CLI GitHub Page](https://github.com/mapluisch/LLaVA-CLI-with-multiple-images). I used Google Compute Engine with 4 NVIDIA L100 GPU's. I have provided the environment.yml file that I used. Of course, anaconda is required to use the environment, but that can be installed easily by going [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html).
 
 So, in order to start the fine-tuning process, I need to do two main things: Prepare the Image Sets and Prepare the JSON file.
 In order to prepare the images, I used combine_images.py (my GH), and I copied the functions from the llava-multi-images.py (Multi-Image CLI GH) and then basically saved the image output to an output directory. I just ran my script with no arguments and modified the for loop range according to whichever extracted frames set I want to convert. This converts multiple images (all the images in the set) into one combined image to be fine-tuned with (in a grid-like formation, temporally sorted left to right then up to down).

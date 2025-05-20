@@ -3,3 +3,4 @@
 sequences/
 outputs/tmp/
 old_data/
+.env

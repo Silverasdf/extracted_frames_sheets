@@ -1,4 +1,4 @@
-﻿,Number of vehicles in accident,Accident Type,Person Injury? ,Need for ambulance?,Need for firetruck?,Need for Police?,Types of vehicles involved,Fire?,Weather,Low Res/Bad Footage?,Other
+﻿,Number of vehicles in accident,Accident Type,Person Injury?,Need for ambulance?,Need for firetruck?,Need for Police?,Types of vehicles involved,Fire?,Weather,Low Res/Bad Footage?,Other
 0,0,N/A,No,No,No,No,N/A,No,"Night, Clear",No,No accident occurred
 1,3,"Rear-end, spin-out",Yes,No,No,Yes,"Sedan x2, SUV",No,"Snow, Day, Clear",No,Snow appears to have made the road difficult to drive on
 2,6,T-Bone,Yes,Yes,Yes,Yes,"Sedan, Truck x2, SUV x3",Yes,"Day, Clear",No,"Debris is visible, sedan catches fire, very violent accident"
@@ -107,7 +107,7 @@
 105,2,t-bone,Yes,Yes,No,Yes,"bike, suv",No,Day,No,"bike runs into suv, only biker seems injured"
 106,2,t-bone,Yes,Yes,No,Yes,"bike, truck",No,Day,No,Truck runs into bike
 107,3,rear-end,Yes,Yes,No,Yes,"sedan x2, bus",No,Day,No,Bus runs into sedan which runs into other sedan
-108,1,loss of control,Yes,Yes,No,Yes,sedan,No,Day,No,car runs into median in city
+108,1,spin-out,Yes,Yes,No,Yes,sedan,No,Day,No,car runs into median in city
 109,2,t-bone,Yes,Yes,No,Yes,"sedan, bus",No,Night,No,sedan runs into bus at non-busy intersection
 110,1,topple,Yes,Yes,No,Yes,bike,No,Day,No,"Bike topples over, injury seems minor, unknown if any other vehicle was involved"
 111,2,t-bone,Yes,Yes,No,Yes,van x2,No,Night,Yes,The glare makes it difficult to tell what exactly happened

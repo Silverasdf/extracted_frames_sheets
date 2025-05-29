@@ -1,0 +1,3334 @@
+Response for 000000.mp4:
+Okay, I will analyze the provided frames for the traffic incident based on your instructions:
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** Angle/Side impact
+3.  **Person Injury:** Yes
+4.  **Need for ambulance:** Yes
+5.  **Need for firetruck:** No
+6.  **Need for Police:** Yes
+7.  **Types of vehicles involved:** Motorcycles
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, clear
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000001.mp4:
+Okay, I will do my best to provide the requested information based solely on the visual data in the provided frames.
+
+1.  **Number of vehicles in accident:** 6
+2.  **Accident Type:** Multi-vehicle pile-up. The sequence shows a chain reaction of impacts, primarily rear-end collisions.
+3.  **Person Injury:** Possibly. Given the number of vehicles and the visible impacts, it is possible someone sustained injuries.
+4.  **Need for ambulance:** Possibly.
+5.  **Need for firetruck:** No. There is no visible fire or indication of the need for fire services.
+6.  **Need for Police:** Yes. Given the number of vehicles and potential injuries, traffic control and accident investigation are likely required.
+7.  **Types of vehicles involved:** Sedans, SUVs.
+8.  **Fire:** No.
+9.  **Day/night and weather:** Daytime, snowy conditions.
+10. **Low Res/Bad Footage:** Yes. The footage is low resolution, making it difficult to assess fine details.
+
+Response for 000002.mp4:
+Okay, I will analyze the frames based on your instructions:
+
+1.  **Number of vehicles in accident:** 4
+2.  **Accident Type:** T-bone/Broadside collision, with potential secondary impacts.
+3.  **Person Injury:** Yes, highly probable given the severity of the collision.
+4.  **Need for ambulance:** Yes, very likely.
+5.  **Need for firetruck:** Yes, given the visible fire.
+6.  **Need for Police:** Yes, for accident investigation and traffic control.
+7.  **Types of vehicles involved:** 2 SUVs, 2 Trucks, 1 sedan in frame
+8.  **Fire:** Yes
+9.  **Day/night and weather:** Day, clear.
+10. **Low Res/Bad Footage:** Yes, the footage is low resolution.
+
+
+Response for 000003.mp4:
+Okay, here's the analysis based on the image you provided:
+
+1.  Number of vehicles in accident: 2
+2.  Accident Type: T-bone
+3.  Person Injury: Yes
+4.  Need for ambulance: Yes
+5.  Need for firetruck: No
+6.  Need for Police: Yes
+7.  Types of vehicles involved: Sedan, unidentified white vehicle (possibly a small truck or van)
+8.  Fire: No
+9.  Day/night and weather: Day, Clear
+10. Low Res/Bad Footage: No
+
+Response for 000004.mp4:
+Okay, I will analyze the frames to provide the requested information.
+
+1.  Number of vehicles in accident: 2
+2.  Accident Type: T-bone
+3.  Person Injury: Cannot determine
+4.  Need for ambulance: Cannot determine
+5.  Need for firetruck: Cannot determine
+6.  Need for Police: Likely yes
+7.  Types of vehicles involved: Sedan, and Truck
+8.  Fire: No
+9.  Day/night and weather: Night, cannot determine weather
+10. Low Res/Bad Footage: Yes
+
+
+Response for 000005.mp4:
+Okay, here's an analysis of the video frames you provided, focusing on quantifiable information and answering your specific questions to the best of my ability, given the image quality.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-Bone
+3.  **Person Injury:** Cannot determine with certainty from the video. Likely, given the impact.
+4.  **Need for ambulance:** Likely.
+5.  **Need for firetruck:** Cannot determine with certainty. Possible, due to the severity of the collision and potential for vehicle damage.
+6.  **Need for Police:** Yes.
+7.  **Types of vehicles involved:** SUV and another vehicle.
+8.  **Fire:** No
+9.  **Day/night and weather:** Night, weather unknown (appears clear based on visibility).
+10. **Low Res/Bad Footage:** Yes.
+
+
+Response for 000006.mp4:
+Okay, I will do my best to analyze the footage based solely on the visual information and provide quantitative information when possible.
+
+1.  Number of vehicles in accident: 2
+2.  Accident Type: T-bone (Likely)
+3.  Person Injury: Likely Yes. Without seeing closer footage, it is difficult to know the severity.
+4.  Need for ambulance: Likely Yes
+5.  Need for firetruck: Likely No.
+6.  Need for Police: Yes.
+7.  Types of vehicles involved: Difficult to definitively identify due to the quality, but likely a motorcycle and a car.
+8.  Fire: No
+9.  Day/night and weather: Night, clear
+10. Low Res/Bad Footage: Yes
+
+
+Response for 000007.mp4:
+Okay, I will analyze the provided frames and provide quantitative and qualitative information based solely on the visual data.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone
+3.  **Person Injury:** Uncertain
+4.  **Need for ambulance:** Uncertain
+5.  **Need for firetruck:** No
+6.  **Need for Police:** Uncertain
+7.  **Types of vehicles involved:** Sedan, SUV
+8.  **Fire:** No
+9.  **Day/night and weather:** Night, clear
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000008.mp4:
+Okay, I will analyze the provided frames to the best of my ability and provide the requested information, keeping in mind the limitations due to the footage quality.
+
+1.  **Number of vehicles in accident:** 0 (Based on the single frame provided, there is no visible collision or more than one vehicle at the same time)
+2.  **Accident Type:** N/A (No accident is observed in the current frame)
+3.  **Person Injury:** Unknown (Cannot be determined from the image)
+4.  **Need for ambulance:** No
+5.  **Need for firetruck:** No
+6.  **Need for Police:** Unknown
+7.  **Types of vehicles involved:** Sedan (Based on the single vehicle visible)
+8.  **Fire:** No
+9.  **Day/night and weather:** Night, Unknown weather
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000009.mp4:
+Okay, I will do my best to analyze the provided images and provide the requested information. Please remember that due to the low resolution and limited information, my assessment is based solely on what I can see in the frames.
+
+1.  **Number of vehicles in accident:** 0
+2.  **Accident Type:** There does not appear to be an accident.
+3.  **Person Injury:** Cannot assess
+4.  **Need for ambulance:** No
+5.  **Need for firetruck:** No
+6.  **Need for Police:** No
+7.  **Types of vehicles involved:** SUVs, Truck, Sedan
+8.  **Fire:** No
+9.  **Day/night and weather:** Night, unclear
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000010.mp4:
+Okay, I will analyze the provided frames and give you the information based on what I can see.
+
+1.  **Number of vehicles in accident:** 4
+2.  **Accident Type:** Chain reaction rear end
+3.  **Person Injury:** I cannot determine from the footage.
+4.  **Need for ambulance:** I cannot determine from the footage.
+5.  **Need for firetruck:** I cannot determine from the footage.
+6.  **Need for Police:** Likely, due to the number of vehicles involved.
+7.  **Types of vehicles involved:** SUVs and a sedan.
+8.  **Fire:** No.
+9.  **Day/night and weather:** Day, clear.
+10. **Low Res/Bad Footage:** Yes.
+
+
+Response for 000011.mp4:
+Okay, I will analyze the frames and provide the information based solely on what I can observe.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone
+3.  **Person Injury:** Possibly (hard to determine with certainty from the footage)
+4.  **Need for ambulance:** Possibly (due to T-bone type)
+5.  **Need for firetruck:** No (no visible fire or smoke)
+6.  **Need for Police:** Likely (given accident type)
+7.  **Types of vehicles involved:** Sedan, Taxi (likely a Toyota Prius, based on the roofline)
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, clear
+10. **Low Res/Bad Footage:** Yes, the footage is low resolution and grainy.
+
+
+Response for 000012.mp4:
+Okay, I will do my best to analyze the frames you provided. Please keep in mind the limitations due to the low resolution and quality of the footage.
+
+1.  **Number of vehicles in accident:** 1
+2.  **Accident Type:** Unknown. It appears that one vehicle driving through or turning at an intersection.
+3.  **Person Injury:** Unknown. Based on the limited information, it is impossible to determine if there are injuries.
+4.  **Need for ambulance:** Unknown.
+5.  **Need for firetruck:** Unknown.
+6.  **Need for Police:** Likely, to investigate the circumstances of the potential accident.
+7.  **Types of vehicles involved:** Appears to be a sedan or car.
+8.  **Fire:** No
+9.  **Day/night and weather:** Night, weather is unknown.
+10. **Low Res/Bad Footage:** Yes.
+
+
+Response for 000013.mp4:
+Okay, I will analyze the provided frames based solely on the visual information and answer your questions to the best of my ability.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone
+3.  **Person Injury:** Cannot determine.
+4.  **Need for ambulance:** Cannot determine.
+5.  **Need for firetruck:** No.
+6.  **Need for Police:** Likely.
+7.  **Types of vehicles involved:** SUV, Sedan
+8.  **Fire:** No.
+9.  **Day/night and weather:** Night, clear
+10. **Low Res/Bad Footage:** Yes.
+
+
+Response for 000014.mp4:
+Okay, I will analyze the provided images to identify potential traffic incidents and provide the requested information. Please note that due to the low resolution of the images, the analysis might not be perfectly accurate.
+
+1.  **Number of vehicles in accident:** 3
+2.  **Accident Type:** T-bone or angle/side impact type of accident
+3.  **Person Injury:** Possibly yes, based on accident severity.
+4.  **Need for ambulance:** Possibly yes
+5.  **Need for firetruck:** Possibly no
+6.  **Need for Police:** Yes
+7.  **Types of vehicles involved:** sedan, sedan, sedan
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, possibly rainy or wet conditions based on the road.
+10. **Low Res/Bad Footage:** Yes
+
+Response for 000015.mp4:
+Okay, I will analyze the provided frames and provide the requested information based solely on what I can observe in the images.
+
+1.  **Number of vehicles in accident:** 0 (Based on these images, there is no visual evidence of an accident. The vehicles are moving normally at an intersection).
+2.  **Accident Type:** Not Applicable
+3.  **Person Injury:** no
+4.  **Need for ambulance:** no
+5.  **Need for firetruck:** no
+6.  **Need for Police:** no
+7.  **Types of vehicles involved:** SUV, Sedan, Van
+8.  **Fire:** no
+9.  **Day/night and weather:** Night/Wet
+10. **Low Res/Bad Footage:** yes
+
+
+Response for 000016.mp4:
+Okay, I will do my best to analyze the footage based on the limited information available.
+
+1.  **Number of vehicles in accident:** Impossible to determine from this single frame.
+2.  **Accident Type:** Impossible to determine from this single frame.
+3.  **Person Injury:** Impossible to determine from this single frame.
+4.  **Need for ambulance:** Impossible to determine from this single frame.
+5.  **Need for firetruck:** Impossible to determine from this single frame.
+6.  **Need for Police:** Impossible to determine from this single frame.
+7.  **Types of vehicles involved:** At least one bus and one SUV.
+8.  **Fire:** No.
+9.  **Day/night and weather:** Day, clear.
+10. **Low Res/Bad Footage:** Yes.
+
+
+Response for 000017.mp4:
+Okay, I will analyze the provided frames to the best of my ability and provide the requested information.
+
+1.  **Number of vehicles in accident:** 0 (There is no visible accident in the provided frames.)
+2.  **Accident Type:** N/A
+3.  **Person Injury:** no
+4.  **Need for ambulance:** no
+5.  **Need for firetruck:** no
+6.  **Need for Police:** no
+7.  **Types of vehicles involved:** SUVs, sedans, possible pickup truck, vans
+8.  **Fire:** no
+9.  **Day/night and weather:** Day, clear
+10. **Low Res/Bad Footage:** yes
+
+
+Response for 000018.mp4:
+Okay, I will do my best to analyze the footage based on the single frame provided. Keep in mind that with such limited information and the low resolution, my assessment is highly speculative.
+
+1.  **Number of vehicles in accident:** I cannot determine if there is an accident or how many vehicles may be involved. The image shows a road intersection, but no obvious signs of an accident.
+
+2.  **Accident Type:** Unable to determine due to lack of evidence.
+
+3.  **Person Injury:** Cannot determine.
+
+4.  **Need for ambulance:** Cannot determine.
+
+5.  **Need for firetruck:** Cannot determine.
+
+6.  **Need for Police:** Cannot determine.
+
+7.  **Types of vehicles involved:** Some vehicle types can be observed far in the distance from the perspective of the camera but no clear information is available. 
+
+8.  **Fire:** No.
+
+9.  **Day/night and weather:** Night, I assume clear weather.
+
+10. **Low Res/Bad Footage:** Yes.
+
+
+Response for 000019.mp4:
+Okay, here's the information I can gather from the provided frames, based on your specific request.  Please remember that this is an interpretation of limited visual data:
+
+1.  **Number of vehicles in accident:** 2 
+2.  **Accident Type:** Appears to be an intersection accident. The specific type is difficult to determine with certainty, but it could be a broadside/T-bone type.
+3.  **Person Injury:** Cannot determine definitively, but potentially yes due to the severity of the collision.
+4.  **Need for ambulance:** Likely yes.
+5.  **Need for firetruck:** Cannot determine from the image, potentially yes.
+6.  **Need for Police:** Yes.
+7.  **Types of vehicles involved:** Likely a sedan and a light truck or SUV.
+8.  **Fire:** No, no evidence of fire in the images provided.
+9.  **Day/night and weather:** Night, unclear visibility, possibly due to rain or fog.
+10. **Low Res/Bad Footage:** Yes, the footage is low resolution and has poor visibility.
+
+
+Response for 000020.mp4:
+Okay, I will analyze the image and provide the information you requested, keeping in mind that this is a simulation and the footage quality is limited.
+
+1.  **Number of vehicles in accident:** 0
+2.  **Accident Type:** N/A
+3.  **Person Injury:** no
+4.  **Need for ambulance:** no
+5.  **Need for firetruck:** no
+6.  **Need for Police:** no
+7.  **Types of vehicles involved:** sedan, taxi, SUV
+8.  **Fire:** no
+9.  **Day/night and weather:** Day, clear
+10. **Low Res/Bad Footage:** yes
+
+
+Response for 000021.mp4:
+Okay, I will analyze the image based on the provided information and answer your questions to the best of my ability.
+
+1.  **Number of vehicles in accident:** It is impossible to determine if an accident has occured or the number of vehicles involved from the images.
+2.  **Accident Type:** Cannot determine.
+3.  **Person Injury:** Cannot determine.
+4.  **Need for ambulance:** Cannot determine.
+5.  **Need for firetruck:** Cannot determine.
+6.  **Need for Police:** Cannot determine.
+7.  **Types of vehicles involved:** The vehicles that can be seen are SUVs, and Sedans.
+8.  **Fire:** No.
+9.  **Day/night and weather:** Night, the road is wet.
+10. **Low Res/Bad Footage:** Yes.
+
+
+Response for 000022.mp4:
+Okay, I will do my best to analyze the traffic incident based on the provided frames.
+
+1.  Number of vehicles in accident: 2
+2.  Accident Type: T-bone
+3.  Person Injury: Unknown
+4.  Need for ambulance: Unknown
+5.  Need for firetruck: No
+6.  Need for Police: Yes
+7.  Types of vehicles involved: Sedan, unknown (possibly sedan or coupe)
+8.  Fire: No
+9.  Day/night and weather: Day, clear
+10. Low Res/Bad Footage: Yes
+
+
+Response for 000023.mp4:
+Okay, I will analyze the frames and provide the information based on the given criteria.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone (potential, based on the vehicle positions)
+3.  **Person Injury:** Unknown
+4.  **Need for ambulance:** Unknown
+5.  **Need for firetruck:** Unknown
+6.  **Need for Police:** Unknown
+7.  **Types of vehicles involved:** SUV, Truck
+8.  **Fire:** No
+9.  **Day/night and weather:** Night, clear
+10. **Low Res/Bad Footage:** Yes (Low Resolution)
+
+
+Response for 000024.mp4:
+Okay, here's an analysis based solely on the provided images, keeping in mind this is a demo:
+
+1.  **Number of vehicles in accident:** 0
+2.  **Accident Type:** N/A
+3.  **Person Injury:** No
+4.  **Need for ambulance:** No
+5.  **Need for firetruck:** No
+6.  **Need for Police:** No
+7.  **Types of vehicles involved:** Vans, sedans, buses
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, clear
+10. **Low Res/Bad Footage:** No
+
+**Reasoning:**
+
+Based on the video, there does not appear to be an accident.
+
+
+Response for 000025.mp4:
+Okay, I will analyze the provided frames and provide quantitative information based solely on what I can observe.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone (based on the collision point and the vehicles' positions immediately after impact)
+3.  **Person Injury:** Cannot determine from the images, but the severity of the crash suggests injuries are possible.
+4.  **Need for ambulance:** Likely, given the nature of the collision.
+5.  **Need for firetruck:** Unlikely, as there is no visible fire.
+6.  **Need for Police:** Yes, due to the accident and potential for legal and investigative actions.
+7.  **Types of vehicles involved:** Sedan and SUV.
+8.  **Fire:** No.
+9.  **Day/night and weather:** Day, clear.
+10. **Low Res/Bad Footage:** No, the footage is low resolution.
+
+Response for 000026.mp4:
+Okay, I'll analyze the images based on your prompt. Keep in mind this is a simulation based on limited visual data.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** Trailer disconnect
+3.  **Person Injury:** Yes
+4.  **Need for ambulance:** Yes
+5.  **Need for firetruck:** No
+6.  **Need for Police:** Yes
+7.  **Types of vehicles involved:** Van and Trailer
+8.  **Fire:** No
+9.  **Day/night and weather:** Day/Clear
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000027.mp4:
+Okay, here is the information based on the provided image and your instructions:
+
+1.  **Number of vehicles in accident:** It is difficult to tell, but the tow truck and stopped cars are on the right, so at least **2** vehicles appear to be involved.
+2.  **Accident Type:** Unable to determine the accident type with certainty. The location suggests a possible side swipe, or rear-end.
+3.  **Person Injury:**  Unable to determine.
+4.  **Need for ambulance:** Unable to determine, but the presence of an accident with stopped cars suggests a possible need.
+5.  **Need for firetruck:**  Unable to determine.
+6.  **Need for Police:**  Unable to determine, but the presence of an accident with stopped cars suggests a possible need.
+7.  **Types of vehicles involved:** Tow truck, SUV, Sedan, Truck
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, rainy or wet.
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000028.mp4:
+Okay, I will analyze the frames based on your criteria. Please remember that this is based on limited visual information.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone
+3.  **Person Injury:** Possibly. Based on the severity of T-bone accidents, potential injuries could be present, but I cannot confirm definitively.
+4.  **Need for ambulance:** Possibly, given the nature of the accident.
+5.  **Need for firetruck:** Unlikely. There's no visible indication of fire or a situation requiring fire department intervention.
+6.  **Need for Police:** Very likely, to assess liability, document the accident, and manage traffic flow.
+7.  **Types of vehicles involved:** Sedan, and truck
+8.  **Fire:** No.
+9.  **Day/night and weather:** Day, overcast/cloudy.
+10. **Low Res/Bad Footage:** No.
+
+
+Response for 000029.mp4:
+Okay, here's the analysis of the video frames, based solely on what is visible and with the understanding that this is a simulation and the footage quality is limited:
+
+1.  **Number of vehicles in accident:** 2 (possibly more, based on potential chain reaction)
+2.  **Accident Type:** T-bone or side impact.
+3.  **Person Injury:**  Cannot determine from the visual.
+4.  **Need for ambulance:** Cannot determine from the visual.
+5.  **Need for firetruck:** Cannot determine from the visual.
+6.  **Need for Police:** Likely, due to the severity of the impact and the location in an intersection.
+7.  **Types of vehicles involved:** SUV/truck, sedan.
+8.  **Fire:** No.
+9.  **Day/night and weather:** Day, clear.
+10. **Low Res/Bad Footage:** Yes.
+
+
+Response for 000030.mp4:
+Okay, I will analyze the video frames and provide the requested information based solely on what I can observe.
+
+1.  Number of vehicles in accident: 2
+2.  Accident Type: T-bone
+3.  Person Injury: Likely yes (based on the severity of the impact).
+4.  Need for ambulance: Likely yes (based on the severity of the impact).
+5.  Need for firetruck: Possibly yes (depends on potential hazards).
+6.  Need for Police: Yes (due to the severity and type of accident).
+7.  Types of vehicles involved: Truck, Car (Sedan/SUV)
+8.  Fire: No (not visible in the frames).
+9.  Day/night and weather: Night, likely wet (based on road conditions and visibility)
+10. Low Res/Bad Footage: Yes
+
+
+Response for 000031.mp4:
+Okay, I will analyze the provided frames based on your request.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** Side impact/T-bone type
+3.  **Person Injury:** Potentially yes (Difficult to ascertain from the footage, but likely)
+4.  **Need for ambulance:** Likely yes
+5.  **Need for firetruck:** No
+6.  **Need for Police:** Yes
+7.  **Types of vehicles involved:** Truck and Sedan
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, clear
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000032.mp4:
+Okay, I will analyze the provided frames based on your instructions. Given the low resolution and poor quality of the footage, some answers will be based on inference.
+
+Here is my assessment:
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-Bone (inferred from the intersection and the likely direction of travel)
+3.  **Person Injury:** Uncertain (due to low resolution; difficult to determine)
+4.  **Need for ambulance:** Probably (due to the severity implied by a T-bone accident)
+5.  **Need for firetruck:** Probably Not (no visible smoke or fire)
+6.  **Need for Police:** Yes (accidents at intersections usually require police for reporting)
+7.  **Types of vehicles involved:** Likely two sedans, based on their size and shape.
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, clear (inferred from visibility)
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000033.mp4:
+Okay, I will analyze the provided frames and give you the requested information based solely on what I can observe.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** Head On
+3.  **Person Injury:** Unknown
+4.  **Need for ambulance:** Likely
+5.  **Need for firetruck:** Possibly
+6.  **Need for Police:** Yes
+7.  **Types of vehicles involved:** Car, Truck
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, Clear
+10. **Low Res/Bad Footage:** Yes
+
+Response for 000034.mp4:
+Okay, I will analyze the provided frames to identify potential traffic incident details. Please note that due to the low resolution and blurriness of the images, my analysis is based on limited information.
+
+Here is the breakdown:
+
+1.  **Number of vehicles in accident:** 0
+2.  **Accident Type:** N/A
+3.  **Person Injury:** no
+4.  **Need for ambulance:** no
+5.  **Need for firetruck:** no
+6.  **Need for Police:** no
+7.  **Types of vehicles involved:** suv, sedan.
+8.  **Fire:** no
+9.  **Day/night and weather:** Night, Rain
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000035.mp4:
+Okay, I will analyze the images and provide the information based on what I can observe. Please keep in mind that the quality is limited, and my assessment is based solely on visual information.
+
+1.  **Number of vehicles in accident:** 2
+
+2.  **Accident Type:** T-bone
+
+3.  **Person Injury:** Possibly yes, due to the nature of the accident, but cannot be confirmed.
+
+4.  **Need for ambulance:** Possibly yes, due to the nature of the accident, but cannot be confirmed.
+
+5.  **Need for firetruck:** Possibly no, no visual evidence of fire.
+
+6.  **Need for Police:** Likely yes, to investigate the accident and manage traffic.
+
+7.  **Types of vehicles involved:** Sedan and a truck.
+
+8.  **Fire:** No
+
+9.  **Day/night and weather:** Day, snow.
+
+10. **Low Res/Bad Footage:** Yes.
+
+
+Response for 000036.mp4:
+Okay, I will analyze the provided frames to the best of my ability given the limitations of the footage. Here's my assessment:
+
+1.  **2** (Two)
+2.  **T-bone**
+3.  **Yes** (Likely, given the severity of the impact)
+4.  **Yes** (Likely, given the severity of the impact and potential for injury)
+5.  **No** (No evidence of fire)
+6.  **Yes** (Necessary for traffic management, investigation, and potential legal proceedings)
+7.  **Truck, Sedan**
+8.  **No** (No fire is visible in the frames)
+9.  **Day/Clear** (Appears to be daytime with clear weather conditions)
+10. **Yes** (The footage is low resolution and makes it difficult to assess details clearly)
+
+Response for 000037.mp4:
+Okay, I will analyze the provided frame and provide the requested information. Please remember that this analysis is based on a single frame and may not be entirely accurate.
+
+1.  **Number of vehicles in accident:** 1
+2.  **Accident Type:** Rollover (based on the vehicle's position)
+3.  **Person Injury:** Cannot determine from the image, but likely yes due to the severity of the rollover.
+4.  **Need for ambulance:** Likely yes due to the nature of the accident.
+5.  **Need for firetruck:** Possibly yes, depending on the possibility of fuel leakage or other hazards.
+6.  **Need for Police:** Yes, for accident investigation and traffic control.
+7.  **Types of vehicles involved:** Appears to be an SUV.
+8.  **Fire:** No (based on the image).
+9.  **Day/night and weather:** Daytime, weather appears clear.
+10. **Low Res/Bad Footage:** Yes, the image is low resolution.
+
+
+Response for 000038.mp4:
+Okay, I'll do my best to analyze the frames you provided based on the criteria you've outlined. 
+
+1.  **Number of vehicles in accident:** 6
+
+2.  **Accident Type:** Chain reaction/Pile-up
+
+3.  **Person Injury:** Likely yes (based on the severity of the impact)
+
+4.  **Need for ambulance:** Likely yes (due to potential injuries)
+
+5.  **Need for firetruck:** Possibly no (no visible fire, but could be needed for vehicle extrication)
+
+6.  **Need for Police:** Yes (due to the scale of the accident and potential for investigation)
+
+7.  **Types of vehicles involved:** Vans, Cars, Bus, Truck
+
+8.  **Fire:** No
+
+9.  **Day/night and weather:** Day, clear
+
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000039.mp4:
+Okay, here's the breakdown of the traffic incident based on the provided images, keeping in mind the "demo only" disclaimer and potential for missing information:
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-Bone
+3.  **Person Injury:** Possibly
+4.  **Need for ambulance:** Likely
+5.  **Need for firetruck:** No
+6.  **Need for Police:** Yes
+7.  **Types of vehicles involved:** Van and Truck
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, rainy
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000040.mp4:
+Okay, here's an analysis based solely on the provided frames and your instructions:
+
+1.  **Number of vehicles in accident:** 1
+
+2.  **Accident Type:** Single Vehicle, Loss of Control
+
+3.  **Person Injury:** Possibly yes
+
+4.  **Need for ambulance:** Possibly yes
+
+5.  **Need for firetruck:** Possibly yes
+
+6.  **Need for Police:** Yes
+
+7.  **Types of vehicles involved:** Truck or SUV
+
+8.  **Fire:** No
+
+9.  **Day/night and weather:** Day, weather unclear (possibly wet roads)
+
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000041.mp4:
+Okay, I will analyze the provided frames and provide the requested information to the best of my ability.
+
+1.  **Number of vehicles in accident:** 1
+2.  **Accident Type:** Single vehicle crash/loss of control
+3.  **Person Injury:** Unknown
+4.  **Need for ambulance:** Potentially, but not confirmed.
+5.  **Need for firetruck:** Potentially, based on the smoke
+6.  **Need for Police:** Yes
+7.  **Types of vehicles involved:** Sedan
+8.  **Fire:** Potentially, Smoke is seen
+9.  **Day/night and weather:** Night, appears to be Wet
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000042.mp4:
+Okay, I will analyze the provided frames and provide the information based on the image evidence.
+
+1.  Number of vehicles in accident: 2
+2.  Accident Type: T-bone
+3.  Person Injury: yes (due to t-bone being high speed and high impact)
+4.  Need for ambulance: yes (due to t-bone being high speed and high impact)
+5.  Need for firetruck: no (no visible signs of fire)
+6.  Need for Police: yes (major accident)
+7.  Types of vehicles involved: sedan and sedan/compact
+8.  Fire: no
+9.  Day/night and weather: day, clear
+10. Low Res/Bad Footage: yes
+
+
+Response for 000043.mp4:
+Okay, here is the quantitative information based on the provided frames, keeping in mind the limitations of the footage:
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** Side swipe, potentially leading to a rear-end type impact.
+3.  **Person Injury:** Unknown (cannot be determined from the footage)
+4.  **Need for ambulance:** Unknown (cannot be determined from the footage)
+5.  **Need for firetruck:** No (no fire is visible)
+6.  **Need for Police:** Unknown (but likely, due to the accident)
+7.  **Types of vehicles involved:** Bus, Sedan
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, clear weather (appears bright and dry)
+10. **Low Res/Bad Footage:** Yes (the footage is of low resolution and quality)
+
+
+Response for 000044.mp4:
+Okay, I will analyze the frames you provided based solely on the visual information available and the prompt.
+
+1.  Number of vehicles in accident: 2
+2.  Accident Type: Appears to be a side impact involving a motorcycle and a truck or car.
+3.  Person Injury: Likely yes, given the nature of the accident with a motorcycle involved.
+4.  Need for ambulance: Likely yes, due to potential injuries.
+5.  Need for firetruck: No, there is no indication of fire or the need for fire department response.
+6.  Need for Police: Yes, for accident investigation and traffic control.
+7.  Types of vehicles involved: Motorcycle and Truck/Car
+8.  Fire: No.
+9.  Day/night and weather: Day, clear weather.
+10. Low Res/Bad Footage: Yes, the footage is somewhat low resolution.
+
+
+Response for 000045.mp4:
+Okay, here's a breakdown of the potential traffic incident based on the provided video frames:
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone
+3.  **Person Injury:** Yes
+4.  **Need for ambulance:** Yes
+5.  **Need for firetruck:** No
+6.  **Need for Police:** Yes
+7.  **Types of vehicles involved:** Motorcycle and Sedan
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, clear
+10. **Low Res/Bad Footage:** Yes
+
+**Additional Notes:**
+
+*   The footage is low resolution, making it difficult to discern small details.
+*   The accident appears to involve a motorcycle being struck by a sedan at an intersection. The motorcycle rider can be seen to be ejected from the motorycle at the 19th second mark.
+*   Based on the severity of the impact, injuries are likely. A person in red walked in the area of the accident, but no one approached the victim until other vehicles arrive at the intersection.
+
+**Disclaimer:** This assessment is based solely on the visual information in the provided video frames. A full investigation would be necessary to determine the exact cause of the accident and the extent of any injuries.
+
+
+Response for 000046.mp4:
+Okay, I will analyze the provided frames to give you the requested information. Please remember that this is based on limited visual data and my interpretation of it.
+
+Here's the analysis:
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-Bone
+3.  **Person Injury:** Likely yes, based on the collision type
+4.  **Need for ambulance:** Likely yes
+5.  **Need for firetruck:** Likely no
+6.  **Need for Police:** Likely yes
+7.  **Types of vehicles involved:** Sedans and Motorbike
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, clear
+10. **Low Res/Bad Footage:** Yes
+
+**Disclaimer:** This analysis is based solely on the visual information provided in the frames and is subject to error due to the limited quality of the footage. A professional accident investigation would be needed for accurate conclusions.
+
+
+Response for 000047.mp4:
+Okay, I will do my best to provide quantitative information and answer your questions based on the provided frames.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone
+3.  **Person Injury:** Possibly (difficult to determine definitively from the frames)
+4.  **Need for ambulance:** Possibly (due to the severity of the collision)
+5.  **Need for firetruck:** No (no visible fire)
+6.  **Need for Police:** Yes (due to the severity of the accident)
+7.  **Types of vehicles involved:** SUV, Sedan
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, clear
+10. **Low Res/Bad Footage:** No
+
+
+Response for 000048.mp4:
+Okay, I will analyze the image to the best of my ability, keeping in mind that this is a simulated scenario and the image quality is not ideal.
+
+Here's the breakdown:
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone
+3.  **Person Injury:** Undetermined
+4.  **Need for ambulance:** Likely
+5.  **Need for firetruck:** No
+6.  **Need for Police:** Yes
+7.  **Types of vehicles involved:** Truck and Sedan
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, Clear
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000049.mp4:
+Okay, I'll analyze the images based on your specific request and provide the information as quantitatively as possible:
+
+1.  **Number of vehicles in accident:** 0
+
+2.  **Accident Type:** None
+
+3.  **Person Injury:** I cannot determine definitely.
+
+4.  **Need for ambulance:** No.
+
+5.  **Need for firetruck:** No
+
+6.  **Need for Police:** I cannot determine definitely.
+
+7.  **Types of vehicles involved:** SUVs, sedans, motorcycles, vans.
+
+8.  **Fire:** No
+
+9.  **Day/night and weather:** Day, clear.
+
+10. **Low Res/Bad Footage:** Yes.
+
+
+Response for 000050.mp4:
+Okay, I will analyze the provided frames and give you the requested information based solely on what I observe.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-Bone
+3.  **Person Injury:** Possibly
+4.  **Need for ambulance:** Possibly
+5.  **Need for firetruck:** No
+6.  **Need for Police:** Yes
+7.  **Types of vehicles involved:** SUV, Sedan
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, Possibly overcast
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000051.mp4:
+Okay, I will analyze the provided frames to answer your questions to the best of my ability, given the limitations of the footage:
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone (appears the car struck the motorcycle/scooter from the side).
+3.  **Person Injury:** Yes (people are seen on the ground after the collision).
+4.  **Need for ambulance:** Likely yes (given the apparent injuries after the collision).
+5.  **Need for firetruck:** No (no fire is visible).
+6.  **Need for Police:** Likely yes (accidents involving injuries typically require police investigation).
+7.  **Types of vehicles involved:** Car (sedan) and motorcycle/scooter.
+8.  **Fire:** No.
+9.  **Day/night and weather:** Day, clear.
+10. **Low Res/Bad Footage:** Yes.
+
+
+Response for 000052.mp4:
+Okay, here's an analysis of the provided frames, based purely on what I can see, and doing my best with the disclaimer in mind:
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-Bone
+3.  **Person Injury:** Yes
+4.  **Need for ambulance:** Yes
+5.  **Need for firetruck:** No
+6.  **Need for Police:** Yes
+7.  **Types of vehicles involved:** Sedan, Sedan
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, Clear
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000053.mp4:
+Okay, I will do my best to analyze the video frames based on the provided information and without any prior context.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone
+3.  **Person Injury:** Likely yes (based on severity of impact)
+4.  **Need for ambulance:** Yes
+5.  **Need for firetruck:** Possibly yes (depending on extent of damage)
+6.  **Need for Police:** Yes
+7.  **Types of vehicles involved:** Trucks and possibly a cement mixer
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, rainy
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000054.mp4:
+Okay, here is my assessment based on the provided video frames:
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone
+3.  **Person Injury:** Potentially yes
+4.  **Need for ambulance:** Likely yes
+5.  **Need for firetruck:** Yes
+6.  **Need for Police:** Yes
+7.  **Types of vehicles involved:** Sedan, Firetruck, Van
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, Rainy
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000055.mp4:
+Okay, I will analyze the provided frames and provide the requested information to the best of my ability.
+
+1.  Number of vehicles in accident: 0 (Based on the provided frames, there is no visible accident)
+
+2.  Accident Type: None (No accident is visible)
+
+3.  Person Injury: No (Since there is no accident)
+
+4.  Need for ambulance: No
+
+5.  Need for firetruck: No
+
+6.  Need for Police: No
+
+7.  Types of vehicles involved: Sedans, van, taxi, SUV, bus
+
+8.  Fire: No
+
+9.  Day/night and weather: Day, clear
+
+10. Low Res/Bad Footage: Yes
+
+
+Response for 000056.mp4:
+Okay, I will analyze the frames provided to give you the requested information.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** Intersection accident/Collision
+3.  **Person Injury:** Likely yes
+4.  **Need for ambulance:** Likely yes
+5.  **Need for firetruck:** No
+6.  **Need for Police:** Yes
+7.  **Types of vehicles involved:** Van, Motorcycle
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, Clear
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000057.mp4:
+Okay, I will do my best to analyze the images you provided and give you the requested information, keeping in mind the limitations of the footage.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-Bone (based on the relative positions of the vehicles at the point of impact)
+3.  **Person Injury:**  Potentially yes (T-bone accidents often result in injuries)
+4.  **Need for ambulance:** Potentially yes (given the possible injuries)
+5.  **Need for firetruck:**  Unlikely (no visible fire)
+6.  **Need for Police:** Likely yes (to investigate the accident and determine fault)
+7.  **Types of vehicles involved:** Sedan, SUV
+8.  **Fire:** No
+9.  **Day/night and weather:** Night, appears wet (shiny road)
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000058.mp4:
+Okay, I will do my best to analyze the footage based on the single frame provided. 
+
+Here's the breakdown:
+
+1.  **Number of vehicles in accident:** 2 (Based on apparent positions and movements prior)
+2.  **Accident Type:** Appears to be a T-bone accident (one vehicle crossing the path of another).
+3.  **Person Injury:** Cannot determine definitively, but likely yes due to the nature of the collision.
+4.  **Need for ambulance:** Likely yes due to the potential for injuries.
+5.  **Need for firetruck:** Not immediately apparent, but possible depending on the severity of the collision and potential for fluid leaks.
+6.  **Need for Police:** Yes, required to investigate the accident and determine fault.
+7.  **Types of vehicles involved:** It appears to be sedan and motorbike/scooter.
+8.  **Fire:** No apparent fire based on the image.
+9.  **Day/night and weather:** Night and unclear visibility.
+10. **Low Res/Bad Footage:** Yes, the footage is low resolution and difficult to interpret.
+
+**Disclaimer:** This analysis is based on a single, low-resolution frame and may not be entirely accurate. More information and higher quality footage would be needed for a more definitive assessment.
+
+
+Response for 000059.mp4:
+Okay, here's the analysis based solely on the provided frames:
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone (inferred from vehicle positioning after impact)
+3.  **Person Injury:** yes (inferred due to the intensity of impact)
+4.  **Need for ambulance:** yes (inferred due to the intensity of impact)
+5.  **Need for firetruck:** no (Fire is not observed)
+6.  **Need for Police:** yes (inferred due to the accident being substantial)
+7.  **Types of vehicles involved:** Sedan and Truck
+8.  **Fire:** no (not observed in frames)
+9.  **Day/night and weather:** Night, clear (inferred from visibility and absence of rain/snow)
+10. **Low Res/Bad Footage:** yes
+
+
+Response for 000060.mp4:
+Okay, here's my assessment of the potential traffic incident based on the provided frames, focusing on quantitative data and the requested information:
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-Bone (likely, based on vehicle positioning)
+3.  **Person Injury:** Yes (based on people exiting vehicle quickly and gathering at site)
+4.  **Need for ambulance:** Yes (due to potential injuries)
+5.  **Need for firetruck:** No (no fire visible)
+6.  **Need for Police:** Yes (due to the accident and potential injuries)
+7.  **Types of vehicles involved:** Sedan, Sedan (or possibly a larger vehicle like an SUV based on its size in the frame)
+8.  **Fire:** No
+9.  **Day/night and weather:** Night, weather appears clear and pavement is reflective
+10. **Low Res/Bad Footage:** Yes (video quality is low and grainy)
+
+**Disclaimer:** As you stated, this is a demo only. My assessment is based solely on visual interpretation of the frames. A real-world incident investigation would require more comprehensive data and analysis.
+
+Response for 000061.mp4:
+Okay, here's an analysis of the video frames based on your prompt:
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-Bone
+3.  **Person Injury:** Likely yes
+4.  **Need for ambulance:** Likely yes
+5.  **Need for firetruck:** Likely yes
+6.  **Need for Police:** Likely yes
+7.  **Types of vehicles involved:** Taxi, sedan
+8.  **Fire:** Yes
+9.  **Day/night and weather:** Night, appears wet
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000062.mp4:
+Okay, I will analyze the frames and provide the requested information to the best of my ability:
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone
+3.  **Person Injury:** yes
+4.  **Need for ambulance:** yes
+5.  **Need for firetruck:** unknown, but maybe
+6.  **Need for Police:** yes
+7.  **Types of vehicles involved:** sedan, sedan
+8.  **Fire:** no
+9.  **Day/night and weather:** night, clear
+10. **Low Res/Bad Footage:** yes
+
+
+Response for 000063.mp4:
+Okay, I will analyze the provided frames to give you the requested information.
+
+1.  Number of vehicles in accident: 2
+2.  Accident Type: T-Bone
+3.  Person Injury: Potentially yes (based on the presence of emergency vehicles)
+4.  Need for ambulance: Yes (presence of emergency vehicles with lights)
+5.  Need for firetruck: Unknown (not visually confirmed)
+6.  Need for Police: Yes (presence of emergency vehicles with lights)
+7.  Types of vehicles involved: SUV (or minivan) and Sedan
+8.  Fire: No
+9.  Day/night and weather: Night, unknown weather (appears clear)
+10. Low Res/Bad Footage: Yes
+
+
+Response for 000064.mp4:
+Okay, I will analyze the video frames provided and give you the requested information.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone
+3.  **Person Injury:** Potentially yes (given the severity of the impact, injuries are possible)
+4.  **Need for ambulance:** Likely yes
+5.  **Need for firetruck:** Possibly yes (depending on if there's a risk of fire or the need to extricate someone)
+6.  **Need for Police:** Yes (for accident investigation and report)
+7.  **Types of vehicles involved:** Vans
+8.  **Fire:** No (not visible in the frames)
+9.  **Day/night and weather:** Night, clear
+10. **Low Res/Bad Footage:** No
+
+
+Response for 000065.mp4:
+Okay, I will do my best to provide the requested information based on the provided frames.
+
+1.  Number of vehicles in accident: 2
+2.  Accident Type: T-bone
+3.  Person Injury: Unknown
+4.  Need for ambulance: Unknown
+5.  Need for firetruck: No
+6.  Need for Police: Likely
+7.  Types of vehicles involved: Van, Sedan
+8.  Fire: No
+9.  Day/night and weather: Day, snowy
+10. Low Res/Bad Footage: No
+
+
+Response for 000066.mp4:
+Okay, I will analyze the images and provide the information as requested.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone
+3.  **Person Injury:** Unable to determine
+4.  **Need for ambulance:** Unable to determine
+5.  **Need for firetruck:** No
+6.  **Need for Police:** Yes
+7.  **Types of vehicles involved:** Sedan and SUV
+8.  **Fire:** No
+9.  **Day/night and weather:** Night, Snowy
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000067.mp4:
+Okay, I will analyze the provided frames and give you the requested information to the best of my ability, noting the limitations due to the image quality and single viewpoint.
+
+Here's the analysis:
+
+1.  **Number of vehicles in accident:** 2 (Based on the collision I can see)
+
+2.  **Accident Type:** T-bone (One vehicle appears to be struck on its side)
+
+3.  **Person Injury:** Unknown (I cannot determine this from the video. Likely, but can't determine extent.)
+
+4.  **Need for ambulance:** Likely (Given the T-bone accident type, this is probable)
+
+5.  **Need for firetruck:** Unlikely (No visible fire or smoke, but can't say for certain without more information)
+
+6.  **Need for Police:** Yes (Accidents of this type usually require police investigation)
+
+7.  **Types of vehicles involved:** Sedan x 2 (Both vehicles appear to be passenger cars or sedans. Hard to be sure of the type)
+
+8.  **Fire:** No (No visible fire in the frames)
+
+9.  **Day/night and weather:** Night, Clear (Based on the street lighting and visibility)
+
+10. **Low Res/Bad Footage:** Yes (The footage is low resolution and black and white, limiting detail)
+
+
+Response for 000068.mp4:
+Okay, I will analyze the provided frames for potential traffic incident information.
+
+1.  Number of vehicles in accident: 4
+2.  Accident Type: Multi-vehicle collision (appears to be a chain reaction)
+3.  Person Injury: Potentially yes (difficult to confirm from the video)
+4.  Need for ambulance: Potentially yes (given the severity of the collision)
+5.  Need for firetruck: Possibly not (no visible fire)
+6.  Need for Police: Yes (due to the accident and the extent of damage)
+7.  Types of vehicles involved: Truck, Trucks, Sedans, SUV
+8.  Fire: No
+9.  Day/night and weather: Day/Clear
+10. Low Res/Bad Footage: No
+
+
+Response for 000069.mp4:
+Okay, I will analyze the frames provided and give you the information you requested:
+
+1.  Number of vehicles in accident: 2
+2.  Accident Type: Angle or broadside impact (T-Bone, but less direct)
+3.  Person Injury: Likely yes (due to the severity of the impact)
+4.  Need for ambulance: Yes
+5.  Need for firetruck: Possibly (depending on damage and potential hazards)
+6.  Need for Police: Yes
+7.  Types of vehicles involved: Semi-truck, Passenger train
+8.  Fire: No
+9.  Day/night and weather: Day, likely cold (possibly frosty)
+10. Low Res/Bad Footage: No
+
+
+Response for 000070.mp4:
+Okay, I will analyze the frames provided and give you the information based solely on what I can see.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** It appears to be a scrape to the side of a truck in the top corner.
+3.  **Person Injury:** I cannot determine from the footage.
+4.  **Need for ambulance:** I cannot determine from the footage.
+5.  **Need for firetruck:** No.
+6.  **Need for Police:** I cannot determine from the footage.
+7.  **Types of vehicles involved:** Truck.
+8.  **Fire:** No.
+9.  **Day/night and weather:** Day, weather appears to be snowy or has recently snowed.
+10. **Low Res/Bad Footage:** Yes, the footage is low resolution and the incident occurs very far away which is difficult to give proper answers.
+
+
+Response for 000071.mp4:
+Okay, I will analyze the provided frame and provide the requested information.
+
+1.  **Number of vehicles in accident:** It is impossible to tell from this frame.
+2.  **Accident Type:** Cannot be determined from this frame.
+3.  **Person Injury:** Cannot be determined from this frame.
+4.  **Need for ambulance:** Cannot be determined from this frame.
+5.  **Need for firetruck:** Cannot be determined from this frame.
+6.  **Need for Police:** Cannot be determined from this frame.
+7.  **Types of vehicles involved:** School bus, Sedan, motorcycle.
+8.  **Fire:** No.
+9.  **Day/night and weather:** Daytime, Clear.
+10. **Low Res/Bad Footage:** Yes.
+
+
+Response for 000072.mp4:
+Okay, I will do my best to analyze the provided image based on your instructions.
+
+1.  **Number of vehicles in accident:** 0
+2.  **Accident Type:** None
+3.  **Person Injury:** No
+4.  **Need for ambulance:** No
+5.  **Need for firetruck:** No
+6.  **Need for Police:** No
+7.  **Types of vehicles involved:** Sedan, Van, Motorcycle
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, unclear.
+10. **Low Res/Bad Footage:** Yes.
+
+
+Response for 000073.mp4:
+Okay, based on the video frame provided:
+
+1.  **Number of vehicles in accident:** 0 (There's no visible accident)
+
+2.  **Accident Type:** N/A
+
+3.  **Person Injury:** No
+
+4.  **Need for ambulance:** No
+
+5.  **Need for firetruck:** No
+
+6.  **Need for Police:** No
+
+7.  **Types of vehicles involved:** Bus, van, sedan, possibly a truck or other vehicle partially visible.
+
+8.  **Fire:** No
+
+9.  **Day/night and weather:** Day, clear
+
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000074.mp4:
+Okay, I will analyze the video frame based on your instructions and provide quantitative information whenever possible, assuming it's a potential traffic incident:
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone (likely, based on the apparent position and movement of the vehicles)
+3.  **Person Injury:** Cannot determine with certainty from the image, but potentially yes (due to the severity of a T-bone accident).
+4.  **Need for ambulance:** Likely yes (due to the potential for injuries in a T-bone accident).
+5.  **Need for firetruck:** Cannot determine with certainty. Possible (if there is a fuel leak or fire risk).
+6.  **Need for Police:** Likely yes (to investigate and document the accident).
+7.  **Types of vehicles involved:** Sedan and possibly an unknown type of vehicle.
+8.  **Fire:** No (not apparent in the image).
+9.  **Day/night and weather:** Night, weather unclear (appears dry).
+10. **Low Res/Bad Footage:** Yes (low resolution and visibility is poor).
+
+
+Response for 000075.mp4:
+Okay, I will analyze the image provided and give you the requested information.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-Bone
+3.  **Person Injury:** Likely yes (based on the position of people surrounding the incident)
+4.  **Need for ambulance:** Likely yes (based on the likelihood of injury)
+5.  **Need for firetruck:** No (no visible fire or hazardous materials)
+6.  **Need for Police:** Yes (accident investigation and traffic control)
+7.  **Types of vehicles involved:** Sedan, Motorbike
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, Clear
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000076.mp4:
+Okay, I will analyze the video and provide the requested information based solely on what I can observe.
+
+1.  **Number of vehicles in accident:** 0 (Based on the video, there is no visible accident taking place.)
+2.  **Accident Type:** N/A
+3.  **Person Injury:** No (No accident is visible to cause injury)
+4.  **Need for ambulance:** No
+5.  **Need for firetruck:** No
+6.  **Need for Police:** No
+7.  **Types of vehicles involved:** Auto rickshaws, cars, motorcycles, bus
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, clear
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000077.mp4:
+Okay, I will analyze the provided image and provide the requested information based solely on what I can observe.
+
+1.  **Number of vehicles in accident:** 1 (I see what appears to be a single motorcycle and possibly a person crossing the road.)
+2.  **Accident Type:** Pedestrian vs. Vehicle (Based on the visible elements, it suggests a potential collision between a pedestrian and a motorcycle.)
+3.  **Person Injury:** Unknown (I cannot determine from the image if there are any injuries.)
+4.  **Need for ambulance:** Unknown (I cannot determine from the image if medical assistance is required.)
+5.  **Need for firetruck:** No (There is no indication of fire.)
+6.  **Need for Police:** Unknown (The image provides no information on whether police intervention is needed.)
+7.  **Types of vehicles involved:** Motorcycle (appears to be the only vehicle)
+8.  **Fire:** No
+9.  **Day/night and weather:** Night, Weather unknown but seems clear
+10. **Low Res/Bad Footage:** Yes (The image quality is low and grainy.)
+
+**Important Note:** This analysis is based only on a single, low-resolution image. It is impossible to provide a definitive assessment of the situation with this limited information.
+
+
+Response for 000078.mp4:
+Okay, I will analyze the video frame and provide the information based on what I can observe.
+
+1.  Number of vehicles in accident: 2
+2.  Accident Type: T-bone
+3.  Person Injury: Unknown
+4.  Need for ambulance: Unknown
+5.  Need for firetruck: No
+6.  Need for Police: Unknown
+7.  Types of vehicles involved: Car, Motorcycle
+8.  Fire: No
+9.  Day/night and weather: Night, clear
+10. Low Res/Bad Footage: Yes
+
+
+Response for 000079.mp4:
+Okay, I will analyze the provided frame and provide the requested information. Please remember that due to the low resolution and limited view, my analysis is based on my best interpretation of the available data.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** Side Impact
+3.  **Person Injury:** Likely Yes (based on people gathering around the bus.)
+4.  **Need for ambulance:** Likely Yes
+5.  **Need for firetruck:** No
+6.  **Need for Police:** Yes
+7.  **Types of vehicles involved:** Bus and Sedan
+8.  **Fire:** No
+9.  **Day/night and weather:** Day/Clear
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000080.mp4:
+Okay, here's an analysis of the traffic incident based solely on the image, with the requested quantitative information and format:
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:**  The image suggests a possible side-impact or collision in the intersection, but without additional frames it is not possible to determine the accident type.
+3.  **Person Injury:** Yes, based on the people on the ground and potentially blood visible.
+4.  **Need for ambulance:** Likely yes, due to the apparent injuries.
+5.  **Need for firetruck:** Unlikely, no fire or hazardous materials visible.
+6.  **Need for Police:**  Likely yes, given the accident and potential injuries.
+7.  **Types of vehicles involved:** Scooter/Motorcycle and possibly some type of 3-wheeled vehicle.
+8.  **Fire:** No.
+9.  **Day/night and weather:** Day, clear weather.
+10. **Low Res/Bad Footage:** Yes.
+
+**Disclaimer:** This analysis is based solely on a single, low-resolution image and should not be considered a definitive assessment of the incident. A full investigation would require more information.
+
+
+Response for 000081.mp4:
+Okay, I will analyze the image and provide the requested information based solely on what I can observe in the frame.
+
+Here is my analysis:
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone (likely)
+3.  **Person Injury:** Yes (Likely, based on the person falling)
+4.  **Need for ambulance:** Yes (Probable, based on apparent injury)
+5.  **Need for firetruck:** No
+6.  **Need for Police:** Yes (Likely, due to the accident and potential injuries)
+7.  **Types of vehicles involved:** Motorcycle and Car
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, Clear
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000082.mp4:
+Okay, I'll do my best to analyze the provided video frame, keeping in mind it's a demo and the footage quality is likely low.
+
+Here's my analysis:
+
+1.  **Number of vehicles in accident:** Potentially 2, but unclear due to the resolution. It appears that there might be some contact made between two vehicles.
+2.  **Accident Type:** Possible side impact/angle impact. It's hard to confirm the exact nature.
+3.  **Person Injury:** Unknown. Based on the video resolution.
+4.  **Need for ambulance:** Unknown.
+5.  **Need for firetruck:** No. There is no visible evidence that one is needed.
+6.  **Need for Police:** Possibly. Given the incident is in an intersection. But resolution is poor.
+7.  **Types of vehicles involved:** The vehicles present are Auto-Rickshaws (tuk-tuks), a Van, motorcycles and SUVs.
+8.  **Fire:** No.
+9.  **Day/night and weather:** Daytime and it appears to be clear.
+10. **Low Res/Bad Footage:** Yes. The video quality is poor.
+
+
+Response for 000083.mp4:
+Okay, I will do my best to analyze the scene based solely on the image provided and answer your questions to the best of my ability.
+
+Here's my assessment:
+
+1.  **Number of vehicles in accident:** 2 
+2.  **Accident Type:** It appears to be a side impact collision or t-bone accident.
+3.  **Person Injury:** Uncertain - I cannot determine this from the image.
+4.  **Need for ambulance:** Uncertain - I cannot determine this from the image.
+5.  **Need for firetruck:** Uncertain - I cannot determine this from the image.
+6.  **Need for Police:** Likely - Given the nature of the accident, police involvement is probable for investigation and reporting.
+7.  **Types of vehicles involved:** SUV and Sedan
+8.  **Fire:** No - There is no visible indication of fire.
+9.  **Day/night and weather:** Night, unclear weather - Visibility is low, so it's difficult to determine the weather conditions with certainty.
+10. **Low Res/Bad Footage:** Yes - The footage is of low resolution and quality, which limits the amount of detail that can be observed.
+
+
+Response for 000084.mp4:
+Okay, I will analyze the image to the best of my ability, keeping in mind that it is low resolution and of unknown origin.
+
+1.  **Number of vehicles in accident:** 0. Based on the image, I do not see an accident. 
+2.  **Accident Type:** None. I do not see one occurring.
+3.  **Person Injury:** No. Based on the image I cannot verify any injury.
+4.  **Need for ambulance:** No. I see no indication.
+5.  **Need for firetruck:** No. I see no indication.
+6.  **Need for Police:** No. I see no indication.
+7.  **Types of vehicles involved:** Assuming just traffic on the road: Auto Rickshaws, Vans, Cars/Sedans, SUVs, Motorcycles, Buses.
+8.  **Fire:** No. I see no sign of fire.
+9.  **Day/night and weather:** Day, and from the image, it appears to be clear.
+10. **Low Res/Bad Footage:** Yes. The footage is low resolution and grainy.
+
+
+Response for 000085.mp4:
+Okay, here's an analysis of the potential traffic incident based on the video frame, keeping in mind the limitations you've mentioned and focusing on quantitative information:
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** Side impact or T-bone (appears the motorcycle collided with the side of the car).
+3.  **Person Injury:** Yes (Based on the visible impact and likelihood of injury in such a collision).
+4.  **Need for ambulance:** Yes (Given the potential for injury).
+5.  **Need for firetruck:** No (No visible signs of fire or need for rescue).
+6.  **Need for Police:** Yes (Accidents involving potential injuries typically require police involvement for investigation and reporting).
+7.  **Types of vehicles involved:** Motorcycle, SUV
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, Weather is clear
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000086.mp4:
+Okay, I will do my best to analyze the frames based on the limited and low-quality visual information provided. Please remember that these are only estimations, and a real-world accident investigation would require much more data and expertise.
+
+1.  Number of vehicles in accident: **At least 2** 
+2.  Accident Type: **Cannot definitively determine.** Could potentially be a rear-end collision.
+3.  Person Injury: **Cannot determine.**
+4.  Need for ambulance: **Cannot determine.**
+5.  Need for firetruck: **Cannot determine.**
+6.  Need for Police: **Likely yes**, due to a traffic incident.
+7.  Types of vehicles involved: **Likely a truck and possibly another truck or car.** Identification is difficult due to the image quality.
+8.  Fire: **No** (no visible flames).
+9.  Day/night and weather: **Night, visibility is poor.**
+10. Low Res/Bad Footage: **Yes**
+
+
+Response for 000087.mp4:
+Okay, I will analyze the video and provide the requested information to the best of my ability, keeping in mind the limitations you've mentioned.
+
+1.  **Number of vehicles in accident:** 1
+2.  **Accident Type:** Single Vehicle - Lost Control
+3.  **Person Injury:** Cannot determine.
+4.  **Need for ambulance:** Cannot determine.
+5.  **Need for firetruck:** Cannot determine.
+6.  **Need for Police:** Likely.
+7.  **Types of vehicles involved:** Sedan.
+8.  **Fire:** No.
+9.  **Day/night and weather:** Daytime, Clear.
+10. **Low Res/Bad Footage:** Yes.
+
+**Important Considerations:**
+
+*   **Limitations:** The footage quality is very low, making it difficult to accurately assess the scene. My analysis is based on limited information.
+*   **Disclaimer:** As you have stated that this is a demo, my response is based on a simulated scenario.
+*   **Safety:** This analysis is not a substitute for a professional accident investigation.
+
+Response for 000088.mp4:
+Okay, here's an analysis based on the provided frames, focusing on identifying a potential traffic incident:
+
+1.  **Number of vehicles in accident:** Based on the images, there is no accident in the frames.
+
+2.  **Accident Type:** N/A (no accident)
+
+3.  **Person Injury:** N/A (no accident)
+
+4.  **Need for ambulance:** N/A (no accident)
+
+5.  **Need for firetruck:** N/A (no accident)
+
+6.  **Need for Police:** N/A (no accident)
+
+7.  **Types of vehicles present:** Bus, van, sedan, motorcycles, bicycle.
+
+8.  **Fire:** No.
+
+9.  **Day/night and weather:** Daytime, clear.
+
+10. **Low Res/Bad Footage:** Yes, the footage is low resolution.
+
+
+Response for 000089.mp4:
+Okay, I will do my best to provide quantitative information based on the video, keeping in mind the limitations of the footage.
+
+1.  **Number of vehicles in accident:** 1 (Although there are tire marks on the pavement)
+2.  **Accident Type:** Unknown
+3.  **Person Injury:** Unknown
+4.  **Need for ambulance:** Unknown
+5.  **Need for firetruck:** Unknown
+6.  **Need for Police:** Unknown
+7.  **Types of vehicles involved:** (Observed nearby) motorcycles, sedans, trucks, SUVs
+8.  **Fire:** No
+9.  **Day/night and weather:** Daytime, appears clear
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000090.mp4:
+Okay, I will analyze the video frames and provide quantitative information based on your requests. Please note that due to the low resolution and limited information, my analysis will be based on what is visually discernible.
+
+Here is my analysis:
+
+1.  **Number of vehicles in accident:** 2 (Possibly 3, but the 3rd vehicle is uncertain due to the view.)
+2.  **Accident Type:** T-bone (Likely)
+3.  **Person Injury:** Yes (Likely, based on the immediate aftermath)
+4.  **Need for ambulance:** Yes (Likely)
+5.  **Need for firetruck:** No (Not apparent)
+6.  **Need for Police:** Yes (Likely)
+7.  **Types of vehicles involved:**  Van or Small Bus, Motorcycle (Possible SUV/Sedan as potential third vehicle)
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, Weather unclear but appears to be dry
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000091.mp4:
+Okay, I will do my best to analyze the video footage and provide the requested information based on what I can observe. Keep in mind the limitations of the video quality and that this is a simulation.
+
+1.  **Number of vehicles in accident:** 1 (potentially)
+2.  **Accident Type:** Pedestrian collision (potentially)
+3.  **Person Injury:** Likely yes (potentially serious, given pedestrian involvement)
+4.  **Need for ambulance:** Likely yes
+5.  **Need for firetruck:** Probably no
+6.  **Need for Police:** Yes (likely required for accident investigation and traffic control)
+7.  **Types of vehicles involved:** Car/Sedan, Pedestrians
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, appears clear
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000092.mp4:
+Okay, here's the information based solely on the provided frames:
+
+1.  **Number of vehicles in accident:** 1
+2.  **Accident Type:** Single-vehicle collision with a utility pole
+3.  **Person Injury:** Unknown
+4.  **Need for ambulance:** Unknown
+5.  **Need for firetruck:** Unknown
+6.  **Need for Police:** Yes
+7.  **Types of vehicles involved:** Truck
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, unclear but likely cold due to snow on the ground
+10. **Low Res/Bad Footage:** No
+
+
+Response for 000093.mp4:
+Okay, I will analyze the provided frames and provide the requested information to the best of my ability.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** Appears to be a rear-end collision.
+3.  **Person Injury:** Possibly yes (someone is on the ground)
+4.  **Need for ambulance:** Possibly yes (based on the injury status).
+5.  **Need for firetruck:** No
+6.  **Need for Police:** Probably yes (due to the accident involving injury)
+7.  **Types of vehicles involved:** Motorcycle/scooter and a van/small truck.
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, rainy/wet.
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000094.mp4:
+Based on the images provided, I cannot definitively assess a traffic incident. However, I can provide information based on the images provided:
+
+1.  Number of vehicles in accident: 0
+2.  Accident Type: Not applicable
+3.  Person Injury: Cannot determine
+4.  Need for ambulance: Cannot determine
+5.  Need for firetruck: Cannot determine
+6.  Need for Police: Cannot determine
+7.  Types of vehicles involved: SUVs, trucks, sedans, vans
+8.  Fire: No
+9.  Day/night and weather: Day, clear
+10. Low Res/Bad Footage: No
+
+
+Response for 000095.mp4:
+Okay, I will analyze the video frames and provide the information based on your request. Please remember that this is an analysis of simulated footage and should not be taken as real.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** Appears to be a side collision or a jackknife incident where the truck's trailer impacted another vehicle.
+3.  **Personal Injury:** Unknown, but given the severity of the impact, it is possible.
+4.  **Need for ambulance:** Likely, given the potential for injuries.
+5.  **Need for firetruck:** Possible, depending on the presence of hazards (fuel leak, fire risk) but no visible fire.
+6.  **Need for Police:** Yes, for traffic control, accident investigation, and potentially determining fault.
+7.  **Types of vehicles involved:** Semi-truck (tractor-trailer) and a sedan.
+8.  **Fire:** No, based on the video frames.
+9.  **Day/night and weather:** Day, clear conditions.
+10. **Low Res/Bad Footage:** Yes, the footage is low resolution, which limits the accuracy of the analysis.
+
+Response for 000096.mp4:
+Okay, I will analyze the frames based on your instructions. Please remember that my assessment is based on limited visual information and is for demo purposes only.
+
+1.  **Number of vehicles in accident:** 1
+2.  **Accident Type:** Truck rolled over
+3.  **Person Injury:** Yes (high likelihood due to truck rollover)
+4.  **Need for ambulance:** Yes (high likelihood due to truck rollover)
+5.  **Need for firetruck:** No (no visible fire or immediate fire risk)
+6.  **Need for Police:** Yes (standard for traffic accidents, especially rollovers)
+7.  **Types of vehicles involved:** Truck
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, clear
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000097.mp4:
+Okay, I will do my best to analyze the provided image for a potential traffic incident and give quantitative information where possible, keeping in mind the limitations of the image quality.
+
+Here's my analysis:
+
+1.  **Number of vehicles in accident:** 2 (based on visible evidence)
+2.  **Accident Type:** Potentially sideswipe/angle collision between a van and a motorcycle. Due to the low resolution, it's hard to determine the exact nature of the impact.
+3.  **Person Injury:** Unknown. It is impossible to determine the condition of the motorcycle rider from this video, but considering the potential impact, personal injury is probable.
+4.  **Need for ambulance:** Probable. The potential for personal injury suggests an ambulance may be needed.
+5.  **Need for firetruck:** Unlikely. There is no visible indication of fire or a need for fire suppression or rescue services.
+6.  **Need for Police:** Probable. Accidents involving potential injuries and traffic disruption usually require police presence for investigation and traffic control.
+7.  **Types of vehicles involved:** Van, motorcycle.
+8.  **Fire:** No.
+9.  **Day/night and weather:** Daytime, rainy/wet conditions.
+10. **Low Res/Bad Footage:** Yes.
+
+**Disclaimer:** *This analysis is based solely on the visual information available in the image provided. The low resolution and limited perspective make it difficult to ascertain the full details of the incident. A more thorough investigation would be required to determine the exact cause, severity, and consequences of the event.*
+
+Response for 000098.mp4:
+Okay, I will do my best to analyze the image based on the information provided. Please remember that this is based solely on the still image and is a limited assessment.
+
+Here's my analysis:
+
+1.  **Number of vehicles in accident:** 0 (Based on the image, there is no visible accident.)
+2.  **Accident Type:** N/A
+3.  **Person Injury:** No (There is no visible sign of injury.)
+4.  **Need for ambulance:** No
+5.  **Need for firetruck:** No
+6.  **Need for Police:** No
+7.  **Types of vehicles involved:** Vans, sedans, potentially a motorcycle.
+8.  **Fire:** No
+9.  **Day/night and weather:** Night, possibly wet (based on the road surface).
+10. **Low Res/Bad Footage:** Yes (The image quality is not very high).
+
+**Disclaimer:** This analysis is based solely on the visual information in the image and is limited by the quality of the image. A real-world assessment would require much more information.
+
+
+Response for 000099.mp4:
+Okay, I will analyze the video frame and provide the requested information to the best of my ability.
+
+1.  **Number of vehicles in accident:** Unknown (The video only shows one vehicle in the frame.)
+2.  **Accident Type:** Unknown (No accident is visible in the provided frame.)
+3.  **Person Injury:** Unknown (There is no evidence of injuries in the frame.)
+4.  **Need for ambulance:** Unknown (Based on the frame, no ambulance is needed.)
+5.  **Need for firetruck:** Unknown (Based on the frame, no firetruck is needed.)
+6.  **Need for Police:** Unknown (Based on the frame, no police are needed.)
+7.  **Types of vehicles involved:** Truck (Only a truck is visible in the frame.)
+8.  **Fire:** No
+9.  **Day/night and weather:** Night, weather is unknown.
+10. **Low Res/Bad Footage:** Yes
+
+**Important Note:** This analysis is based solely on the single frame provided. Without additional frames or context, I cannot confirm any actual traffic incident or provide a complete assessment.
+
+
+Response for 000100.mp4:
+Okay, I will analyze the image and provide the requested information to the best of my ability.
+
+1.  **Number of vehicles in accident:** 0 (Based on the single frame provided, there is no accident visible. Just vehicles traveling in wet conditions.)
+2.  **Accident Type:** N/A (No accident is visible)
+3.  **Person Injury:** No (No accident visible)
+4.  **Need for ambulance:** No (No accident visible)
+5.  **Need for firetruck:** No (No accident visible)
+6.  **Need for Police:** No (No accident visible)
+7.  **Types of vehicles involved:** Cars, van, possibly a bus in background
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, wet
+10. **Low Res/Bad Footage:** Yes, the footage is low resolution.
+
+
+Response for 000101.mp4:
+Okay, here's a quantitative assessment of the traffic incident based on the provided images:
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone
+3.  **Person Injury:** Likely yes (due to the nature of T-bone accidents)
+4.  **Need for ambulance:** Likely yes
+5.  **Need for firetruck:** No
+6.  **Need for Police:** Yes
+7.  **Types of vehicles involved:** Van, Minivan
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, clear
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000102.mp4:
+Okay, I will analyze the provided frames and give you the requested information based solely on what I can visually observe.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** Rear end
+3.  **Person Injury:** Cannot determine.
+4.  **Need for ambulance:** Cannot determine.
+5.  **Need for firetruck:** No.
+6.  **Need for Police:** Likely, but cannot confirm.
+7.  **Types of vehicles involved:** Sedan, Sedan
+8.  **Fire:** No.
+9.  **Day/night and weather:** Day, Rainy/Wet.
+10. **Low Res/Bad Footage:** Yes.
+
+
+Response for 000103.mp4:
+Okay, here's an analysis of the potential traffic incident based on the provided frames:
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-Bone
+3.  **Person Injury:** Cannot determine
+4.  **Need for ambulance:** Cannot determine
+5.  **Need for firetruck:** No
+6.  **Need for Police:** Likely
+7.  **Types of vehicles involved:** Sedan and a Van
+8.  **Fire:** No
+9.  **Day/night and weather:** Day/Clear
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000104.mp4:
+Okay, I will analyze the provided frames and give you the requested information. Please remember that this is based on a single frame and might not be completely accurate.
+
+1.  **Number of vehicles in accident:** Unknown. Only one vehicle is visible in the provided frame.
+2.  **Accident Type:** Unknown
+3.  **Person Injury:** Unknown.
+4.  **Need for ambulance:** Unknown.
+5.  **Need for firetruck:** Unknown.
+6.  **Need for Police:** Unknown.
+7.  **Types of vehicles involved:** Possibly a van or taxi.
+8.  **Fire:** No.
+9.  **Day/night and weather:** Night, Wet (likely raining).
+10. **Low Res/Bad Footage:** Yes.
+
+
+Response for 000105.mp4:
+Okay, I will analyze the frames you provided to the best of my ability. Please remember that the footage is low resolution and demo only, which limits the accuracy of my analysis.
+
+Here's my assessment:
+
+1.  **Number of vehicles in accident:** 0 (Based on the provided single frame, there is no visible accident occurring)
+
+2.  **Accident Type:** N/A (No accident is visible)
+
+3.  **Person Injury:** No (No accident is visible to cause injury)
+
+4.  **Need for ambulance:** No (No accident is visible)
+
+5.  **Need for firetruck:** No (No fire or accident is visible)
+
+6.  **Need for Police:** No (No accident is visible)
+
+7.  **Types of vehicles involved:**  Various vehicles are visible in the traffic flow (sedans, vans, trucks), but none are shown in an accident.
+
+8.  **Fire:** No
+
+9.  **Day/night and weather:** Day, unclear weather (visibility is reduced).
+
+10. **Low Res/Bad Footage:** Yes, low resolution.
+
+
+Response for 000106.mp4:
+Okay, here's the analysis based solely on the provided frames:
+
+1.  Number of vehicles in accident: 2
+2.  Accident Type: T-bone
+3.  Person Injury: yes
+4.  Need for ambulance: likely
+5.  Need for firetruck: no
+6.  Need for Police: yes
+7.  Types of vehicles involved: motorcycle, sedan
+8.  Fire: no
+9.  Day/night and weather: Day, clear
+10. Low Res/Bad Footage: yes
+
+
+Response for 000107.mp4:
+Okay, I will analyze the provided images based on your instructions. Please note that due to the low resolution and limited information, the accuracy of my assessment is limited.
+
+Here's my analysis:
+
+1.  **Number of vehicles in accident:** 0 (Based on the image, there is no accident visible)
+2.  **Accident Type:** None
+3.  **Person Injury:** No
+4.  **Need for ambulance:** No
+5.  **Need for firetruck:** No
+6.  **Need for Police:** No
+7.  **Types of vehicles involved:** Van, cars, bus, taxi
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, appears to be rainy or wet.
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000108.mp4:
+Okay, I'll do my best to analyze the frames and provide the requested information, keeping in mind the limitations of the image quality:
+
+1.  Number of vehicles in accident: 2
+2.  Accident Type: T-bone
+3.  Person Injury: Possibly, based on the ambulance present.
+4.  Need for ambulance: Yes
+5.  Need for firetruck: No (not visible)
+6.  Need for Police: Likely, given the accident type.
+7.  Types of vehicles involved: Sedan, possibly another sedan or small car.
+8.  Fire: No (not visible)
+9.  Day/night and weather: Day, wet.
+10. Low Res/Bad Footage: Yes
+
+
+Response for 000109.mp4:
+Okay, here's an analysis of the footage, keeping in mind it's a demo and possibly low-resolution:
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone (or near T-bone)
+3.  **Person Injury:** Potentially yes (due to the nature of the impact, injuries are possible)
+4.  **Need for ambulance:** Probably yes (given the potential for injuries in a T-bone collision)
+5.  **Need for firetruck:** Unlikely (unless there's a fire or significant entrapment, which isn't apparent)
+6.  **Need for Police:** Yes (to investigate the accident, file a report, and manage the scene)
+7.  **Types of vehicles involved:** Bus, Sedan
+8.  **Fire:** No
+9.  **Day/night and weather:** Night, possibly wet (the road appears shiny).
+10. **Low Res/Bad Footage:** Yes (the image is grainy and lacks detail)
+
+Response for 000110.mp4:
+Okay, here's an analysis based on the provided frames, keeping in mind this is a demo and the footage is likely low resolution:
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone (appears to be an intersection collision)
+3.  **Person Injury:** Likely yes (given the nature of T-bone collisions)
+4.  **Need for ambulance:** Likely yes (given potential injuries)
+5.  **Need for firetruck:** Unknown (depends on the extent of damage/potential hazards)
+6.  **Need for Police:** Likely yes (to investigate the accident and manage traffic)
+7.  **Types of vehicles involved:** Sedans (it's difficult to discern specific makes/models)
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, clear
+10. **Low Res/Bad Footage:** Yes (the video quality is poor, making detailed analysis difficult)
+
+
+Response for 000111.mp4:
+Okay, I will analyze the provided frames and give you the requested information. Please note that due to the low resolution and the nature of the frames, some assessments will be based on educated guesses.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone (inferred from the vehicle's movement and impact point)
+3.  **Person Injury:** Unknown, but potentially yes (given the T-bone accident type, the risk of injury is higher)
+4.  **Need for ambulance:** Likely yes (due to the potential for injuries from a T-bone accident)
+5.  **Need for firetruck:** Possibly no (no visible signs of fire or smoke, but could be needed for vehicle extrication)
+6.  **Need for Police:** Likely yes (to investigate the accident and file a report)
+7.  **Types of vehicles involved:** Sedan and possibly a SUV
+8.  **Fire:** No
+9.  **Day/night and weather:** Night, likely rainy (wet road surface)
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000112.mp4:
+Okay, I will analyze the provided image to the best of my ability, keeping in mind its limitations.
+
+1.  **Number of vehicles in accident:** 0 (Based on the image, there is no visible accident)
+2.  **Accident Type:** N/A (No accident is visible)
+3.  **Person Injury:** No (No visible accident or injuries)
+4.  **Need for ambulance:** No (No indication of need)
+5.  **Need for firetruck:** No (No indication of need)
+6.  **Need for Police:** No (No indication of need)
+7.  **Types of vehicles involved:** Sedan, Truck
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, clear
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000113.mp4:
+Okay, I will analyze the frames to the best of my ability, given the limitations.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** Rear-end collision (based on the positioning of the vehicles).
+3.  **Person Injury:** Potentially yes (impossible to determine from the footage, but rear-end collisions can often result in injuries).
+4.  **Need for ambulance:** Potentially yes (dependent on injuries, but rear-end collisions can often result in injuries).
+5.  **Need for firetruck:** No (no visible fire or hazard requiring fire department assistance).
+6.  **Need for Police:** Likely yes (traffic accidents usually require police intervention for documentation and potential investigation).
+7.  **Types of vehicles involved:** Sedans (it is hard to tell).
+8.  **Fire:** No
+9.  **Day/night and weather:** Night, possibly wet (rain/wet pavement is visible).
+10. **Low Res/Bad Footage:** Yes.
+
+
+Response for 000114.mp4:
+Okay, I will analyze the frames you provided to identify potential traffic incident details, focusing on quantitative information wherever possible.
+
+Here's my assessment:
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone (based on the vehicle positions and trajectories)
+3.  **Person Injury:** Likely yes (based on the impact type)
+4.  **Need for ambulance:** Likely yes (due to the potential for injuries)
+5.  **Need for firetruck:** Potentially yes (due to possible fluid leaks or other hazards)
+6.  **Need for Police:** Yes (to investigate the accident)
+7.  **Types of vehicles involved:** Sedans (based on the general vehicle shape)
+8.  **Fire:** No (no visible signs of fire)
+9.  **Day/night and weather:** Night, wet (based on the lighting conditions and water reflections on the road)
+10. **Low Res/Bad Footage:** Yes (low resolution and limited clarity)
+
+**Disclaimer:** This analysis is based on limited visual information from the frames and is subject to uncertainty. A more comprehensive investigation would require additional information and on-site assessment.
+
+
+Response for 000115.mp4:
+Okay, I will analyze the provided frames and give you the information based on what I can observe.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** Side impact/potentially T-bone, 
+3.  **Person Injury:** Likely No (based on visual assessment, cannot confirm).
+4.  **Need for ambulance:** Likely No (based on visual assessment, cannot confirm).
+5.  **Need for firetruck:** No
+6.  **Need for Police:** Likely Yes
+7.  **Types of vehicles involved:** 1 sedan, 1 hatchback/small car
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, clear
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000116.mp4:
+Okay, I will analyze the image based solely on what I can see and provide quantitative information where possible.
+
+1.  **Number of vehicles in accident:** I cannot determine if an accident happened and how many vehicles were involved.
+2.  **Accident Type:** I cannot determine if an accident happened and how the type.
+3.  **Person Injury:** Cannot determine
+4.  **Need for ambulance:** Cannot determine
+5.  **Need for firetruck:** Cannot determine
+6.  **Need for Police:** Cannot determine
+7.  **Types of vehicles involved:** I can see what appear to be a taxi and other cars, but the exact type of vehicles is unclear.
+8.  **Fire:** No
+9.  **Day/night and weather:** Night, possibly rainy/wet
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000117.mp4:
+Okay, here's an analysis of the potential traffic incident based on the image, keeping in mind the limitations:
+
+1.  Number of vehicles in accident: 2
+2.  Accident Type: T-bone
+3.  Person Injury: unknown
+4.  Need for ambulance: unknown
+5.  Need for firetruck: no
+6.  Need for Police: likely
+7.  Types of vehicles involved: hatchback, sedan
+8.  Fire: no
+9.  Day/night and weather: day, clear
+10. Low Res/Bad Footage: yes
+
+
+Response for 000118.mp4:
+Okay, I will analyze the provided frames and give you the requested information.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone
+3.  **Person Injury:** Likely yes
+4.  **Need for ambulance:** Yes
+5.  **Need for firetruck:** No
+6.  **Need for Police:** Yes
+7.  **Types of vehicles involved:** Car and Motorcycle
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, Clear
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000119.mp4:
+Okay, I will analyze the provided video frames and provide the information you requested, keeping in mind that this is a simulation and the footage is of low quality.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone (possible, due to the angle of impact)
+3.  **Person Injury:** Cannot determine (Likely, as the white vehicle T-bones the other)
+4.  **Need for ambulance:** Likely (Due to T-bone nature)
+5.  **Need for firetruck:** Unlikely
+6.  **Need for Police:** Likely
+7.  **Types of vehicles involved:** Sedan (gold) and van (white)
+8.  **Fire:** No
+9.  **Day/night and weather:** Day/Rainy
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000120.mp4:
+Okay, I will analyze the image based on your instructions, focusing on potential traffic incidents and providing quantitative and descriptive information.
+
+Here's the analysis:
+
+1.  **Number of vehicles in accident:** 0 (Based on this single frame, there's no visible accident).
+2.  **Accident Type:** Not Applicable (No accident detected).
+3.  **Person Injury:** No (No accident, cannot determine injury).
+4.  **Need for ambulance:** No (No accident).
+5.  **Need for firetruck:** No (No fire or accident requiring fire services).
+6.  **Need for Police:** No (No visible accident).
+7.  **Types of vehicles involved:** Sedan, Van, other types of vehicles are present, but not clearly discernible.
+8.  **Fire:** No.
+9.  **Day/night and weather:** Daytime, very heavy rain/flooding.
+10. **Low Res/Bad Footage:** Yes, the footage is low resolution, and visibility is significantly reduced due to the heavy rain.
+
+Response for 000121.mp4:
+Okay, I will analyze the provided frames to provide the requested information.
+
+1.  **Number of vehicles in accident:** 1
+2.  **Accident Type:** Single vehicle accident
+3.  **Person Injury:** Unclear
+4.  **Need for ambulance:** Unclear
+5.  **Need for firetruck:** No
+6.  **Need for Police:** Unclear
+7.  **Types of vehicles involved:** Bus
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, clear
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000122.mp4:
+Okay, I will analyze the image and provide the requested information to the best of my ability, acknowledging the limitations of the footage:
+
+1.  **Number of vehicles in accident:** Difficult to definitively determine from this image. I can see what appears to be multiple vehicles, but whether they are all involved in an accident is unclear. Estimating at least **2+**.
+2.  **Accident Type:** Due to the low resolution and limited view, I cannot determine the specific accident type. It appears to be a multivehicle accident but the impact angles are not visible.
+3.  **Person Injury:**  Cannot determine with certainty. **Unknown**.
+4.  **Need for ambulance:** Cannot determine with certainty. **Unknown**.
+5.  **Need for firetruck:** Cannot determine with certainty. **Unknown**.
+6.  **Need for Police:** Likely, due to the potential for a multivehicle accident. **Probably yes**.
+7.  **Types of vehicles involved:** Can only make rough estimates. Appears to be various types. I see forms suggesting at least one **sedan or compact car** and potentially another **larger vehicle**.
+8.  **Fire:** **No**.
+9.  **Day/night and weather:** **Night**. Weather appears to be **wet/rainy**.
+10. **Low Res/Bad Footage:** **Yes**.
+
+Please remember that this assessment is based on a single, poor-quality image, and the actual situation may be significantly different. A proper investigation would be required for an accurate determination.
+
+Response for 000123.mp4:
+Okay, here's an analysis of the provided frames, keeping in mind the limitations you've specified:
+
+1.  **Number of vehicles in accident:** 3
+2.  **Accident Type:** Rear-end collision.
+3.  **Person Injury:** Cannot be determined.
+4.  **Need for ambulance:** Cannot be determined.
+5.  **Need for firetruck:** Cannot be determined.
+6.  **Need for Police:** Cannot be determined.
+7.  **Types of vehicles involved:** Truck, sedan, sedan.
+8.  **Fire:** No.
+9.  **Day/night and weather:** Daytime, clear weather.
+10. **Low Res/Bad Footage:** Yes.
+
+
+Response for 000124.mp4:
+Okay, I will analyze the images based on the provided guidelines.
+
+Based on the images provided:
+
+1.  **Number of vehicles in accident:** 0 (There is no accident occurring in the image.)
+2.  **Accident Type:** N/A (No accident is occurring)
+3.  **Person Injury:** No (No accident is occurring)
+4.  **Need for ambulance:** No (No accident is occurring)
+5.  **Need for firetruck:** No (No accident is occurring)
+6.  **Need for Police:** No (No accident is occurring)
+7.  **Types of vehicles involved:**  The image shows a bus, a truck and a small scooter or motorcycle, but they are not involved in an accident.
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, and weather appears to be clear
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000125.mp4:
+Okay, I will analyze the video frames based on your instructions and provide quantitative information where possible.
+
+1.  Number of vehicles in accident: 2
+2.  Accident Type: T-bone
+3.  Person Injury: Likely yes (due to nature of accident and involvement of motorcycle)
+4.  Need for ambulance: Likely yes (due to potential for injury)
+5.  Need for firetruck: Unlikely no (no visual indication of fire or need for rescue)
+6.  Need for Police: Likely yes (to investigate and document the accident)
+7.  Types of vehicles involved: Motorcycle, Sedan
+8.  Fire: No
+9.  Day/night and weather: Day, Overcast
+10. Low Res/Bad Footage: Yes
+
+
+Response for 000126.mp4:
+Okay, here's an analysis of the video frames, focusing on the potential traffic incident:
+
+1.  Number of vehicles in accident: 2
+2.  Accident Type: T-bone
+3.  Person Injury: Likely yes, based on the nature of the collision between the vehicles.
+4.  Need for ambulance: Likely yes, due to potential injuries.
+5.  Need for firetruck: Likely no, no evidence of fire.
+6.  Need for Police: Likely yes, to investigate and file a report.
+7.  Types of vehicles involved: Bus and a motorcycle
+8.  Fire: No.
+9.  Day/night and weather: Day, clear.
+10. Low Res/Bad Footage: Yes.
+
+Response for 000127.mp4:
+Okay, here's an analysis of the video based on your prompt:
+
+1.  Number of vehicles in accident: 2
+2.  Accident Type: T-bone
+3.  Person Injury: Unknown 
+4.  Need for ambulance: Unknown
+5.  Need for firetruck: Unknown
+6.  Need for Police: Unknown
+7.  Types of vehicles involved: Appears to be two sedans.
+8.  Fire: No
+9.  Day/night and weather: Night, clear
+10. Low Res/Bad Footage: Yes
+
+
+Response for 000128.mp4:
+Okay, here's the information I can gather from the image, keeping in mind the limitations:
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** It appears to be a side impact (T-bone) or a near-side collision. It's hard to be certain from the angle.
+3.  **Person Injury:** Cannot be determined from the image.
+4.  **Need for ambulance:** Cannot be determined from the image.
+5.  **Need for firetruck:** Cannot be determined from the image.
+6.  **Need for Police:** Cannot be determined from the image, but given the nature of the collision, it's likely they would be needed.
+7.  **Types of vehicles involved:** One appears to be a box truck or van, and the other appears to be a sedan.
+8.  **Fire:** No.
+9.  **Day/night and weather:** Night. Snowy conditions are evident.
+10. **Low Res/Bad Footage:**  The footage quality is low resolution, making detailed assessment difficult.
+
+
+Response for 000129.mp4:
+Okay, here's an analysis based solely on the image provided, keeping in mind this is for a *potential* traffic incident:
+
+1.  **Number of vehicles in accident:** 2
+
+2.  **Accident Type:** T-bone (based on the position of the vehicles after the impact).
+
+3.  **Person Injury:** Based on the video, there is no immediate medical evaluation.
+
+4.  **Need for ambulance:** Possibly. It is difficult to ascertain if there are any major injuries.
+
+5.  **Need for firetruck:** The firetruck is already at the location, meaning, that there is no additional need.
+
+6.  **Need for Police:** Unknown if the police are on-site or required.
+
+7.  **Types of vehicles involved:** Car or SUV and a firetruck.
+
+8.  **Fire:** No.
+
+9.  **Day/night and weather:** Daytime, clear weather.
+
+10. **Low Res/Bad Footage:** No.
+
+
+Response for 000130.mp4:
+Okay, I will analyze the provided images and provide the requested information based solely on what I can observe in the frames.
+
+1.  **Number of vehicles in accident:** 0
+2.  **Accident Type:** Not applicable as no accident is occurring in the images.
+3.  **Person Injury:** No
+4.  **Need for ambulance:** No
+5.  **Need for firetruck:** No
+6.  **Need for Police:** No
+7.  **Types of vehicles involved:** SUVs, Vans, Sedans
+8.  **Fire:** No
+9.  **Day/night and weather:** Daytime, snowy/icy conditions.
+10. **Low Res/Bad Footage:** No
+
+
+Response for 000131.mp4:
+Okay, I will analyze the images based solely on what I can observe in the frames provided and answer your questions to the best of my ability.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone
+3.  **Person Injury:** Cannot determine from the image.
+4.  **Need for ambulance:** Cannot determine from the image.
+5.  **Need for firetruck:** Cannot determine from the image.
+6.  **Need for Police:** Cannot determine from the image.
+7.  **Types of vehicles involved:** Sedan, Sedan
+8.  **Fire:** No
+9.  **Day/night and weather:** Night, Snowy
+10. **Low Res/Bad Footage:** No
+
+
+Response for 000132.mp4:
+Okay, here's an analysis of the scene, focusing on quantitative information and the specific details you requested:
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone
+3.  **Person Injury:** Unknown
+4.  **Need for ambulance:** Unknown
+5.  **Need for firetruck:** No
+6.  **Need for Police:** Likely
+7.  **Types of vehicles involved:** Both appear to be sedans.
+8.  **Fire:** No
+9.  **Day/night and weather:** Night, appears to be snowy/icy conditions
+10. **Low Res/Bad Footage:** No
+
+
+Response for 000133.mp4:
+Here is the analysis based on the provided image:
+
+1.  Number of vehicles in accident: 3
+2.  Accident Type: T-bone/side impact
+3.  Person Injury: Cannot determine with certainty
+4.  Need for ambulance: Cannot determine with certainty
+5.  Need for firetruck: Cannot determine with certainty
+6.  Need for Police: Likely
+7.  Types of vehicles involved: Van, sedan, sedan
+8.  Fire: No
+9.  Day/night and weather: Night, appears to be wet or icy road conditions
+10. Low Res/Bad Footage: No
+
+
+Response for 000134.mp4:
+Okay, based on the provided images, here's a breakdown of the potential traffic incident:
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone
+3.  **Person Injury:** Cannot determine from the image.
+4.  **Need for ambulance:** Cannot determine from the image.
+5.  **Need for firetruck:** Cannot determine from the image.
+6.  **Need for Police:** Cannot determine from the image, but likely needed for accident reporting.
+7.  **Types of vehicles involved:** Sedans.
+8.  **Fire:** No.
+9.  **Day/night and weather:** Daytime, snowy/icy conditions.
+10. **Low Res/Bad Footage:** No, the footage is relatively clear, despite being a bit distant.
+
+
+Response for 000135.mp4:
+Okay, I will analyze the provided images to the best of my ability based solely on the visual information present, keeping in mind that this is demo only.
+
+1.  **Number of vehicles in accident:** 0 (Based on the frame, there's no visible accident occurring)
+
+2.  **Accident Type:** N/A (No accident)
+
+3.  **Person Injury:** No
+
+4.  **Need for ambulance:** No
+
+5.  **Need for firetruck:** No
+
+6.  **Need for Police:** No
+
+7.  **Types of vehicles involved:** I can identify a car in the image. 
+
+8.  **Fire:** No
+
+9.  **Day/night and weather:** Night, appears to be a cold winter scene with snow. It's difficult to determine the exact weather conditions (e.g., clear, cloudy) from a single image.
+
+10. **Low Res/Bad Footage:** Yes, resolution is low making it difficult to see smaller details.
+
+
+Response for 000136.mp4:
+Okay, here's the information based on the images provided:
+
+1.  Number of vehicles in accident: 4
+2.  Accident Type: Angle / Side Impact collision involving multiple vehicles
+3.  Person Injury: Yes (based on the severity of the crash)
+4.  Need for ambulance: Yes (likely, due to the severity)
+5.  Need for firetruck: Possible (given the potential for hazards, and impact to the vehicle)
+6.  Need for Police: Yes (to investigate the accident and manage the scene)
+7.  Types of vehicles involved: SUV, truck, motorcycles.
+8.  Fire: No (no visible fire)
+9.  Day/night and weather: Day, clear
+10. Low Res/Bad Footage: Yes
+
+**Important Considerations:**
+
+*   This analysis is based solely on the limited visual information in the images. A real-world investigation would require more detailed evidence.
+*   The "Person Injury" assessment is a judgment based on the visible severity of the crash and does not constitute a medical diagnosis.
+
+Response for 000137.mp4:
+Okay, I will analyze the image and provide the requested information to the best of my ability.
+
+1.  **Number of vehicles in accident:** 0
+2.  **Accident Type:** None
+3.  **Person Injury:** No
+4.  **Need for ambulance:** No
+5.  **Need for firetruck:** No
+6.  **Need for Police:** No
+7.  **Types of vehicles involved:** Sedan
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, Wet
+10. **Low Res/Bad Footage:** No
+
+
+Response for 000138.mp4:
+Okay, I will analyze the provided frames based on your instructions. 
+
+1.  **Number of vehicles in accident:** 0 (There is no visible accident in the provided frames.)
+
+2.  **Accident Type:** N/A
+
+3.  **Person Injury:** no
+
+4.  **Need for ambulance:** no
+
+5.  **Need for firetruck:** no
+
+6.  **Need for Police:** no
+
+7.  **Types of vehicles involved:** Various vehicles are visible in the scene (SUVs, trucks, sedans), but none are involved in an accident in these frames.
+
+8.  **Fire:** no
+
+9.  **Day/night and weather:** Day, clear
+
+10. **Low Res/Bad Footage:** Low resolution/Quality, but sufficient to see what is happening.
+
+
+Response for 000139.mp4:
+Okay, I will analyze the video frames and provide the requested information based solely on what I can visually observe.
+
+1.  **Number of vehicles in accident:** 0 (Based on the frames, there is no visible accident)
+2.  **Accident Type:** N/A (No accident is visible)
+3.  **Person Injury:** No (No visible injuries)
+4.  **Need for ambulance:** No (No indication of need)
+5.  **Need for firetruck:** No (No indication of need)
+6.  **Need for Police:** No (No indication of need)
+7.  **Types of vehicles involved:** Sedans, SUVs, a van.
+8.  **Fire:** No (No fire is visible)
+9.  **Day/night and weather:** Day, appears to be wet/rainy.
+10. **Low Res/Bad Footage:** No
+
+
+Response for 000140.mp4:
+Okay, I will analyze the provided frames to the best of my ability, keeping in mind the footage quality might limit accuracy.
+
+1.  **Number of vehicles in accident:** 1
+2.  **Accident Type:** Single vehicle accident
+3.  **Person Injury:** Unknown
+4.  **Need for ambulance:** Unknown
+5.  **Need for firetruck:** Unknown
+6.  **Need for Police:** Unknown
+7.  **Types of vehicles involved:** Sedan
+8.  **Fire:** No
+9.  **Day/night and weather:** Night, clear
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000141.mp4:
+Okay, I will analyze the provided frames and provide the requested information based solely on what is visible.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone
+3.  **Person Injury:** Possibly yes (due to the severity of the impact and the visible debris)
+4.  **Need for ambulance:** Likely yes (due to the possibility of injuries)
+5.  **Need for firetruck:** Unlikely no (no visible fire or smoke)
+6.  **Need for Police:** Likely yes (due to the severity of the accident)
+7.  **Types of vehicles involved:** Sedan and SUV
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, clear
+10. **Low Res/Bad Footage:** No
+
+
+Response for 000142.mp4:
+Okay, here's the information based on the provided frames:
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone
+3.  **Person Injury:** Likely yes, based on the severity of the impact. 
+4.  **Need for ambulance:** Yes, based on the severity of the impact.
+5.  **Need for firetruck:** Possibly, to assess potential hazards.
+6.  **Need for Police:** Yes, to investigate the accident.
+7.  **Types of vehicles involved:** Sedans appear to be involved. 
+8.  **Fire:** No.
+9.  **Day/night and weather:** Night and clear.
+10. **Low Res/Bad Footage:** No.
+
+Response for 000143.mp4:
+Okay, I will analyze the provided frames and give you the requested information based on my observations. Please remember that this is a simulation and not a real event.
+
+1.  **Number of vehicles in accident:** 1
+2.  **Accident Type:** Pedestrian vs Vehicle
+3.  **Person Injury:** Yes
+4.  **Need for ambulance:** Yes
+5.  **Need for firetruck:** No
+6.  **Need for Police:** Yes
+7.  **Types of vehicles involved:** Sedan
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, clear
+10. **Low Res/Bad Footage:** No
+
+
+Response for 000144.mp4:
+Okay, here is the analysis based on the provided frames:
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** Appears to be a side impact/T-bone collision.
+3.  **Person Injury:** Yes, based on the person sitting on the curb before the crash.
+4.  **Need for ambulance:** Yes, likely due to the potential for injury of the man sitting on curb.
+5.  **Need for firetruck:** No, based on no visual indication of fire.
+6.  **Need for Police:** Yes, likely needed for accident investigation and handling of the scene.
+7.  **Types of vehicles involved:** Two sedans.
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, weather is clear.
+10. **Low Res/Bad Footage:** Yes, the footage is low resolution, making it difficult to identify details.
+
+
+Response for 000145.mp4:
+Okay, I will analyze the video frames based solely on the visual information provided and the current prompt.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone
+3.  **Person Injury:** Possibly (Difficult to determine from this footage)
+4.  **Need for ambulance:** Possibly (Due to the nature of the collision, it is possible but cannot be confirmed with footage.)
+5.  **Need for firetruck:** No
+6.  **Need for Police:** Probably (To investigate and file an accident report)
+7.  **Types of vehicles involved:** Truck, SUV/Minivan
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, Clear
+10. **Low Res/Bad Footage:** Yes
+
+**Disclaimer:**  This assessment is based on limited visual information. A real-world accident investigation would require much more data.
+
+
+Response for 000146.mp4:
+Okay, I will analyze the image based on your instructions and provide quantitative information where possible.
+
+1.  **Number of vehicles in accident:** 0 (Based on the current frame, there is no visible accident).
+2.  **Accident Type:** None (No accident is occurring in the frame).
+3.  **Person Injury:** No (There is no indication of injury).
+4.  **Need for ambulance:** No (No indication of need for ambulance).
+5.  **Need for firetruck:** No (No indication of fire or need for firetruck).
+6.  **Need for Police:** No (No indication of need for police).
+7.  **Types of vehicles involved:** Currently, one truck and one sedan are visible.
+8.  **Fire:** No (No fire is visible).
+9.  **Day/night and weather:** Day, clear weather.
+10. **Low Res/Bad Footage:** Yes (The footage is low resolution and somewhat blurry).
+
+
+Response for 000147.mp4:
+Okay, here's my analysis of the traffic incident based on the images you provided:
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** Side Impact/ Overturn
+3.  **Person Injury:** Potentially yes
+4.  **Need for ambulance:** Potentially yes
+5.  **Need for firetruck:** Possibly (debris and possible fuel leak)
+6.  **Need for Police:** Yes
+7.  **Types of vehicles involved:** Hatchback car, Semi-truck.
+8.  **Fire:** No (but potential for fuel leak)
+9.  **Day/night and weather:** Day, clear
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000148.mp4:
+Okay, I will analyze the frames you provided based solely on the visual information and the instructions you've given.
+
+1.  Number of vehicles in accident: 2
+2.  Accident Type: T-bone
+3.  Person Injury: It is difficult to tell from the footage, but based on the impact, I would say yes
+4.  Need for ambulance: Likely
+5.  Need for firetruck: Unlikely
+6.  Need for Police: Likely
+7.  Types of vehicles involved: Sedans
+8.  Fire: No
+9.  Day/night and weather: Day, Clear
+10. Low Res/Bad Footage: Yes
+
+
+Response for 000149.mp4:
+
+
+Response for 000150.mp4:
+Okay, here's a breakdown of the potential traffic incident based on the provided frames:
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** Likely a T-bone or intersection collision.
+3.  **Person Injury:** Potentially yes, given the nature of the collision.
+4.  **Need for ambulance:** Potentially yes.
+5.  **Need for firetruck:**  Potentially no. 
+6.  **Need for Police:** Yes.
+7.  **Types of vehicles involved:** Sedan (at least one is visible).
+8.  **Fire:** No (no visible signs).
+9.  **Day/night and weather:** Night, potentially wet or rainy conditions.
+10. **Low Res/Bad Footage:** Yes, the footage is low resolution and has poor visibility due to the lighting and possible weather.
+
+
+Response for 000151.mp4:
+Okay, I will analyze the provided frames to the best of my ability.
+
+1.  **Number of vehicles in accident:** 1
+
+2.  **Accident Type:** Pedestrian collision
+
+3.  **Person Injury:** Yes
+
+4.  **Need for ambulance:** Likely yes
+
+5.  **Need for firetruck:** No
+
+6.  **Need for Police:** Yes
+
+7.  **Types of vehicles involved:** Small sedan
+
+8.  **Fire:** No
+
+9.  **Day/night and weather:** Day/Clear
+
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000152.mp4:
+Okay, I will analyze the provided frames to the best of my ability, focusing on quantitative and observable information:
+
+1.  **Number of vehicles in accident:** Unable to determine from frames
+
+2.  **Accident Type:** Unable to determine from frames
+
+3.  **Person Injury:** Unable to determine from frames
+
+4.  **Need for ambulance:** Unable to determine from frames
+
+5.  **Need for firetruck:** Unable to determine from frames
+
+6.  **Need for Police:** Unable to determine from frames
+
+7.  **Types of vehicles involved:** Appears to be a van
+
+8.  **Fire:** No
+
+9.  **Day/night and weather:** Daytime, clear
+
+10. **Low Res/Bad Footage:** Yes, low resolution
+
+
+Response for 000153.mp4:
+Okay, I will analyze the provided image and provide the requested information based solely on what I can observe.
+
+1.  **Number of vehicles in accident:** Impossible to tell from single frame.
+2.  **Accident Type:** Impossible to tell from single frame.
+3.  **Person Injury:** Unknown.
+4.  **Need for ambulance:** Unknown.
+5.  **Need for firetruck:** Unknown.
+6.  **Need for Police:** Unknown.
+7.  **Types of vehicles involved:** At least one sedan. 
+8.  **Fire:** No.
+9.  **Day/night and weather:** Night, appears clear.
+10. **Low Res/Bad Footage:** Yes.
+
+
+Response for 000154.mp4:
+Okay, I will analyze the frames to the best of my ability and provide quantitative information where possible.
+
+1.  1
+2.  Cannot Determine
+3.  Cannot Determine
+4.  Cannot Determine
+5.  Cannot Determine
+6.  Yes
+7.  Truck, Motorcycle, Car
+8.  No
+9.  Day/Clear
+10. No
+
+
+Response for 000155.mp4:
+Okay, I will do my best to analyze the scene based on the provided frames, keeping in mind the limitations of the footage.
+
+1.  **Number of vehicles in accident:** It is difficult to determine the exact number of vehicles involved in the accident from this single frame. It appears there may be at least one car that has crashed, but without more information, it is impossible to say if other vehicles were involved. The video appears to capture one vehicle.
+
+2.  **Accident Type:** It's impossible to determine the accident type from this frame alone.
+
+3.  **Person Injury:** Unknown, but unlikely.
+
+4.  **Need for ambulance:** Unknown.
+
+5.  **Need for firetruck:** Unknown.
+
+6.  **Need for Police:** Likely, due to the presence of the crash.
+
+7.  **Types of vehicles involved:** Appears to be a car
+
+8.  **Fire:** No.
+
+9.  **Day/night and weather:** Daytime, possibly rainy or wet conditions based on the road surface.
+
+10. **Low Res/Bad Footage:** Yes.
+
+
+Response for 000156.mp4:
+Okay, here's an analysis based solely on the provided frames and prompt, keeping in mind the limitations:
+
+1.  **Number of vehicles in accident:** 1 (possibly more vehicles are out of view)
+2.  **Accident Type:** Pedestrian Hit
+3.  **Person Injury:** Likely yes
+4.  **Need for ambulance:** Likely yes
+5.  **Need for firetruck:** No (not indicated by the frame)
+6.  **Need for Police:** Likely yes (for investigation and traffic control)
+7.  **Types of vehicles involved:** Bus (or a similar large vehicle), possible vehicle out of frame
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, clear
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000157.mp4:
+Okay, here's my analysis of the traffic incident based on the provided frames, keeping in mind this is a demo and not real:
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-Bone
+3.  **Person Injury:** Likely yes 
+4.  **Need for ambulance:** Likely yes
+5.  **Need for firetruck:** Likely no
+6.  **Need for Police:** Yes
+7.  **Types of vehicles involved:** Van and Motorcycle
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, clear
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000158.mp4:
+Okay, I will analyze the provided frames and give you the requested information based solely on what I can observe.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** Rear-end
+3.  **Person Injury:** Unknown
+4.  **Need for ambulance:** Likely
+5.  **Need for firetruck:** Unlikely
+6.  **Need for Police:** Likely
+7.  **Types of vehicles involved:** Sedan and a van
+8.  **Fire:** No
+9.  **Day/night and weather:** Day/Clear
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000159.mp4:
+Okay, I will analyze the image based on your instructions. Here's my assessment:
+
+1.  **Number of vehicles in accident:** 3
+2.  **Accident Type:** Rear end
+3.  **Person Injury:** Unknown
+4.  **Need for ambulance:** Unknown
+5.  **Need for firetruck:** Unknown
+6.  **Need for Police:** Likely
+7.  **Types of vehicles involved:** Sedans
+8.  **Fire:** No
+9.  **Day/night and weather:** Night, Clear
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000160.mp4:
+Okay, here's an analysis of the potential traffic incident based on the provided frames:
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone
+3.  **Person Injury:** Yes
+4.  **Need for ambulance:** Yes
+5.  **Need for firetruck:** No
+6.  **Need for Police:** Yes
+7.  **Types of vehicles involved:** Sedan and Motorcycle
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, rainy/wet
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000161.mp4:
+Okay, I will analyze the video frames to provide the requested information, keeping in mind this is a simulated scenario.
+
+Here's my analysis:
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone
+3.  **Person Injury:** Based on the video, it's highly likely "yes" due to the nature of the impact on the motorcycle.
+4.  **Need for ambulance:**  Probably "yes" given the potential for injuries in a motorcycle accident.
+5.  **Need for firetruck:** "no" based on what can be seen in the video frames
+6.  **Need for Police:** "yes", to investigate the accident and file a report.
+7.  **Types of vehicles involved:** Motorcycle and Sedan
+8.  **Fire:** "no"
+9.  **Day/night and weather:** Day/Overcast
+10. **Low Res/Bad Footage:** "yes"
+
+
+Response for 000162.mp4:
+Okay, I will analyze the image and provide the information based solely on what I can see.
+
+1.  **Number of vehicles in accident:** 2 (based on the visible impact)
+2.  **Accident Type:** T-bone
+3.  **Person Injury:** Possibly yes (based on the severity of the impact, further investigation is needed)
+4.  **Need for ambulance:** Possibly yes (based on the severity of the impact, further investigation is needed)
+5.  **Need for firetruck:** No (no visible fire)
+6.  **Need for Police:** Yes (traffic accident investigation)
+7.  **Types of vehicles involved:** Sedan and Sedan
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, clear
+10. **Low Res/Bad Footage:** Yes (low resolution)
+
+
+Response for 000163.mp4:
+Okay, I will do my best to analyze the footage based solely on the visual information provided.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone
+3.  **Person Injury:** Likely yes (based on the violent impact).
+4.  **Need for ambulance:** Yes
+5.  **Need for firetruck:** Maybe
+6.  **Need for Police:** Yes
+7.  **Types of vehicles involved:** Sedan (at least one, possibly two).
+8.  **Fire:** Likely, there is a bright flash and sustained light suggesting some type of combustion.
+9.  **Day/night and weather:** Night, possibly wet (lights are diffused).
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000164.mp4:
+Okay, here's my analysis based solely on the images provided:
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-Bone
+3.  **Person Injury:** Potentially yes (based on the severity of the impact).
+4.  **Need for ambulance:** Probably yes.
+5.  **Need for firetruck:** Possibly yes (due to the severity and debris).
+6.  **Need for Police:** Yes (standard procedure for accidents).
+7.  **Types of vehicles involved:** At least one Sedan, the other vehicle type is unclear.
+8.  **Fire:** No (not visibly in the frames).
+9.  **Day/night and weather:** Night, weather unclear (appears possibly wet).
+10. **Low Res/Bad Footage:** Yes.
+
+
+Response for 000165.mp4:
+Okay, I will analyze the provided frames and provide the information as requested.
+
+**Analysis of Frames**
+
+Based on the frames, I can't see any indication of a traffic accident. There are multiple cars on the road in both directions with no sign of impact, stopped vehicles, debris, or other evidence of a crash.
+
+**Requested Information**
+
+1.  **Number of vehicles in accident:** 0
+2.  **Accident Type:** None
+3.  **Person Injury:** No
+4.  **Need for ambulance:** No
+5.  **Need for firetruck:** No
+6.  **Need for Police:** No
+7.  **Types of vehicles involved:** SUVs, Sedans, Van
+8.  **Fire:** No
+9.  **Day/night and weather:** Day/Clear
+10. **Low Res/Bad Footage:** No
+
+**Disclaimer:** *This analysis is based solely on the visual information present in the provided frames. A real-world assessment would require additional information and potentially a closer examination of the scene.*
+
+
+Response for 000166.mp4:
+Okay, I will analyze the provided frames and provide quantitative information based on my observations.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-Bone (based on vehicle orientation after the apparent impact)
+3.  **Person Injury:** Potentially Yes (based on the impact type and the presence of a pedestrian nearby)
+4.  **Need for ambulance:** Potentially Yes (given the potential for injuries from a T-Bone collision and a nearby pedestrian)
+5.  **Need for firetruck:** No (no evidence of fire or need for extraction)
+6.  **Need for Police:** Yes (traffic accidents require police investigation)
+7.  **Types of vehicles involved:** Sedan (likely) and possibly another Sedan.
+8.  **Fire:** No
+9.  **Day/night and weather:** Night, Wet/Rainy (based on street glare and visibility)
+10. **Low Res/Bad Footage:** Yes (the footage is grainy and low resolution, making it difficult to ascertain specific details).
+
+
+Response for 000167.mp4:
+Okay, I will analyze the provided frames to identify potential traffic incident information.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** Side impact, potentially a sideswipe or a T-bone type situation
+3.  **Person Injury:** yes, based on the body posture after collision
+4.  **Need for ambulance:** Potentially yes, given the body posture in the image
+5.  **Need for firetruck:** No, no sign of fire
+6.  **Need for Police:** Likely yes, given the event being recorded and the presence of what appears to be a police logo.
+7.  **Types of vehicles involved:** Sedan and unknown
+8.  **Fire:** No
+9.  **Day/night and weather:** Daytime, clear weather
+10. **Low Res/Bad Footage:** Yes, the footage is low resolution, making it difficult to identify details accurately.
+
+
+Response for 000168.mp4:
+Okay, I will analyze the provided frames and provide the requested information to the best of my ability, given the image quality.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** Pedestrian strike
+3.  **Person Injury:** Yes
+4.  **Need for ambulance:** Yes
+5.  **Need for firetruck:** No
+6.  **Need for Police:** Yes
+7.  **Types of vehicles involved:** Sedan and pedestrian 
+8.  **Fire:** No
+9.  **Day/night and weather:** Night, and weather is unknown but it appears to be clear.
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000169.mp4:
+Okay, I will analyze the provided frames to give you quantitative information about the potential traffic incident.
+
+1.  **Number of vehicles in accident:** 0 (There is no indication of an accident, but I am providing an analysis of the vehicles at the intersection)
+2.  **Accident Type:** N/A
+3.  **Person Injury:** no
+4.  **Need for ambulance:** no
+5.  **Need for firetruck:** no
+6.  **Need for Police:** no
+7.  **Types of vehicles involved:** Tanker truck, pickup truck, sedan,
+8.  **Fire:** no
+9.  **Day/night and weather:** Day, clear
+10. **Low Res/Bad Footage:** yes
+
+
+Response for 000170.mp4:
+Okay, here is an analysis of the provided frames, focusing on quantitative information and addressing the specified points. Please be aware of the "demo only" nature of this footage, and the potential for limited or misleading data.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-Bone. One vehicle appears to have hit another at an intersection.
+3.  **Person Injury:** Yes (Based on visible impact).
+4.  **Need for ambulance:** Yes (Likely, given the severity of the impact).
+5.  **Need for firetruck:** Possibly (if there is a potential for fire).
+6.  **Need for Police:** Yes (Accidents with injuries typically require police involvement).
+7.  **Types of vehicles involved:** Sedan (at least one, possible SUV or station wagon).
+8.  **Fire:** Yes (Possible fire after the impact).
+9.  **Day/night and weather:** Night, clear weather.
+10. **Low Res/Bad Footage:** Yes (Video is low resolution)
+
+Response for 000171.mp4:
+Okay, here's the analysis of the provided frames based solely on the visual information, following your numbered format:
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone
+3.  **Person Injury:** Unknown.
+4.  **Need for ambulance:** Likely.
+5.  **Need for firetruck:** Unknown.
+6.  **Need for Police:** Highly likely.
+7.  **Types of vehicles involved:** SUV, mini-bus/van.
+8.  **Fire:** No.
+9.  **Day/night and weather:** Night, wet.
+10. **Low Res/Bad Footage:** Yes.
+
+
+Response for 000172.mp4:
+Okay, I will analyze the frames and provide the information based on your instructions.
+
+1.  **Number of vehicles in accident:** 0 (There is no accident in the provided frames.)
+2.  **Accident Type:** N/A
+3.  **Person Injury:** No
+4.  **Need for ambulance:** No
+5.  **Need for firetruck:** No
+6.  **Need for Police:** No
+7.  **Types of vehicles involved:** SUVs, trucks, sedans, van, other.
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, clear
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000173.mp4:
+Okay, I will analyze the provided video frames based on your request, focusing solely on identifying a potential traffic incident and providing quantitative information. Keep in mind that this is based on limited visual information and cannot be considered a definitive accident report.
+
+Here's the analysis:
+
+1.  **Number of vehicles in accident:** 0 (Based on the provided frames, there's no visible evidence of an accident).
+2.  **Accident Type:** None (No accident detected).
+3.  **Person Injury:** No (No indication of injuries).
+4.  **Need for ambulance:** No (No need apparent).
+5.  **Need for firetruck:** No (No need apparent).
+6.  **Need for Police:** No (No need apparent).
+7.  **Types of vehicles involved:** SUVs, sedans, and trucks are visible in traffic.
+8.  **Fire:** No.
+9.  **Day/night and weather:** Daytime, clear.
+10. **Low Res/Bad Footage:** Yes.
+
+**Important Considerations:**
+
+*   This assessment is based solely on the limited visual information provided in the frames.
+*   Due to the low resolution, subtle details might be missed.
+*   A real-world accident investigation would require much more information and analysis.
+
+
+
+Response for 000174.mp4:
+Okay, I will analyze the provided frames and give my best assessment based on the available information, keeping in mind this is demo footage and low resolution.
+
+1.  **Number of vehicles in accident:**  Impossible to determine from these images. There is no accident shown, but cars are driving in various directions.
+
+2.  **Accident Type:**  Cannot be determined as there is no accident present in the images.
+
+3.  **Person Injury:** Unknown, cannot be determined.
+
+4.  **Need for ambulance:** Unknown, cannot be determined.
+
+5.  **Need for firetruck:** Unknown, cannot be determined.
+
+6.  **Need for Police:** Unknown, cannot be determined.
+
+7.  **Types of vehicles involved:**  Sedans, SUVs, and potentially trucks are visible but their involvement in an accident is nonexistent.
+
+8.  **Fire:** No.
+
+9.  **Day/night and weather:** Night, and assuming the weather is clear.
+
+10. **Low Res/Bad Footage:** Yes, the footage is of low resolution and quality.
+
+
+Response for 000175.mp4:
+Okay, I will analyze the provided frames and provide information as requested.
+
+1.  **Number of vehicles in accident:** 0 
+2.  **Accident Type:** N/A
+3.  **Person Injury:** no
+4.  **Need for ambulance:** no
+5.  **Need for firetruck:** no
+6.  **Need for Police:** no
+7.  **Types of vehicles involved:** sedan
+8.  **Fire:** no
+9.  **Day/night and weather:** night, clear
+10. **Low Res/Bad Footage:** yes
+
+
+Response for 000176.mp4:
+Okay, I will analyze the provided frames based on your instructions. Please remember this is a simulation and I'm making inferences from limited visual data.
+
+Here's my analysis:
+
+1.  **Number of vehicles in accident:** 0
+2.  **Accident Type:** None
+3.  **Person Injury:** no
+4.  **Need for ambulance:** no
+5.  **Need for firetruck:** no
+6.  **Need for Police:** no
+7.  **Types of vehicles involved:** SUV, sedan, van, truck
+8.  **Fire:** no
+9.  **Day/night and weather:** Day, clear
+10. **Low Res/Bad Footage:** yes
+
+
+Response for 000177.mp4:
+Okay, I will analyze the traffic incident based solely on the provided images and your instructions.
+
+1.  Number of vehicles in accident: 2
+2.  Accident Type: T-bone
+3.  Person Injury: Unknown
+4.  Need for ambulance: Unknown
+5.  Need for firetruck: Unknown
+6.  Need for Police: Likely
+7.  Types of vehicles involved: SUV, Sedan
+8.  Fire: No
+9.  Day/night and weather: Day, Clear
+10. Low Res/Bad Footage: Yes
+
+
+Response for 000178.mp4:
+Okay, I will analyze the video frames and provide the information you requested based solely on what I can observe.
+
+1.  **Number of vehicles in accident:** 0 (I do not see an accident. I see vehicles passing through an intersection)
+2.  **Accident Type:** None
+3.  **Person Injury:** No
+4.  **Need for ambulance:** No
+5.  **Need for firetruck:** No
+6.  **Need for Police:** No
+7.  **Types of vehicles involved:** SUVs, trucks, sedans
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, clear
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000179.mp4:
+Okay, I will analyze the provided frames based on your instructions.
+
+1.  **Number of vehicles in accident:** 0 (Based on the frames, I do not see any vehicle collisions.  The cars are simply moving through an intersection at night.)
+2.  **Accident Type:** Not Applicable
+3.  **Person Injury:** No
+4.  **Need for ambulance:** No
+5.  **Need for firetruck:** No
+6.  **Need for Police:** No
+7.  **Types of vehicles involved:** Sedans (Based on the headlights and general shape)
+8.  **Fire:** No
+9.  **Day/night and weather:** Night, weather is not discernible (likely clear based on visibility)
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000180.mp4:
+Okay, I'll analyze the provided frames based on your instructions and provide the information.
+
+1.  **Number of vehicles in accident:** 0 (Based on the provided frames, there is no visible accident.)
+2.  **Accident Type:** N/A (No accident is visible)
+3.  **Person Injury:** No (No accident, no injury)
+4.  **Need for ambulance:** No (No accident, no need)
+5.  **Need for firetruck:** No (No accident, no need)
+6.  **Need for Police:** No (No accident, no need)
+7.  **Types of vehicles involved:** SUVs, Sedans, Taxi (yellow sedan)
+8.  **Fire:** No (No fire is visible)
+9.  **Day/night and weather:** Day/Clear
+10. **Low Res/Bad Footage:** yes.
+
+
+Response for 000181.mp4:
+Okay, I will analyze the frames and provide the requested information to the best of my ability, given the quality of the footage.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone
+3.  **Person Injury:** Unknown
+4.  **Need for ambulance:** Unknown
+5.  **Need for firetruck:** Unknown
+6.  **Need for Police:** Unknown
+7.  **Types of vehicles involved:** Sedan and SUV
+8.  **Fire:** No
+9.  **Day/night and weather:** Night, clear
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000182.mp4:
+Okay, I will do my best to analyze the provided frames based solely on the visual information given and assuming a potential traffic incident. Please keep in mind that due to the video quality, I am making estimations.
+
+1.  **Number of vehicles in accident:** 0 (Based on this frame alone, there is no visible accident, just traffic.)
+2.  **Accident Type:** N/A (No accident visible.)
+3.  **Person Injury:** no (No visible indication of injury.)
+4.  **Need for ambulance:** no (No indication of the need for an ambulance.)
+5.  **Need for firetruck:** no (No indication of the need for a firetruck.)
+6.  **Need for Police:** no (No visible evidence to suggest police presence or need.)
+7.  **Types of vehicles involved:** SUVs, sedans, trucks. (Based on visible vehicle shapes.)
+8.  **Fire:** no
+9.  **Day/night and weather:** Night, and unclear (Due to resolution, I cannot definitively determine the weather conditions)
+10. **Low Res/Bad Footage:** yes
+
+
+Response for 000183.mp4:
+Okay, I'll analyze the provided images based on your instructions.
+
+1.  **Number of vehicles in accident:** It is impossible to know, the footage is demo only
+
+2.  **Accident Type:** It is impossible to know, the footage is demo only
+
+3.  **Person Injury:** It is impossible to know, the footage is demo only
+
+4.  **Need for ambulance:** It is impossible to know, the footage is demo only
+
+5.  **Need for firetruck:** It is impossible to know, the footage is demo only
+
+6.  **Need for Police:** It is impossible to know, the footage is demo only
+
+7.  **Types of vehicles involved:** SUVs, sedans, some hatchbacks. It is impossible to know, the footage is demo only
+
+8.  **Fire:** No.
+
+9.  **Day/night and weather:** Day, clear weather.
+
+10. **Low Res/Bad Footage:** Yes, the footage is low resolution and the footage is demo only
+
+
+Response for 000184.mp4:
+Okay, I will analyze the video frames and provide the requested information to the best of my ability.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone
+3.  **Person Injury:** Potentially yes (given the severity of the impact, it is possible someone was injured. However, the image alone does not provide this information)
+4.  **Need for ambulance:** Potentially yes (based on the accident type, this is possible)
+5.  **Need for firetruck:** Potentially no (there is no visual indication of a fire)
+6.  **Need for Police:** Likely yes (accidents of this nature usually require police assistance)
+7.  **Types of vehicles involved:** SUV and a box truck
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, clear
+10. **Low Res/Bad Footage:** No (while not high-definition, the footage is sufficient to see the accident)
+
+
+Response for 000185.mp4:
+Okay, here is the quantitative information based on the video frames you provided:
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-Bone 
+3.  **Person Injury:** Yes (likely, based on the severity of the crash and debris field)
+4.  **Need for ambulance:** Yes
+5.  **Need for firetruck:** Yes (based on the presence of smoke/dust cloud after impact)
+6.  **Need for Police:** Yes
+7.  **Types of vehicles involved:** It is difficult to determine the exact vehicle types due to the low quality and the impact. However, one appears to be a pickup and the other is either a car or a small SUV.
+8.  **Fire:** Possibly (Smoke/dust cloud observed after impact could indicate this)
+9.  **Day/night and weather:** Night, Weather appears to be raining/wet roads.
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000186.mp4:
+Okay, I will analyze the provided frames based solely on the visual information and the prompt's criteria.
+
+1.  **Number of vehicles in accident:** 0 (Based on the provided images, there is no visible accident).
+2.  **Accident Type:** N/A
+3.  **Person Injury:** No (Based on visual evidence).
+4.  **Need for ambulance:** No (Based on visual evidence).
+5.  **Need for firetruck:** No (Based on visual evidence).
+6.  **Need for Police:** No (Based on visual evidence).
+7.  **Types of vehicles involved:** Sedan and truck.
+8.  **Fire:** No
+9.  **Day/night and weather:** Night, wet (likely raining).
+10. **Low Res/Bad Footage:** Yes. The footage is grainy and low resolution.
+
+
+Response for 000187.mp4:
+Okay, here is an analysis of the traffic incident based on the provided frames:
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** Angle/Side Impact (appears similar to a T-bone, but with an angle)
+3.  **Person Injury:** Likely yes (based on the severity of the impact)
+4.  **Need for ambulance:** Likely yes
+5.  **Need for firetruck:** Possibly yes (depending on potential hazards/fuel spillage)
+6.  **Need for Police:** Yes (accident investigation required)
+7.  **Types of vehicles involved:** Appears to be sedans
+8.  **Fire:** No (based on the frame)
+9.  **Day/night and weather:** Night, Wet (based on road conditions)
+10. **Low Res/Bad Footage:** No, footage is reasonably clear.
+
+
+Response for 000188.mp4:
+Okay, here's an analysis of the event captured in the image, based solely on the visual information provided:
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** Broadside/T-Bone
+3.  **Person Injury:** Likely Yes (based on severity of the accident)
+4.  **Need for ambulance:** Highly Likely
+5.  **Need for firetruck:** Possibly (depending on the extent of damage and potential hazards)
+6.  **Need for Police:** Yes (standard for traffic accidents, especially with potential injuries)
+7.  **Types of vehicles involved:** Appears to be two sedans.
+8.  **Fire:** No (no visible flames)
+9.  **Day/night and weather:** Night, likely clear
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000189.mp4:
+Okay, I will analyze the provided frames based on your instructions:
+
+1.  **Number of vehicles in accident:** 3
+2.  **Accident Type:** T-bone/Intersection Collision
+3.  **Person Injury:** Possible (based on the severity of the impact)
+4.  **Need for ambulance:** Likely
+5.  **Need for firetruck:** Unlikely
+6.  **Need for Police:** Yes
+7.  **Types of vehicles involved:** Vans and Sedan
+8.  **Fire:** No
+9.  **Day/night and weather:** Night, clear
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000190.mp4:
+Okay, here's the analysis based on the provided frames:
+
+1.  Number of vehicles in accident: 0 (Based on the video, there does not seem to be any accident)
+2.  Accident Type: N/A
+3.  Person Injury: No
+4.  Need for ambulance: No
+5.  Need for firetruck: No
+6.  Need for Police: No
+7.  Types of vehicles involved: Scooter, Sedan, Van
+8.  Fire: No
+9.  Day/night and weather: Day, clear
+10. Low Res/Bad Footage: No
+
+Response for 000191.mp4:
+Okay, here's an analysis of the frames, keeping in mind the limitations of the video:
+
+1.  **Number of vehicles in accident:** 1 (bus)
+
+2.  **Accident Type:** Appears to be loss of control causing the bus to veer off course.
+
+3.  **Person Injury:** Unknown, but given the size of the bus and its trajectory, injury is possible.
+
+4.  **Need for ambulance:** Probably yes, given the potential for injuries.
+
+5.  **Need for firetruck:** Unlikely, unless there's a fuel spill or fire hazard.
+
+6.  **Need for Police:** Yes, to investigate the cause of the accident and manage traffic.
+
+7.  **Types of vehicles involved:** Bus
+
+8.  **Fire:** No
+
+9.  **Day/night and weather:** Day, clear weather.
+
+10. **Low Res/Bad Footage:** Yes, the footage is low resolution.
+
+
+Response for 000192.mp4:
+Okay, here's the analysis of the provided frames, keeping in mind this is based on very limited information:
+
+1.  **Number of vehicles in accident:** 1 (Based on the video I see one car veering off the road and possibly hitting an object)
+2.  **Accident Type:** Single Vehicle Accident (Possible collision with a stationary object)
+3.  **Person Injury:** Unknown
+4.  **Need for ambulance:** Unknown
+5.  **Need for firetruck:** Unknown
+6.  **Need for Police:** Possible 
+7.  **Types of vehicles involved:** Sedan
+8.  **Fire:** No
+9.  **Day/night and weather:** Night, weather unclear (appears clear)
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000193.mp4:
+Here's an analysis of the provided frames based on your requests:
+
+1.  Number of vehicles in accident: 1
+2.  Accident Type: Pedestrian accident
+3.  Person Injury: Yes
+4.  Need for ambulance: Yes
+5.  Need for firetruck: No
+6.  Need for Police: Yes
+7.  Types of vehicles involved: Bus, pedestrian.
+8.  Fire: No
+9.  Day/night and weather: Day, clear
+10. Low Res/Bad Footage: Yes
+
+
+Response for 000194.mp4:
+Okay, here's the information based on the provided frames, focusing on quantitative details and the specific requests:
+
+1.  **Number of vehicles in accident:** 0 (There is no accident in these frames. This is an ordinary crossing.)
+
+2.  **Accident Type:** Not applicable (no accident).
+
+3.  **Person Injury:** No.
+
+4.  **Need for ambulance:** No.
+
+5.  **Need for firetruck:** No.
+
+6.  **Need for Police:** No.
+
+7.  **Types of vehicles involved:** SUV, vans, cars, motorcycles/scooters.
+
+8.  **Fire:** No.
+
+9.  **Day/night and weather:** Day, clear.
+
+10. **Low Res/Bad Footage:** Yes.
+
+
+Response for 000195.mp4:
+Okay, I will analyze the provided frames and give you the information based solely on what is visible in the image, without considering any prior context.
+
+1.  **Number of vehicles in accident:** 1
+2.  **Accident Type:** Unable to determine from this single frame. It appears that a possible collision has occurred, but the type is not visible.
+3.  **Person Injury:** Unable to determine from this frame.
+4.  **Need for ambulance:** Unable to determine from this frame.
+5.  **Need for firetruck:** Unable to determine from this frame.
+6.  **Need for Police:** Unable to determine from this frame.
+7.  **Types of vehicles involved:** Bus, and what looks like a delivery van or light duty truck.
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, clear weather.
+10. **Low Res/Bad Footage:** Appears to be low resolution.
+
+
+Response for 000196.mp4:
+Okay, I will analyze the provided frames and give you the requested information to the best of my ability, keeping in mind that this is a demo and the footage may be low resolution.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone (likely, based on the approach angles)
+3.  **Person Injury:** Likely yes (based on the impact and potential vulnerability of motorcycle rider)
+4.  **Need for ambulance:** Yes
+5.  **Need for firetruck:** No (no visible fire)
+6.  **Need for Police:** Yes
+7.  **Types of vehicles involved:** Van/Light Truck, Motorcycle
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, clear weather
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000197.mp4:
+Okay, I will analyze the provided frames based on your instructions.
+
+1.  Number of vehicles in accident: 1
+
+2.  Accident Type: Single vehicle accident (motorcycle fall)
+
+3.  Person Injury: Yes (based on the fall)
+
+4.  Need for ambulance: Possibly yes (given the visible injuries)
+
+5.  Need for firetruck: No
+
+6.  Need for Police: Possibly yes (to investigate the accident)
+
+7.  Types of vehicles involved: Motorcycle/Scooter
+
+8.  Fire: No
+
+9.  Day/night and weather: Day, clear
+
+10. Low Res/Bad Footage: No
+
+
+Response for 000198.mp4:
+Okay, I will analyze the image and provide the requested information based solely on what I can observe.
+
+1.  Number of vehicles in accident: 2
+2.  Accident Type: Appears to be a vehicle colliding with a motorcycle. It is not possible to ascertain type of accident type from a single frame
+3.  Person Injury: Yes. There is a person seen on the ground.
+4.  Need for ambulance: Yes, likely due to apparent injury.
+5.  Need for firetruck: No, no fire is visible.
+6.  Need for Police: Yes, an accident has occurred.
+7.  Types of vehicles involved: Sedan and Motorcycle
+8.  Fire: No.
+9.  Day/night and weather: Day, clear weather
+10. Low Res/Bad Footage: No, the footage has enough detail to be helpful.
+
+
+Response for 000199.mp4:
+Okay, here's an analysis of the potential traffic incident based on the images provided:
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone
+3.  **Person Injury:** Yes
+4.  **Need for ambulance:** Yes
+5.  **Need for firetruck:** No
+6.  **Need for Police:** Yes
+7.  **Types of vehicles involved:** Sedan, Motorcycle
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, Clear
+10. **Low Res/Bad Footage:** No
+
+
+Response for 000200.mp4:
+Okay, I will analyze the provided frames to give you the requested information to the best of my ability, based solely on the visual data.
+
+1.  **Number of vehicles in accident:** 1
+2.  **Accident Type:** Unknown. The footage does not show an accident happening.
+3.  **Person Injury:** Unknown
+4.  **Need for ambulance:** Unknown
+5.  **Need for firetruck:** No
+6.  **Need for Police:** Unknown
+7.  **Types of vehicles involved:** Motorcycle or Scooter and a Car.
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, clear
+10. **Low Res/Bad Footage:** Low Resolution
+
+
+Response for 000201.mp4:
+Okay, here's an analysis of the provided frames based on your request, keeping in mind the "demo only" nature and image quality:
+
+1.  **Number of vehicles in accident:** 0 
+2.  **Accident Type:** N/A
+3.  **Person Injury:** N/A
+4.  **Need for ambulance:** No
+5.  **Need for firetruck:** No
+6.  **Need for Police:** No
+7.  **Types of vehicles involved:** Sedans, Van, small hatchback
+8.  **Fire:** No
+9.  **Day/night and weather:** Day, clear
+10. **Low Res/Bad Footage:** Yes
+
+
+Response for 000202.mp4:
+Okay, I will analyze the images based on your prompt and provide the requested information.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone
+3.  **Person Injury:** Possible (due to the force of impact, difficult to confirm from the footage).
+4.  **Need for ambulance:** Likely (due to the nature of the accident).
+5.  **Need for firetruck:** No (no visible fire or smoke).
+6.  **Need for Police:** Yes (to investigate the accident and manage traffic).
+7.  **Types of vehicles involved:** Sedan and SUV or Van.
+8.  **Fire:** No
+9.  **Day/night and weather:** Night, wet (road surface appears wet reflecting headlights).
+10. **Low Res/Bad Footage:** Yes (the image quality is low, making it difficult to discern details clearly).
+
+
+Response for 000203.mp4:
+Okay, here's an analysis of the provided frames based on your criteria:
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone
+3.  **Person Injury:** yes
+4.  **Need for ambulance:** yes
+5.  **Need for firetruck:** no
+6.  **Need for Police:** yes
+7.  **Types of vehicles involved:** Motorcycle and sedan
+8.  **Fire:** no
+9.  **Day/night and weather:** Day, clear
+10. **Low Res/Bad Footage:** no
+
+
+Response for 000204.mp4:
+Okay, I will analyze the provided frames to assess the potential traffic incident, providing quantitative information and answering your questions as best as possible, acknowledging the limitations of the footage.
+
+1.  **Number of vehicles in accident:** 2
+2.  **Accident Type:** T-bone
+3.  **Person Injury:** yes
+4.  **Need for ambulance:** yes
+5.  **Need for firetruck:** no
+6.  **Need for Police:** yes
+7.  **Types of vehicles involved:** Car and Motorcycle
+8.  **Fire:** no
+9.  **Day/night and weather:** Day, clear
+10. **Low Res/Bad Footage:** yes
+
+
